@@ -1,0 +1,10 @@
+tmp-self-check-output/
+node_modules/
+.agents/
+.claude/
+skills-lock.json
+.agents/
+.claude/
+skills-lock.json
+.DS_Store
+Thumbs.db

@@ -1,0 +1,52 @@
+name: Scheduled GitHub Trending Analysis
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      period:
+        description: '分析周期 (daily/weekly/monthly/all)'
+        required: false
+        default: 'all'
+      date:
+        description: '报告日期 (YYYY-MM-DD)，留空使用当天'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Trending Analysis
+        run: |
+          PERIOD="${{ github.event.inputs.period || 'all' }}"
+          DATE_ARG=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            DATE_ARG="--date ${{ github.event.inputs.date }}"
+          fi
+          node scripts/run-analysis.mjs --period "$PERIOD" $DATE_ARG
+
+      - name: Commit Reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/github-trending/ || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(trending): scheduled analysis $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -1,0 +1,504 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 49060,
+    "forks": 5478,
+    "deltaStars": 4758,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      }
+    ],
+    "trendingSnippet": "Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 49,060\n\n 5,478\n\n Built by\n\n 4,758 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "NVIDIA",
+    "name": "OpenShell",
+    "fullName": "NVIDIA/OpenShell",
+    "projectLink": "https://github.com/NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "stars": 10951,
+    "forks": 1442,
+    "deltaStars": 990,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "drew",
+        "profile": "https://github.com/drew"
+      },
+      {
+        "login": "johntmyers",
+        "profile": "https://github.com/johntmyers"
+      },
+      {
+        "login": "pimlock",
+        "profile": "https://github.com/pimlock"
+      },
+      {
+        "login": "miyoungc",
+        "profile": "https://github.com/miyoungc"
+      },
+      {
+        "login": "elezar",
+        "profile": "https://github.com/elezar"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NVIDIA /\n\n OpenShell\n\n OpenShell is the safe, private runtime for autonomous AI agents.\n\n Rust\n\n 10,951\n\n 1,442\n\n Built by\n\n 990 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "vectorize-io",
+    "name": "hindsight",
+    "fullName": "vectorize-io/hindsight",
+    "projectLink": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "stars": 43240,
+    "forks": 5812,
+    "deltaStars": 2575,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "nicoloboschi",
+        "profile": "https://github.com/nicoloboschi"
+      },
+      {
+        "login": "benfrank241",
+        "profile": "https://github.com/benfrank241"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "r266-tech",
+        "profile": "https://github.com/r266-tech"
+      },
+      {
+        "login": "cdbartholomew",
+        "profile": "https://github.com/cdbartholomew"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vectorize-io /\n\n hindsight\n\n Hindsight: Agent Memory That Learns\n\n Python\n\n 43,240\n\n 5,812\n\n Built by\n\n 2,575 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "paperclipai",
+    "name": "paperclip",
+    "fullName": "paperclipai/paperclip",
+    "projectLink": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars": 94799,
+    "forks": 16093,
+    "deltaStars": 2458,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cryppadotta",
+        "profile": "https://github.com/cryppadotta"
+      },
+      {
+        "login": "Paperclip-Paperclip",
+        "profile": "https://github.com/Paperclip-Paperclip"
+      },
+      {
+        "login": "devinfoley",
+        "profile": "https://github.com/devinfoley"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "nickyleach",
+        "profile": "https://github.com/nickyleach"
+      }
+    ],
+    "trendingSnippet": "Star\n\n paperclipai /\n\n paperclip\n\n The open-source app everyone uses to manage agents at work\n\n TypeScript\n\n 94,799\n\n 16,093\n\n Built by\n\n 2,458 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "t8y2",
+    "name": "dbx",
+    "fullName": "t8y2/dbx",
+    "projectLink": "https://github.com/t8y2/dbx",
+    "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理...",
+    "language": "Rust",
+    "stars": 22517,
+    "forks": 2106,
+    "deltaStars": 232,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "t8y2",
+        "profile": "https://github.com/t8y2"
+      },
+      {
+        "login": "zipg",
+        "profile": "https://github.com/zipg"
+      },
+      {
+        "login": "eryajf",
+        "profile": "https://github.com/eryajf"
+      },
+      {
+        "login": "q396921921",
+        "profile": "https://github.com/q396921921"
+      }
+    ],
+    "trendingSnippet": "Star\n\n t8y2 /\n\n dbx\n\n 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。\n\n Rust\n\n 22,517\n\n 2,106\n\n Built by\n\n 232 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "mvschwarz",
+    "name": "openrig",
+    "fullName": "mvschwarz/openrig",
+    "projectLink": "https://github.com/mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "language": "TypeScript",
+    "stars": 2589,
+    "forks": 182,
+    "deltaStars": 737,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mvschwarz",
+        "profile": "https://github.com/mvschwarz"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mattik",
+        "profile": "https://github.com/mattik"
+      },
+      {
+        "login": "dajiaohuang",
+        "profile": "https://github.com/dajiaohuang"
+      },
+      {
+        "login": "mvdpoel",
+        "profile": "https://github.com/mvdpoel"
+      }
+    ],
+    "trendingSnippet": "Star\n\n mvschwarz /\n\n openrig\n\n Multi-agent harness that runs Claude Code and Codex together as one system\n\n TypeScript\n\n 2,589\n\n 182\n\n Built by\n\n 737 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "oblien",
+    "name": "openship",
+    "fullName": "oblien/openship",
+    "projectLink": "https://github.com/oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "language": "TypeScript",
+    "stars": 14038,
+    "forks": 1255,
+    "deltaStars": 437,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Hydralerne",
+        "profile": "https://github.com/Hydralerne"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Rish-it",
+        "profile": "https://github.com/Rish-it"
+      },
+      {
+        "login": "shuvamk",
+        "profile": "https://github.com/shuvamk"
+      },
+      {
+        "login": "DiogoDuart3",
+        "profile": "https://github.com/DiogoDuart3"
+      }
+    ],
+    "trendingSnippet": "Star\n\n oblien /\n\n openship\n\n Self-hosted deployment platform\n\n TypeScript\n\n 14,038\n\n 1,255\n\n Built by\n\n 437 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "averygan",
+    "name": "reclip",
+    "fullName": "averygan/reclip",
+    "projectLink": "https://github.com/averygan/reclip",
+    "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "language": "HTML",
+    "stars": 10377,
+    "forks": 1550,
+    "deltaStars": 113,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "averygan",
+        "profile": "https://github.com/averygan"
+      },
+      {
+        "login": "jouls0217",
+        "profile": "https://github.com/jouls0217"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "AmanoSpica",
+        "profile": "https://github.com/AmanoSpica"
+      }
+    ],
+    "trendingSnippet": "Star\n\n averygan /\n\n reclip\n\n Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.\n\n HTML\n\n 10,377\n\n 1,550\n\n Built by\n\n 113 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "cs341-illinois",
+    "name": "coursebook",
+    "fullName": "cs341-illinois/coursebook",
+    "projectLink": "https://github.com/cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "language": "TeX",
+    "stars": 3217,
+    "forks": 280,
+    "deltaStars": 572,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "bhuvy2",
+        "profile": "https://github.com/bhuvy2"
+      },
+      {
+        "login": "angrave",
+        "profile": "https://github.com/angrave"
+      },
+      {
+        "login": "PradyumnaShome",
+        "profile": "https://github.com/PradyumnaShome"
+      },
+      {
+        "login": "ekcom",
+        "profile": "https://github.com/ekcom"
+      },
+      {
+        "login": "aneeshdurg",
+        "profile": "https://github.com/aneeshdurg"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cs341-illinois /\n\n coursebook\n\n Open Source Introductory Systems Programming Textbook for the University of Illinois\n\n TeX\n\n 3,217\n\n 280\n\n Built by\n\n 572 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "rohitg00",
+    "name": "ai-engineering-from-scratch",
+    "fullName": "rohitg00/ai-engineering-from-scratch",
+    "projectLink": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars": 61748,
+    "forks": 10566,
+    "deltaStars": 786,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rohitg00",
+        "profile": "https://github.com/rohitg00"
+      },
+      {
+        "login": "abhinav-m22",
+        "profile": "https://github.com/abhinav-m22"
+      },
+      {
+        "login": "thereisnotime",
+        "profile": "https://github.com/thereisnotime"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n rohitg00 /\n\n ai-engineering-from-scratch\n\n Learn it. Build it. Ship it for others.\n\n Python\n\n 61,748\n\n 10,566\n\n Built by\n\n 786 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "VectifyAI",
+    "name": "PageIndex",
+    "fullName": "VectifyAI/PageIndex",
+    "projectLink": "https://github.com/VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "language": "Python",
+    "stars": 37662,
+    "forks": 3277,
+    "deltaStars": 835,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rejojer",
+        "profile": "https://github.com/rejojer"
+      },
+      {
+        "login": "zmtomorrow",
+        "profile": "https://github.com/zmtomorrow"
+      },
+      {
+        "login": "BukeLy",
+        "profile": "https://github.com/BukeLy"
+      },
+      {
+        "login": "S3DFX-CYBER",
+        "profile": "https://github.com/S3DFX-CYBER"
+      },
+      {
+        "login": "KylinMountain",
+        "profile": "https://github.com/KylinMountain"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n VectifyAI /\n\n PageIndex\n\n 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG\n\n Python\n\n 37,662\n\n 3,277\n\n Built by\n\n 835 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "willfaust",
+    "name": "Madeira",
+    "fullName": "willfaust/Madeira",
+    "projectLink": "https://github.com/willfaust/Madeira",
+    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "language": "C",
+    "stars": 1150,
+    "forks": 192,
+    "deltaStars": 81,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "willfaust",
+        "profile": "https://github.com/willfaust"
+      },
+      {
+        "login": "125hz",
+        "profile": "https://github.com/125hz"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Star\n\n willfaust /\n\n Madeira\n\n Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT\n\n C\n\n 1,150\n\n 192\n\n Built by\n\n 81 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "dream-num",
+    "name": "univer",
+    "fullName": "dream-num/univer",
+    "projectLink": "https://github.com/dream-num/univer",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "stars": 22000,
+    "forks": 1860,
+    "deltaStars": 696,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jikkai",
+        "profile": "https://github.com/jikkai"
+      },
+      {
+        "login": "DR-Univer",
+        "profile": "https://github.com/DR-Univer"
+      },
+      {
+        "login": "wzhudev",
+        "profile": "https://github.com/wzhudev"
+      },
+      {
+        "login": "Dushusir",
+        "profile": "https://github.com/Dushusir"
+      },
+      {
+        "login": "wpxp123456",
+        "profile": "https://github.com/wpxp123456"
+      }
+    ],
+    "trendingSnippet": "Star\n\n dream-num /\n\n univer\n\n The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\n\n TypeScript\n\n 22,000\n\n 1,860\n\n Built by\n\n 696 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 14,
+    "owner": "rakyll",
+    "name": "hey",
+    "fullName": "rakyll/hey",
+    "projectLink": "https://github.com/rakyll/hey",
+    "description": "HTTP load generator, ApacheBench (ab) replacement",
+    "language": "Go",
+    "stars": 20550,
+    "forks": 1316,
+    "deltaStars": 34,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rakyll",
+        "profile": "https://github.com/rakyll"
+      },
+      {
+        "login": "mdakin",
+        "profile": "https://github.com/mdakin"
+      },
+      {
+        "login": "jronak",
+        "profile": "https://github.com/jronak"
+      },
+      {
+        "login": "pasc",
+        "profile": "https://github.com/pasc"
+      },
+      {
+        "login": "keramidasceid",
+        "profile": "https://github.com/keramidasceid"
+      }
+    ],
+    "trendingSnippet": "Star\n\n rakyll /\n\n hey\n\n HTTP load generator, ApacheBench (ab) replacement\n\n Go\n\n 20,550\n\n 1,316\n\n Built by\n\n 34 stars today"
+  }
+]

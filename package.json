@@ -1,0 +1,29 @@
+{
+  "name": "github-trending-analyze",
+  "version": "1.0.0",
+  "description": "Scheduler-定时任务抓取与分析 GitHub 热门：定时抓取 GitHub Trending daily/weekly/monthly 榜单，生成中文日报与同步 dashboard",
+  "type": "module",
+  "main": "scripts/run-analysis.mjs",
+  "scripts": {
+    "analyze": "node scripts/run-analysis.mjs --period all",
+    "analyze:daily": "node scripts/run-analysis.mjs --period daily",
+    "analyze:weekly": "node scripts/run-analysis.mjs --period weekly",
+    "analyze:monthly": "node scripts/run-analysis.mjs --period monthly",
+    "schedule": "node scripts/scheduler.mjs",
+    "test": "node --test scripts/analysis-core.test.mjs scripts/dashboard/dashboard-data.test.mjs scripts/dashboard/dashboard-history.test.mjs scripts/dashboard/dashboard-render.test.mjs",
+    "self-check": "node scripts/self-check.mjs"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "scheduler",
+    "cron",
+    "analysis",
+    "dashboard",
+    "chinese-report"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
