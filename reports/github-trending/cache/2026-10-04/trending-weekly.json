@@ -1,0 +1,669 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "paperclipai",
+    "name": "paperclip",
+    "fullName": "paperclipai/paperclip",
+    "projectLink": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars": 96776,
+    "forks": 16387,
+    "deltaStars": 10722,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cryppadotta",
+        "profile": "https://github.com/cryppadotta"
+      },
+      {
+        "login": "Paperclip-Paperclip",
+        "profile": "https://github.com/Paperclip-Paperclip"
+      },
+      {
+        "login": "devinfoley",
+        "profile": "https://github.com/devinfoley"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "nickyleach",
+        "profile": "https://github.com/nickyleach"
+      }
+    ],
+    "trendingSnippet": "Star\n\n paperclipai /\n\n paperclip\n\n The open-source app everyone uses to manage agents at work\n\n TypeScript\n\n 96,776\n\n 16,387\n\n Built by\n\n 10,722 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "vectorize-io",
+    "name": "hindsight",
+    "fullName": "vectorize-io/hindsight",
+    "projectLink": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "stars": 45137,
+    "forks": 5896,
+    "deltaStars": 14507,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "nicoloboschi",
+        "profile": "https://github.com/nicoloboschi"
+      },
+      {
+        "login": "benfrank241",
+        "profile": "https://github.com/benfrank241"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cdbartholomew",
+        "profile": "https://github.com/cdbartholomew"
+      },
+      {
+        "login": "r266-tech",
+        "profile": "https://github.com/r266-tech"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vectorize-io /\n\n hindsight\n\n Hindsight: Agent Memory That Learns\n\n Python\n\n 45,137\n\n 5,896\n\n Built by\n\n 14,507 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 52641,
+    "forks": 5867,
+    "deltaStars": 16775,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      }
+    ],
+    "trendingSnippet": "Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 52,641\n\n 5,867\n\n Built by\n\n 16,775 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars": 75384,
+    "forks": 4518,
+    "deltaStars": 3311,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design language that makes your AI harness better at design.\n\n JavaScript\n\n 75,384\n\n 4,518\n\n Built by\n\n 3,311 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "rohitg00",
+    "name": "ai-engineering-from-scratch",
+    "fullName": "rohitg00/ai-engineering-from-scratch",
+    "projectLink": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars": 63207,
+    "forks": 10806,
+    "deltaStars": 5059,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "rohitg00",
+        "profile": "https://github.com/rohitg00"
+      },
+      {
+        "login": "abhinav-m22",
+        "profile": "https://github.com/abhinav-m22"
+      },
+      {
+        "login": "thereisnotime",
+        "profile": "https://github.com/thereisnotime"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n rohitg00 /\n\n ai-engineering-from-scratch\n\n Learn it. Build it. Ship it for others.\n\n Python\n\n 63,207\n\n 10,806\n\n Built by\n\n 5,059 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 56328,
+    "forks": 5062,
+    "deltaStars": 3011,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n Write HTML. Render video. Built for agents.\n\n TypeScript\n\n 56,328\n\n 5,062\n\n Built by\n\n 3,011 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "vercel",
+    "name": "next.js",
+    "fullName": "vercel/next.js",
+    "projectLink": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stars": 143089,
+    "forks": 33787,
+    "deltaStars": 678,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ijjk",
+        "profile": "https://github.com/ijjk"
+      },
+      {
+        "login": "timneutkens",
+        "profile": "https://github.com/timneutkens"
+      },
+      {
+        "login": "sokra",
+        "profile": "https://github.com/sokra"
+      },
+      {
+        "login": "vercel-release-bot",
+        "profile": "https://github.com/vercel-release-bot"
+      },
+      {
+        "login": "huozhi",
+        "profile": "https://github.com/huozhi"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel /\n\n next.js\n\n The React Framework\n\n JavaScript\n\n 143,089\n\n 33,787\n\n Built by\n\n 678 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "Effect-TS",
+    "name": "effect",
+    "fullName": "Effect-TS/effect",
+    "projectLink": "https://github.com/Effect-TS/effect",
+    "description": "Build production-ready applications in TypeScript",
+    "language": "TypeScript",
+    "stars": 16841,
+    "forks": 814,
+    "deltaStars": 466,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mikearnaldi",
+        "profile": "https://github.com/mikearnaldi"
+      },
+      {
+        "login": "tim-smart",
+        "profile": "https://github.com/tim-smart"
+      },
+      {
+        "login": "gcanti",
+        "profile": "https://github.com/gcanti"
+      },
+      {
+        "login": "fubhy",
+        "profile": "https://github.com/fubhy"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Effect-TS /\n\n effect\n\n Build production-ready applications in TypeScript\n\n TypeScript\n\n 16,841\n\n 814\n\n Built by\n\n 466 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "alirezarezvani",
+    "name": "claude-skills",
+    "fullName": "alirezarezvani/claude-skills",
+    "projectLink": "https://github.com/alirezarezvani/claude-skills",
+    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marke...",
+    "language": "Python",
+    "stars": 27497,
+    "forks": 3875,
+    "deltaStars": 948,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "alirezarezvani",
+        "profile": "https://github.com/alirezarezvani"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "olgasafonova",
+        "profile": "https://github.com/olgasafonova"
+      },
+      {
+        "login": "fernandezbaptiste",
+        "profile": "https://github.com/fernandezbaptiste"
+      },
+      {
+        "login": "ikala-shawn",
+        "profile": "https://github.com/ikala-shawn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n alirezarezvani /\n\n claude-skills\n\n 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.\n\n Python\n\n 27,497\n\n 3,875\n\n Built by\n\n 948 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "flutter",
+    "name": "flutter",
+    "fullName": "flutter/flutter",
+    "projectLink": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stars": 179311,
+    "forks": 32948,
+    "deltaStars": 266,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "skia-flutter-autoroll",
+        "profile": "https://github.com/skia-flutter-autoroll"
+      },
+      {
+        "login": "engine-flutter-autoroll",
+        "profile": "https://github.com/engine-flutter-autoroll"
+      },
+      {
+        "login": "abarth",
+        "profile": "https://github.com/abarth"
+      },
+      {
+        "login": "Hixie",
+        "profile": "https://github.com/Hixie"
+      },
+      {
+        "login": "jason-simmons",
+        "profile": "https://github.com/jason-simmons"
+      }
+    ],
+    "trendingSnippet": "Star\n\n flutter /\n\n flutter\n\n Flutter makes it easy and fast to build beautiful apps for mobile and beyond\n\n Dart\n\n 179,311\n\n 32,948\n\n Built by\n\n 266 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "Panniantong",
+    "name": "Agent-Reach",
+    "fullName": "Panniantong/Agent-Reach",
+    "projectLink": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "stars": 89890,
+    "forks": 7907,
+    "deltaStars": 3952,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "Panniantong",
+        "profile": "https://github.com/Panniantong"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "nyxst4ck",
+        "profile": "https://github.com/nyxst4ck"
+      },
+      {
+        "login": "kadaliao",
+        "profile": "https://github.com/kadaliao"
+      },
+      {
+        "login": "hymansun",
+        "profile": "https://github.com/hymansun"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Panniantong /\n\n Agent-Reach\n\n Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\n\n Python\n\n 89,890\n\n 7,907\n\n Built by\n\n 3,952 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 12,
+    "owner": "TencentCloud",
+    "name": "Octop",
+    "fullName": "TencentCloud/Octop",
+    "projectLink": "https://github.com/TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "stars": 6611,
+    "forks": 813,
+    "deltaStars": 1476,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jubaoliang-tencent",
+        "profile": "https://github.com/jubaoliang-tencent"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "jubaoliang",
+        "profile": "https://github.com/jubaoliang"
+      },
+      {
+        "login": "liukewia",
+        "profile": "https://github.com/liukewia"
+      },
+      {
+        "login": "huangcheng",
+        "profile": "https://github.com/huangcheng"
+      }
+    ],
+    "trendingSnippet": "Star\n\n TencentCloud /\n\n Octop\n\n A smarter, self-hosted AI assistant — multi-user, multi-agent.\n\n Python\n\n 6,611\n\n 813\n\n Built by\n\n 1,476 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 13,
+    "owner": "tile-ai",
+    "name": "tilelang",
+    "fullName": "tile-ai/tilelang",
+    "projectLink": "https://github.com/tile-ai/tilelang",
+    "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "language": "Python",
+    "stars": 8295,
+    "forks": 835,
+    "deltaStars": 800,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "LeiWang1999",
+        "profile": "https://github.com/LeiWang1999"
+      },
+      {
+        "login": "chengyupku",
+        "profile": "https://github.com/chengyupku"
+      },
+      {
+        "login": "SiriusNEO",
+        "profile": "https://github.com/SiriusNEO"
+      },
+      {
+        "login": "Rachmanino",
+        "profile": "https://github.com/Rachmanino"
+      },
+      {
+        "login": "xwhzz",
+        "profile": "https://github.com/xwhzz"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tile-ai /\n\n tilelang\n\n Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels\n\n Python\n\n 8,295\n\n 835\n\n Built by\n\n 800 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 14,
+    "owner": "longbridge",
+    "name": "gpui-kit",
+    "fullName": "longbridge/gpui-kit",
+    "projectLink": "https://github.com/longbridge/gpui-kit",
+    "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+    "language": "Rust",
+    "stars": 15864,
+    "forks": 975,
+    "deltaStars": 960,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "huacnlee",
+        "profile": "https://github.com/huacnlee"
+      },
+      {
+        "login": "madcodelife",
+        "profile": "https://github.com/madcodelife"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      },
+      {
+        "login": "ylinwind",
+        "profile": "https://github.com/ylinwind"
+      }
+    ],
+    "trendingSnippet": "Star\n\n longbridge /\n\n gpui-kit\n\n Rust GUI components for building fantastic cross-platform desktop application by using GPUI.\n\n Rust\n\n 15,864\n\n 975\n\n Built by\n\n 960 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 15,
+    "owner": "pytorch",
+    "name": "pytorch",
+    "fullName": "pytorch/pytorch",
+    "projectLink": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "stars": 103700,
+    "forks": 31267,
+    "deltaStars": 346,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "pytorchmergebot",
+        "profile": "https://github.com/pytorchmergebot"
+      },
+      {
+        "login": "malfet",
+        "profile": "https://github.com/malfet"
+      },
+      {
+        "login": "ezyang",
+        "profile": "https://github.com/ezyang"
+      },
+      {
+        "login": "zou3519",
+        "profile": "https://github.com/zou3519"
+      },
+      {
+        "login": "cyyever",
+        "profile": "https://github.com/cyyever"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pytorch /\n\n pytorch\n\n Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\n Python\n\n 103,700\n\n 31,267\n\n Built by\n\n 346 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 16,
+    "owner": "harry0703",
+    "name": "MoneyPrinterTurbo",
+    "fullName": "harry0703/MoneyPrinterTurbo",
+    "projectLink": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "language": "Python",
+    "stars": 128275,
+    "forks": 20071,
+    "deltaStars": 2324,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "harry0703",
+        "profile": "https://github.com/harry0703"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "c020627",
+        "profile": "https://github.com/c020627"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "yyhhyyyyyy",
+        "profile": "https://github.com/yyhhyyyyyy"
+      }
+    ],
+    "trendingSnippet": "Star\n\n harry0703 /\n\n MoneyPrinterTurbo\n\n 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n Python\n\n 128,275\n\n 20,071\n\n Built by\n\n 2,324 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 17,
+    "owner": "pablostanley",
+    "name": "yoinks",
+    "fullName": "pablostanley/yoinks",
+    "projectLink": "https://github.com/pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "language": "TypeScript",
+    "stars": 3916,
+    "forks": 341,
+    "deltaStars": 1917,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "pablostanley",
+        "profile": "https://github.com/pablostanley"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pablostanley /\n\n yoinks\n\n yoink any video from your terminal. no shady ads.\n\n TypeScript\n\n 3,916\n\n 341\n\n Built by\n\n 1,917 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 18,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 3281,
+    "forks": 281,
+    "deltaStars": 1820,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "SamG-Coder",
+        "profile": "https://github.com/SamG-Coder"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "STL1te",
+        "profile": "https://github.com/STL1te"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 3,281\n\n 281\n\n Built by\n\n 1,820 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 19,
+    "owner": "HunxByts",
+    "name": "GhostTrack",
+    "fullName": "HunxByts/GhostTrack",
+    "projectLink": "https://github.com/HunxByts/GhostTrack",
+    "description": "Useful tool to track location or mobile number",
+    "language": "Python",
+    "stars": 16851,
+    "forks": 2299,
+    "deltaStars": 1638,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "HunxByts",
+        "profile": "https://github.com/HunxByts"
+      },
+      {
+        "login": "bakaemon",
+        "profile": "https://github.com/bakaemon"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HunxByts /\n\n GhostTrack\n\n Useful tool to track location or mobile number\n\n Python\n\n 16,851\n\n 2,299\n\n Built by\n\n 1,638 stars this week"
+  }
+]
