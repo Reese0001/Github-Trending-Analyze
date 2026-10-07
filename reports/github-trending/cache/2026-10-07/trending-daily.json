@@ -1,0 +1,414 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "tester-army",
+    "name": "e2e",
+    "fullName": "tester-army/e2e",
+    "projectLink": "https://github.com/tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "language": "TypeScript",
+    "stars": 6434,
+    "forks": 289,
+    "deltaStars": 1725,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "okwasniewski",
+        "profile": "https://github.com/okwasniewski"
+      },
+      {
+        "login": "kacperkapusciak",
+        "profile": "https://github.com/kacperkapusciak"
+      },
+      {
+        "login": "szymonrybczak",
+        "profile": "https://github.com/szymonrybczak"
+      },
+      {
+        "login": "DeryFerd",
+        "profile": "https://github.com/DeryFerd"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tester-army /\n\n e2e\n\n Next generation e2e testing framework for web and mobile apps.\n\n TypeScript\n\n 6,434\n\n 289\n\n Built by\n\n 1,725 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 278228,
+    "forks": 23298,
+    "deltaStars": 889,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 278,228\n\n 23,298\n\n Built by\n\n 889 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "earthtojake",
+    "name": "text-to-cad",
+    "fullName": "earthtojake/text-to-cad",
+    "projectLink": "https://github.com/earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "stars": 18029,
+    "forks": 1805,
+    "deltaStars": 619,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "earthtojake",
+        "profile": "https://github.com/earthtojake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "warun7",
+        "profile": "https://github.com/warun7"
+      }
+    ],
+    "trendingSnippet": "Star\n\n earthtojake /\n\n text-to-cad\n\n Give your agent CAD superpowers.\n\n Python\n\n 18,029\n\n 1,805\n\n Built by\n\n 619 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 6712,
+    "forks": 500,
+    "deltaStars": 949,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "SamG-Coder",
+        "profile": "https://github.com/SamG-Coder"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 6,712\n\n 500\n\n Built by\n\n 949 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars": 77746,
+    "forks": 4630,
+    "deltaStars": 616,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design language that makes your AI harness better at design.\n\n JavaScript\n\n 77,746\n\n 4,630\n\n Built by\n\n 616 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "thedotmack",
+    "name": "claude-mem",
+    "fullName": "thedotmack/claude-mem",
+    "projectLink": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+    "language": "TypeScript",
+    "stars": 97214,
+    "forks": 8567,
+    "deltaStars": 534,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "thedotmack",
+        "profile": "https://github.com/thedotmack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "rodboev",
+        "profile": "https://github.com/rodboev"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n thedotmack /\n\n claude-mem\n\n Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\n TypeScript\n\n 97,214\n\n 8,567\n\n Built by\n\n 534 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "ayghri",
+    "name": "i-have-adhd",
+    "fullName": "ayghri/i-have-adhd",
+    "projectLink": "https://github.com/ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars": 54460,
+    "forks": 3128,
+    "deltaStars": 326,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ayghri",
+        "profile": "https://github.com/ayghri"
+      },
+      {
+        "login": "thejesh23",
+        "profile": "https://github.com/thejesh23"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "SillyDark",
+        "profile": "https://github.com/SillyDark"
+      },
+      {
+        "login": "commie70",
+        "profile": "https://github.com/commie70"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ayghri /\n\n i-have-adhd\n\n A skill to stop your coding agent from burying the answer. ADHD-friendly output.\n\n Python\n\n 54,460\n\n 3,128\n\n Built by\n\n 326 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 9765,
+    "forks": 1087,
+    "deltaStars": 2956,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 9,765\n\n 1,087\n\n Built by\n\n 2,956 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "deepseek-ai",
+    "name": "DeepGEMM",
+    "fullName": "deepseek-ai/DeepGEMM",
+    "projectLink": "https://github.com/deepseek-ai/DeepGEMM",
+    "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+    "language": "Cuda",
+    "stars": 8733,
+    "forks": 1376,
+    "deltaStars": 199,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "LyricZhao",
+        "profile": "https://github.com/LyricZhao"
+      },
+      {
+        "login": "soundOfDestiny",
+        "profile": "https://github.com/soundOfDestiny"
+      },
+      {
+        "login": "zheanxu",
+        "profile": "https://github.com/zheanxu"
+      },
+      {
+        "login": "RayWang96",
+        "profile": "https://github.com/RayWang96"
+      },
+      {
+        "login": "ko3n1g",
+        "profile": "https://github.com/ko3n1g"
+      }
+    ],
+    "trendingSnippet": "Star\n\n deepseek-ai /\n\n DeepGEMM\n\n DeepGEMM: clean and efficient BLAS kernel library on GPU\n\n Cuda\n\n 8,733\n\n 1,376\n\n Built by\n\n 199 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "msitarzewski",
+    "name": "agency-agents",
+    "fullName": "msitarzewski/agency-agents",
+    "projectLink": "https://github.com/msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliver...",
+    "language": "Shell",
+    "stars": 157871,
+    "forks": 25451,
+    "deltaStars": 623,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "msitarzewski",
+        "profile": "https://github.com/msitarzewski"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "epowelljr",
+        "profile": "https://github.com/epowelljr"
+      },
+      {
+        "login": "Hotragn",
+        "profile": "https://github.com/Hotragn"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n msitarzewski /\n\n agency-agents\n\n A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n\n Shell\n\n 157,871\n\n 25,451\n\n Built by\n\n 623 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "DuarteSantos8",
+    "name": "openGym",
+    "fullName": "DuarteSantos8/openGym",
+    "projectLink": "https://github.com/DuarteSantos8/openGym",
+    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your...",
+    "language": "JavaScript",
+    "stars": 5791,
+    "forks": 794,
+    "deltaStars": 1419,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "DuarteSantos8",
+        "profile": "https://github.com/DuarteSantos8"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kurktchiev",
+        "profile": "https://github.com/kurktchiev"
+      },
+      {
+        "login": "sgoendoer",
+        "profile": "https://github.com/sgoendoer"
+      },
+      {
+        "login": "Space-Hermes",
+        "profile": "https://github.com/Space-Hermes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n DuarteSantos8 /\n\n openGym\n\n Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.\n\n JavaScript\n\n 5,791\n\n 794\n\n Built by\n\n 1,419 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 44093,
+    "forks": 2843,
+    "deltaStars": 228,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 44,093\n\n 2,843\n\n Built by\n\n 228 stars today"
+  }
+]
