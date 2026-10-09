@@ -1,0 +1,311 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 16239,
+    "forks": 1281,
+    "deltaStars": 4669,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "SamG-Coder",
+        "profile": "https://github.com/SamG-Coder"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 16,239\n\n 1,281\n\n Built by\n\n 4,669 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 46561,
+    "forks": 2957,
+    "deltaStars": 1160,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 46,561\n\n 2,957\n\n Built by\n\n 1,160 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 28427,
+    "forks": 3320,
+    "deltaStars": 7738,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 28,427\n\n 3,320\n\n Built by\n\n 7,738 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 281260,
+    "forks": 23569,
+    "deltaStars": 1774,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 281,260\n\n 23,569\n\n Built by\n\n 1,774 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "thedotmack",
+    "name": "claude-mem",
+    "fullName": "thedotmack/claude-mem",
+    "projectLink": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+    "language": "TypeScript",
+    "stars": 98576,
+    "forks": 8644,
+    "deltaStars": 670,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "thedotmack",
+        "profile": "https://github.com/thedotmack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "rodboev",
+        "profile": "https://github.com/rodboev"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n thedotmack /\n\n claude-mem\n\n Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\n TypeScript\n\n 98,576\n\n 8,644\n\n Built by\n\n 670 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "EpicGames",
+    "name": "raddebugger",
+    "fullName": "EpicGames/raddebugger",
+    "projectLink": "https://github.com/EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "language": "C",
+    "stars": 8147,
+    "forks": 391,
+    "deltaStars": 279,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ryanfleury",
+        "profile": "https://github.com/ryanfleury"
+      },
+      {
+        "login": "NikitaSmith057",
+        "profile": "https://github.com/NikitaSmith057"
+      },
+      {
+        "login": "mmozeiko",
+        "profile": "https://github.com/mmozeiko"
+      },
+      {
+        "login": "NikitaAtEpic",
+        "profile": "https://github.com/NikitaAtEpic"
+      },
+      {
+        "login": "andreymlv",
+        "profile": "https://github.com/andreymlv"
+      }
+    ],
+    "trendingSnippet": "Star\n\n EpicGames /\n\n raddebugger\n\n A native, user-mode, multi-process, graphical debugger.\n\n C\n\n 8,147\n\n 391\n\n Built by\n\n 279 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "anthropics",
+    "name": "knowledge-work-plugins",
+    "fullName": "anthropics/knowledge-work-plugins",
+    "projectLink": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 27686,
+    "forks": 3211,
+    "deltaStars": 392,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mattpic-ant",
+        "profile": "https://github.com/mattpic-ant"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n knowledge-work-plugins\n\n Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n Python\n\n 27,686\n\n 3,211\n\n Built by\n\n 392 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "storytold",
+    "name": "artcraft",
+    "fullName": "storytold/artcraft",
+    "projectLink": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 8292,
+    "forks": 1186,
+    "deltaStars": 2103,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "echelon",
+        "profile": "https://github.com/echelon"
+      },
+      {
+        "login": "bflatastic",
+        "profile": "https://github.com/bflatastic"
+      },
+      {
+        "login": "ArEnSc",
+        "profile": "https://github.com/ArEnSc"
+      },
+      {
+        "login": "wilwong",
+        "profile": "https://github.com/wilwong"
+      },
+      {
+        "login": "Quicksticks-oss",
+        "profile": "https://github.com/Quicksticks-oss"
+      }
+    ],
+    "trendingSnippet": "Star\n\n storytold /\n\n artcraft\n\n ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\n Rust\n\n 8,292\n\n 1,186\n\n Built by\n\n 2,103 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "liquidslr",
+    "name": "system-design-notes",
+    "fullName": "liquidslr/system-design-notes",
+    "projectLink": "https://github.com/liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "language": "",
+    "stars": 24746,
+    "forks": 4613,
+    "deltaStars": 393,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "liquidslr",
+        "profile": "https://github.com/liquidslr"
+      },
+      {
+        "login": "emmadonjo",
+        "profile": "https://github.com/emmadonjo"
+      },
+      {
+        "login": "stym01",
+        "profile": "https://github.com/stym01"
+      }
+    ],
+    "trendingSnippet": "Star\n\n liquidslr /\n\n system-design-notes\n\n Notes of the book System Desgin Interview - An Insider's Guide\n\n 24,746\n\n 4,613\n\n Built by\n\n 393 stars today"
+  }
+]

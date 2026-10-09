@@ -1,0 +1,381 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 16239,
+    "forks": 1281,
+    "deltaStars": 10243,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "SamG-Coder",
+        "profile": "https://github.com/SamG-Coder"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 16,239\n\n 1,281\n\n Built by\n\n 10,243 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "mvschwarz",
+    "name": "openrig",
+    "fullName": "mvschwarz/openrig",
+    "projectLink": "https://github.com/mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "language": "TypeScript",
+    "stars": 6184,
+    "forks": 451,
+    "deltaStars": 2693,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mvschwarz",
+        "profile": "https://github.com/mvschwarz"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "dajiaohuang",
+        "profile": "https://github.com/dajiaohuang"
+      },
+      {
+        "login": "Coder8124",
+        "profile": "https://github.com/Coder8124"
+      }
+    ],
+    "trendingSnippet": "Star\n\n mvschwarz /\n\n openrig\n\n Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.\n\n TypeScript\n\n 6,184\n\n 451\n\n Built by\n\n 2,693 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 59259,
+    "forks": 5280,
+    "deltaStars": 3996,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n Write HTML. Render video. Built for agents.\n\n TypeScript\n\n 59,259\n\n 5,280\n\n Built by\n\n 3,996 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "EpicGames",
+    "name": "raddebugger",
+    "fullName": "EpicGames/raddebugger",
+    "projectLink": "https://github.com/EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "language": "C",
+    "stars": 8147,
+    "forks": 391,
+    "deltaStars": 448,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ryanfleury",
+        "profile": "https://github.com/ryanfleury"
+      },
+      {
+        "login": "NikitaSmith057",
+        "profile": "https://github.com/NikitaSmith057"
+      },
+      {
+        "login": "mmozeiko",
+        "profile": "https://github.com/mmozeiko"
+      },
+      {
+        "login": "NikitaAtEpic",
+        "profile": "https://github.com/NikitaAtEpic"
+      },
+      {
+        "login": "andreymlv",
+        "profile": "https://github.com/andreymlv"
+      }
+    ],
+    "trendingSnippet": "Star\n\n EpicGames /\n\n raddebugger\n\n A native, user-mode, multi-process, graphical debugger.\n\n C\n\n 8,147\n\n 391\n\n Built by\n\n 448 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "cursor",
+    "name": "plugins",
+    "fullName": "cursor/plugins",
+    "projectLink": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 10412,
+    "forks": 986,
+    "deltaStars": 1109,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "poteto",
+        "profile": "https://github.com/poteto"
+      },
+      {
+        "login": "minupalaniappan",
+        "profile": "https://github.com/minupalaniappan"
+      },
+      {
+        "login": "ericzakariasson",
+        "profile": "https://github.com/ericzakariasson"
+      },
+      {
+        "login": "roshansada",
+        "profile": "https://github.com/roshansada"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cursor /\n\n plugins\n\n Cursor plugin specification and official plugins\n\n TypeScript\n\n 10,412\n\n 986\n\n Built by\n\n 1,109 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "thedotmack",
+    "name": "claude-mem",
+    "fullName": "thedotmack/claude-mem",
+    "projectLink": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+    "language": "TypeScript",
+    "stars": 98576,
+    "forks": 8644,
+    "deltaStars": 3153,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "thedotmack",
+        "profile": "https://github.com/thedotmack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "rodboev",
+        "profile": "https://github.com/rodboev"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n thedotmack /\n\n claude-mem\n\n Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\n TypeScript\n\n 98,576\n\n 8,644\n\n Built by\n\n 3,153 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 281260,
+    "forks": 23569,
+    "deltaStars": 7448,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 281,260\n\n 23,569\n\n Built by\n\n 7,448 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "Panniantong",
+    "name": "Agent-Reach",
+    "fullName": "Panniantong/Agent-Reach",
+    "projectLink": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "stars": 94238,
+    "forks": 8241,
+    "deltaStars": 6987,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "Panniantong",
+        "profile": "https://github.com/Panniantong"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "nyxst4ck",
+        "profile": "https://github.com/nyxst4ck"
+      },
+      {
+        "login": "kadaliao",
+        "profile": "https://github.com/kadaliao"
+      },
+      {
+        "login": "hymansun",
+        "profile": "https://github.com/hymansun"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Panniantong /\n\n Agent-Reach\n\n Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\n\n Python\n\n 94,238\n\n 8,241\n\n Built by\n\n 6,987 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "earthtojake",
+    "name": "text-to-cad",
+    "fullName": "earthtojake/text-to-cad",
+    "projectLink": "https://github.com/earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "stars": 18505,
+    "forks": 1835,
+    "deltaStars": 1898,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "earthtojake",
+        "profile": "https://github.com/earthtojake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "warun7",
+        "profile": "https://github.com/warun7"
+      }
+    ],
+    "trendingSnippet": "Star\n\n earthtojake /\n\n text-to-cad\n\n Give your agent CAD superpowers.\n\n Python\n\n 18,505\n\n 1,835\n\n Built by\n\n 1,898 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "DuarteSantos8",
+    "name": "openGym",
+    "fullName": "DuarteSantos8/openGym",
+    "projectLink": "https://github.com/DuarteSantos8/openGym",
+    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your...",
+    "language": "JavaScript",
+    "stars": 8079,
+    "forks": 1030,
+    "deltaStars": 6086,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "DuarteSantos8",
+        "profile": "https://github.com/DuarteSantos8"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kurktchiev",
+        "profile": "https://github.com/kurktchiev"
+      },
+      {
+        "login": "sgoendoer",
+        "profile": "https://github.com/sgoendoer"
+      },
+      {
+        "login": "Space-Hermes",
+        "profile": "https://github.com/Space-Hermes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n DuarteSantos8 /\n\n openGym\n\n Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.\n\n JavaScript\n\n 8,079\n\n 1,030\n\n Built by\n\n 6,086 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "pablostanley",
+    "name": "yoinks",
+    "fullName": "pablostanley/yoinks",
+    "projectLink": "https://github.com/pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "language": "TypeScript",
+    "stars": 5435,
+    "forks": 460,
+    "deltaStars": 2706,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "pablostanley",
+        "profile": "https://github.com/pablostanley"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pablostanley /\n\n yoinks\n\n yoink any video from your terminal. no shady ads.\n\n TypeScript\n\n 5,435\n\n 460\n\n Built by\n\n 2,706 stars this week"
+  }
+]
