@@ -1,0 +1,784 @@
+[
+  {
+    "period": "monthly",
+    "rank": 1,
+    "owner": "alibaba",
+    "name": "open-code-review",
+    "fullName": "alibaba/open-code-review",
+    "projectLink": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, X...",
+    "language": "Go",
+    "stars": 45328,
+    "forks": 3270,
+    "deltaStars": 23028,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "lizhengfeng101",
+        "profile": "https://github.com/lizhengfeng101"
+      },
+      {
+        "login": "wu21-web",
+        "profile": "https://github.com/wu21-web"
+      },
+      {
+        "login": "chethanuk",
+        "profile": "https://github.com/chethanuk"
+      },
+      {
+        "login": "stay-foolish-forever",
+        "profile": "https://github.com/stay-foolish-forever"
+      },
+      {
+        "login": "Qiyuanqiii",
+        "profile": "https://github.com/Qiyuanqiii"
+      }
+    ],
+    "trendingSnippet": "Star\n\n alibaba /\n\n open-code-review\n\n Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n Go\n\n 45,328\n\n 3,270\n\n Built by\n\n 23,028 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 2,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 56394,
+    "forks": 6324,
+    "deltaStars": 34560,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      }
+    ],
+    "trendingSnippet": "Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 56,394\n\n 6,324\n\n Built by\n\n 34,560 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 3,
+    "owner": "anthropics",
+    "name": "financial-services",
+    "fullName": "anthropics/financial-services",
+    "projectLink": "https://github.com/anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": 39183,
+    "forks": 5569,
+    "deltaStars": 4495,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "mihilmy",
+        "profile": "https://github.com/mihilmy"
+      },
+      {
+        "login": "cxyback",
+        "profile": "https://github.com/cxyback"
+      },
+      {
+        "login": "manar-ant",
+        "profile": "https://github.com/manar-ant"
+      },
+      {
+        "login": "tobinsouth",
+        "profile": "https://github.com/tobinsouth"
+      },
+      {
+        "login": "viveknair",
+        "profile": "https://github.com/viveknair"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n financial-services\n\n Python\n\n 39,183\n\n 5,569\n\n Built by\n\n 4,495 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 4,
+    "owner": "paperclipai",
+    "name": "paperclip",
+    "fullName": "paperclipai/paperclip",
+    "projectLink": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars": 99269,
+    "forks": 16753,
+    "deltaStars": 19137,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "cryppadotta",
+        "profile": "https://github.com/cryppadotta"
+      },
+      {
+        "login": "Paperclip-Paperclip",
+        "profile": "https://github.com/Paperclip-Paperclip"
+      },
+      {
+        "login": "devinfoley",
+        "profile": "https://github.com/devinfoley"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "nickyleach",
+        "profile": "https://github.com/nickyleach"
+      }
+    ],
+    "trendingSnippet": "Star\n\n paperclipai /\n\n paperclip\n\n The open-source app everyone uses to manage agents at work\n\n TypeScript\n\n 99,269\n\n 16,753\n\n Built by\n\n 19,137 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 5,
+    "owner": "affaan-m",
+    "name": "ECC",
+    "fullName": "affaan-m/ECC",
+    "projectLink": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 276026,
+    "forks": 41184,
+    "deltaStars": 22710,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "affaan-m",
+        "profile": "https://github.com/affaan-m"
+      },
+      {
+        "login": "haelyra",
+        "profile": "https://github.com/haelyra"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "pangerlkr",
+        "profile": "https://github.com/pangerlkr"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n affaan-m /\n\n ECC\n\n The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n JavaScript\n\n 276,026\n\n 41,184\n\n Built by\n\n 22,710 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 6,
+    "owner": "bilawalsidhu",
+    "name": "gods-eye-view",
+    "fullName": "bilawalsidhu/gods-eye-view",
+    "projectLink": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 49682,
+    "forks": 10040,
+    "deltaStars": 29212,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "samehkhamis",
+        "profile": "https://github.com/samehkhamis"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "asturksever",
+        "profile": "https://github.com/asturksever"
+      },
+      {
+        "login": "bilawalsidhu",
+        "profile": "https://github.com/bilawalsidhu"
+      },
+      {
+        "login": "manjunath22466",
+        "profile": "https://github.com/manjunath22466"
+      }
+    ],
+    "trendingSnippet": "Star\n\n bilawalsidhu /\n\n gods-eye-view\n\n A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\n JavaScript\n\n 49,682\n\n 10,040\n\n Built by\n\n 29,212 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 7,
+    "owner": "vectorize-io",
+    "name": "hindsight",
+    "fullName": "vectorize-io/hindsight",
+    "projectLink": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "stars": 47744,
+    "forks": 5980,
+    "deltaStars": 24617,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "nicoloboschi",
+        "profile": "https://github.com/nicoloboschi"
+      },
+      {
+        "login": "benfrank241",
+        "profile": "https://github.com/benfrank241"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cdbartholomew",
+        "profile": "https://github.com/cdbartholomew"
+      },
+      {
+        "login": "r266-tech",
+        "profile": "https://github.com/r266-tech"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vectorize-io /\n\n hindsight\n\n Hindsight: Agent Memory That Learns\n\n Python\n\n 47,744\n\n 5,980\n\n Built by\n\n 24,617 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 8,
+    "owner": "Tencent",
+    "name": "WeKnora",
+    "fullName": "Tencent/WeKnora",
+    "projectLink": "https://github.com/Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "stars": 32865,
+    "forks": 4367,
+    "deltaStars": 11118,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "lyingbug",
+        "profile": "https://github.com/lyingbug"
+      },
+      {
+        "login": "voidkey",
+        "profile": "https://github.com/voidkey"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "begoniezhao",
+        "profile": "https://github.com/begoniezhao"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Tencent /\n\n WeKnora\n\n Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.\n\n Go\n\n 32,865\n\n 4,367\n\n Built by\n\n 11,118 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 9,
+    "owner": "anthropics",
+    "name": "claude-code",
+    "fullName": "anthropics/claude-code",
+    "projectLink": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through nat...",
+    "language": "TypeScript",
+    "stars": 149891,
+    "forks": 25955,
+    "deltaStars": 6173,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "actions-user",
+        "profile": "https://github.com/actions-user"
+      },
+      {
+        "login": "poteat",
+        "profile": "https://github.com/poteat"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "bcherny",
+        "profile": "https://github.com/bcherny"
+      },
+      {
+        "login": "ant-kurt",
+        "profile": "https://github.com/ant-kurt"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-code\n\n Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\n\n TypeScript\n\n 149,891\n\n 25,955\n\n Built by\n\n 6,173 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 10,
+    "owner": "TencentCloud",
+    "name": "Octop",
+    "fullName": "TencentCloud/Octop",
+    "projectLink": "https://github.com/TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "stars": 8280,
+    "forks": 1003,
+    "deltaStars": 6720,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "jubaoliang-tencent",
+        "profile": "https://github.com/jubaoliang-tencent"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "jubaoliang",
+        "profile": "https://github.com/jubaoliang"
+      },
+      {
+        "login": "liukewia",
+        "profile": "https://github.com/liukewia"
+      },
+      {
+        "login": "huangcheng",
+        "profile": "https://github.com/huangcheng"
+      }
+    ],
+    "trendingSnippet": "Star\n\n TencentCloud /\n\n Octop\n\n A smarter, self-hosted AI assistant — multi-user, multi-agent.\n\n Python\n\n 8,280\n\n 1,003\n\n Built by\n\n 6,720 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 11,
+    "owner": "anthropics",
+    "name": "knowledge-work-plugins",
+    "fullName": "anthropics/knowledge-work-plugins",
+    "projectLink": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 28316,
+    "forks": 3250,
+    "deltaStars": 4131,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mattpic-ant",
+        "profile": "https://github.com/mattpic-ant"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n knowledge-work-plugins\n\n Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n Python\n\n 28,316\n\n 3,250\n\n Built by\n\n 4,131 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 12,
+    "owner": "agent-substrate",
+    "name": "substrate",
+    "fullName": "agent-substrate/substrate",
+    "projectLink": "https://github.com/agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "stars": 4713,
+    "forks": 536,
+    "deltaStars": 2879,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "BenTheElder",
+        "profile": "https://github.com/BenTheElder"
+      },
+      {
+        "login": "juli4n",
+        "profile": "https://github.com/juli4n"
+      },
+      {
+        "login": "HavenXia",
+        "profile": "https://github.com/HavenXia"
+      },
+      {
+        "login": "thockin",
+        "profile": "https://github.com/thockin"
+      },
+      {
+        "login": "LiorLieberman",
+        "profile": "https://github.com/LiorLieberman"
+      }
+    ],
+    "trendingSnippet": "Star\n\n agent-substrate /\n\n substrate\n\n Agent Substrate: the core system\n\n Go\n\n 4,713\n\n 536\n\n Built by\n\n 2,879 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 13,
+    "owner": "NVIDIA",
+    "name": "OpenShell",
+    "fullName": "NVIDIA/OpenShell",
+    "projectLink": "https://github.com/NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "stars": 15611,
+    "forks": 1749,
+    "deltaStars": 7118,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "drew",
+        "profile": "https://github.com/drew"
+      },
+      {
+        "login": "johntmyers",
+        "profile": "https://github.com/johntmyers"
+      },
+      {
+        "login": "pimlock",
+        "profile": "https://github.com/pimlock"
+      },
+      {
+        "login": "miyoungc",
+        "profile": "https://github.com/miyoungc"
+      },
+      {
+        "login": "elezar",
+        "profile": "https://github.com/elezar"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NVIDIA /\n\n OpenShell\n\n OpenShell is the safe, private runtime for autonomous AI agents.\n\n Rust\n\n 15,611\n\n 1,749\n\n Built by\n\n 7,118 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 14,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 59847,
+    "forks": 5342,
+    "deltaStars": 11576,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n Write HTML. Render video. Built for agents.\n\n TypeScript\n\n 59,847\n\n 5,342\n\n Built by\n\n 11,576 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 15,
+    "owner": "JustVugg",
+    "name": "colibri",
+    "fullName": "JustVugg/colibri",
+    "projectLink": "https://github.com/JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "stars": 40833,
+    "forks": 4483,
+    "deltaStars": 13755,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "JustVugg",
+        "profile": "https://github.com/JustVugg"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ZacharyZcR",
+        "profile": "https://github.com/ZacharyZcR"
+      },
+      {
+        "login": "monotophic",
+        "profile": "https://github.com/monotophic"
+      },
+      {
+        "login": "kreuzzelg",
+        "profile": "https://github.com/kreuzzelg"
+      }
+    ],
+    "trendingSnippet": "Star\n\n JustVugg /\n\n colibri\n\n Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\n\n C\n\n 40,833\n\n 4,483\n\n Built by\n\n 13,755 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 16,
+    "owner": "mksglu",
+    "name": "context-mode",
+    "fullName": "mksglu/context-mode",
+    "projectLink": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 25979,
+    "forks": 1875,
+    "deltaStars": 4398,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "mksglu",
+        "profile": "https://github.com/mksglu"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ipedro",
+        "profile": "https://github.com/ipedro"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mksglu /\n\n context-mode\n\n Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n TypeScript\n\n 25,979\n\n 1,875\n\n Built by\n\n 4,398 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 17,
+    "owner": "trycua",
+    "name": "cua",
+    "fullName": "trycua/cua",
+    "projectLink": "https://github.com/trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "Rust",
+    "stars": 29198,
+    "forks": 2064,
+    "deltaStars": 6877,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "f-trycua",
+        "profile": "https://github.com/f-trycua"
+      },
+      {
+        "login": "ddupont808",
+        "profile": "https://github.com/ddupont808"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "r33drichards",
+        "profile": "https://github.com/r33drichards"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n trycua /\n\n cua\n\n Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.\n\n Rust\n\n 29,198\n\n 2,064\n\n Built by\n\n 6,877 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 18,
+    "owner": "tashfeenahmed",
+    "name": "freellmapi",
+    "fullName": "tashfeenahmed/freellmapi",
+    "projectLink": "https://github.com/tashfeenahmed/freellmapi",
+    "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal exper...",
+    "language": "TypeScript",
+    "stars": 32573,
+    "forks": 4515,
+    "deltaStars": 7455,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "tashfeenahmed",
+        "profile": "https://github.com/tashfeenahmed"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "suantea",
+        "profile": "https://github.com/suantea"
+      },
+      {
+        "login": "OhOkThisIsFine",
+        "profile": "https://github.com/OhOkThisIsFine"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tashfeenahmed /\n\n freellmapi\n\n 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.\n\n TypeScript\n\n 32,573\n\n 4,515\n\n Built by\n\n 7,455 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 19,
+    "owner": "cursor",
+    "name": "plugins",
+    "fullName": "cursor/plugins",
+    "projectLink": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 10607,
+    "forks": 1001,
+    "deltaStars": 3503,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "poteto",
+        "profile": "https://github.com/poteto"
+      },
+      {
+        "login": "minupalaniappan",
+        "profile": "https://github.com/minupalaniappan"
+      },
+      {
+        "login": "ericzakariasson",
+        "profile": "https://github.com/ericzakariasson"
+      },
+      {
+        "login": "roshansada",
+        "profile": "https://github.com/roshansada"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cursor /\n\n plugins\n\n Cursor plugin specification and official plugins\n\n TypeScript\n\n 10,607\n\n 1,001\n\n Built by\n\n 3,503 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 20,
+    "owner": "addyosmani",
+    "name": "agent-skills",
+    "fullName": "addyosmani/agent-skills",
+    "projectLink": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 104047,
+    "forks": 10870,
+    "deltaStars": 11155,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "addyosmani",
+        "profile": "https://github.com/addyosmani"
+      },
+      {
+        "login": "nucliweb",
+        "profile": "https://github.com/nucliweb"
+      },
+      {
+        "login": "federicobartoli",
+        "profile": "https://github.com/federicobartoli"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      }
+    ],
+    "trendingSnippet": "Star\n\n addyosmani /\n\n agent-skills\n\n Production-grade engineering skills for AI coding agents.\n\n JavaScript\n\n 104,047\n\n 10,870\n\n Built by\n\n 11,155 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 21,
+    "owner": "DietrichGebert",
+    "name": "ponytail",
+    "fullName": "DietrichGebert/ponytail",
+    "projectLink": "https://github.com/DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 159709,
+    "forks": 8591,
+    "deltaStars": 27290,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "DietrichGebert",
+        "profile": "https://github.com/DietrichGebert"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      },
+      {
+        "login": "Lakshya77089",
+        "profile": "https://github.com/Lakshya77089"
+      },
+      {
+        "login": "dhedhialy",
+        "profile": "https://github.com/dhedhialy"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n DietrichGebert /\n\n ponytail\n\n Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n JavaScript\n\n 159,709\n\n 8,591\n\n Built by\n\n 27,290 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 22,
+    "owner": "max-sixty",
+    "name": "worktrunk",
+    "fullName": "max-sixty/worktrunk",
+    "projectLink": "https://github.com/max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "stars": 9137,
+    "forks": 328,
+    "deltaStars": 2301,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "max-sixty",
+        "profile": "https://github.com/max-sixty"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "worktrunk-bot",
+        "profile": "https://github.com/worktrunk-bot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n max-sixty /\n\n worktrunk\n\n Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\n Rust\n\n 9,137\n\n 328\n\n Built by\n\n 2,301 stars this month"
+  }
+]
