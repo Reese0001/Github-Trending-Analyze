@@ -1,0 +1,463 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 74237,
+    "forks": 15713,
+    "deltaStars": 25793,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 74,237\n\n 15,713\n\n Built by\n\n 25,793 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 27036,
+    "forks": 2268,
+    "deltaStars": 5805,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "SamG-Coder",
+        "profile": "https://github.com/SamG-Coder"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 27,036\n\n 2,268\n\n Built by\n\n 5,805 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "storytold",
+    "name": "artcraft",
+    "fullName": "storytold/artcraft",
+    "projectLink": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 14642,
+    "forks": 2312,
+    "deltaStars": 3222,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "echelon",
+        "profile": "https://github.com/echelon"
+      },
+      {
+        "login": "bflatastic",
+        "profile": "https://github.com/bflatastic"
+      },
+      {
+        "login": "ArEnSc",
+        "profile": "https://github.com/ArEnSc"
+      },
+      {
+        "login": "wilwong",
+        "profile": "https://github.com/wilwong"
+      },
+      {
+        "login": "Quicksticks-oss",
+        "profile": "https://github.com/Quicksticks-oss"
+      }
+    ],
+    "trendingSnippet": "Star\n\n storytold /\n\n artcraft\n\n ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\n Rust\n\n 14,642\n\n 2,312\n\n Built by\n\n 3,222 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 49018,
+    "forks": 3096,
+    "deltaStars": 1190,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 49,018\n\n 3,096\n\n Built by\n\n 1,190 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "mksglu",
+    "name": "context-mode",
+    "fullName": "mksglu/context-mode",
+    "projectLink": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 26345,
+    "forks": 1897,
+    "deltaStars": 178,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mksglu",
+        "profile": "https://github.com/mksglu"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ipedro",
+        "profile": "https://github.com/ipedro"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mksglu /\n\n context-mode\n\n Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n TypeScript\n\n 26,345\n\n 1,897\n\n Built by\n\n 178 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 284588,
+    "forks": 23816,
+    "deltaStars": 1736,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 284,588\n\n 23,816\n\n Built by\n\n 1,736 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "flutter",
+    "name": "flutter",
+    "fullName": "flutter/flutter",
+    "projectLink": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stars": 179543,
+    "forks": 33605,
+    "deltaStars": 88,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "skia-flutter-autoroll",
+        "profile": "https://github.com/skia-flutter-autoroll"
+      },
+      {
+        "login": "engine-flutter-autoroll",
+        "profile": "https://github.com/engine-flutter-autoroll"
+      },
+      {
+        "login": "abarth",
+        "profile": "https://github.com/abarth"
+      },
+      {
+        "login": "Hixie",
+        "profile": "https://github.com/Hixie"
+      },
+      {
+        "login": "jason-simmons",
+        "profile": "https://github.com/jason-simmons"
+      }
+    ],
+    "trendingSnippet": "Star\n\n flutter /\n\n flutter\n\n Flutter makes it easy and fast to build beautiful apps for mobile and beyond\n\n Dart\n\n 179,543\n\n 33,605\n\n Built by\n\n 88 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "tensorflow",
+    "name": "tensorflow",
+    "fullName": "tensorflow/tensorflow",
+    "projectLink": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "stars": 200739,
+    "forks": 78968,
+    "deltaStars": 26,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "tensorflower-gardener",
+        "profile": "https://github.com/tensorflower-gardener"
+      },
+      {
+        "login": "ezhulenev",
+        "profile": "https://github.com/ezhulenev"
+      },
+      {
+        "login": "akuegel",
+        "profile": "https://github.com/akuegel"
+      },
+      {
+        "login": "hawkinsp",
+        "profile": "https://github.com/hawkinsp"
+      },
+      {
+        "login": "mihaimaruseac",
+        "profile": "https://github.com/mihaimaruseac"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tensorflow /\n\n tensorflow\n\n An Open Source Machine Learning Framework for Everyone\n\n C++\n\n 200,739\n\n 78,968\n\n Built by\n\n 26 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "hugohe3",
+    "name": "ppt-master",
+    "fullName": "hugohe3/ppt-master",
+    "projectLink": "https://github.com/hugohe3/ppt-master",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pp...",
+    "language": "Python",
+    "stars": 59527,
+    "forks": 4692,
+    "deltaStars": 461,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "hugohe3",
+        "profile": "https://github.com/hugohe3"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "shenqili",
+        "profile": "https://github.com/shenqili"
+      },
+      {
+        "login": "WodenJay",
+        "profile": "https://github.com/WodenJay"
+      },
+      {
+        "login": "kevindesuyo",
+        "profile": "https://github.com/kevindesuyo"
+      }
+    ],
+    "trendingSnippet": "Star\n\n hugohe3 /\n\n ppt-master\n\n AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He\n\n Python\n\n 59,527\n\n 4,692\n\n Built by\n\n 461 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "pytorch",
+    "name": "pytorch",
+    "fullName": "pytorch/pytorch",
+    "projectLink": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "stars": 104152,
+    "forks": 31959,
+    "deltaStars": 84,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pytorchmergebot",
+        "profile": "https://github.com/pytorchmergebot"
+      },
+      {
+        "login": "malfet",
+        "profile": "https://github.com/malfet"
+      },
+      {
+        "login": "ezyang",
+        "profile": "https://github.com/ezyang"
+      },
+      {
+        "login": "zou3519",
+        "profile": "https://github.com/zou3519"
+      },
+      {
+        "login": "cyyever",
+        "profile": "https://github.com/cyyever"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pytorch /\n\n pytorch\n\n Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\n Python\n\n 104,152\n\n 31,959\n\n Built by\n\n 84 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "huggingface",
+    "name": "transformers",
+    "fullName": "huggingface/transformers",
+    "projectLink": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "language": "Python",
+    "stars": 167285,
+    "forks": 34799,
+    "deltaStars": 96,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "sgugger",
+        "profile": "https://github.com/sgugger"
+      },
+      {
+        "login": "ydshieh",
+        "profile": "https://github.com/ydshieh"
+      },
+      {
+        "login": "thomwolf",
+        "profile": "https://github.com/thomwolf"
+      },
+      {
+        "login": "LysandreJik",
+        "profile": "https://github.com/LysandreJik"
+      },
+      {
+        "login": "patrickvonplaten",
+        "profile": "https://github.com/patrickvonplaten"
+      }
+    ],
+    "trendingSnippet": "Star\n\n huggingface /\n\n transformers\n\n 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.\n\n Python\n\n 167,285\n\n 34,799\n\n Built by\n\n 96 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "anthropics",
+    "name": "knowledge-work-plugins",
+    "fullName": "anthropics/knowledge-work-plugins",
+    "projectLink": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 28841,
+    "forks": 3279,
+    "deltaStars": 625,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mattpic-ant",
+        "profile": "https://github.com/mattpic-ant"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n knowledge-work-plugins\n\n Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n Python\n\n 28,841\n\n 3,279\n\n Built by\n\n 625 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "multica-ai",
+    "name": "andrej-karpathy-skills",
+    "fullName": "multica-ai/andrej-karpathy-skills",
+    "projectLink": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "stars": 218324,
+    "forks": 21985,
+    "deltaStars": 278,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "forrestchang",
+        "profile": "https://github.com/forrestchang"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "back1ply",
+        "profile": "https://github.com/back1ply"
+      },
+      {
+        "login": "herobrine19",
+        "profile": "https://github.com/herobrine19"
+      },
+      {
+        "login": "szkocot",
+        "profile": "https://github.com/szkocot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n multica-ai /\n\n andrej-karpathy-skills\n\n A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\n\n 218,324\n\n 21,985\n\n Built by\n\n 278 stars today"
+  }
+]
