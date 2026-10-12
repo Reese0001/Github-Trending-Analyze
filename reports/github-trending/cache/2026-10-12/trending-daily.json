@@ -1,0 +1,294 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 109737,
+    "forks": 24383,
+    "deltaStars": 25599,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 109,737\n\n 24,383\n\n Built by\n\n 25,599 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 30368,
+    "forks": 2610,
+    "deltaStars": 3952,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "MarcZX100",
+        "profile": "https://github.com/MarcZX100"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 30,368\n\n 2,610\n\n Built by\n\n 3,952 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "storytold",
+    "name": "artcraft",
+    "fullName": "storytold/artcraft",
+    "projectLink": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 18272,
+    "forks": 2985,
+    "deltaStars": 2957,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "echelon",
+        "profile": "https://github.com/echelon"
+      },
+      {
+        "login": "bflatastic",
+        "profile": "https://github.com/bflatastic"
+      },
+      {
+        "login": "ArEnSc",
+        "profile": "https://github.com/ArEnSc"
+      },
+      {
+        "login": "wilwong",
+        "profile": "https://github.com/wilwong"
+      },
+      {
+        "login": "Quicksticks-oss",
+        "profile": "https://github.com/Quicksticks-oss"
+      }
+    ],
+    "trendingSnippet": "Star\n\n storytold /\n\n artcraft\n\n ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\n Rust\n\n 18,272\n\n 2,985\n\n Built by\n\n 2,957 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 50534,
+    "forks": 3208,
+    "deltaStars": 1083,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 50,534\n\n 3,208\n\n Built by\n\n 1,083 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "bilawalsidhu",
+    "name": "gods-eye-view",
+    "fullName": "bilawalsidhu/gods-eye-view",
+    "projectLink": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 51840,
+    "forks": 10396,
+    "deltaStars": 886,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "samehkhamis",
+        "profile": "https://github.com/samehkhamis"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "asturksever",
+        "profile": "https://github.com/asturksever"
+      },
+      {
+        "login": "bilawalsidhu",
+        "profile": "https://github.com/bilawalsidhu"
+      },
+      {
+        "login": "manjunath22466",
+        "profile": "https://github.com/manjunath22466"
+      }
+    ],
+    "trendingSnippet": "Star\n\n bilawalsidhu /\n\n gods-eye-view\n\n A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\n JavaScript\n\n 51,840\n\n 10,396\n\n Built by\n\n 886 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "pytorch",
+    "name": "pytorch",
+    "fullName": "pytorch/pytorch",
+    "projectLink": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "stars": 104543,
+    "forks": 32143,
+    "deltaStars": 315,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pytorchmergebot",
+        "profile": "https://github.com/pytorchmergebot"
+      },
+      {
+        "login": "malfet",
+        "profile": "https://github.com/malfet"
+      },
+      {
+        "login": "ezyang",
+        "profile": "https://github.com/ezyang"
+      },
+      {
+        "login": "zou3519",
+        "profile": "https://github.com/zou3519"
+      },
+      {
+        "login": "cyyever",
+        "profile": "https://github.com/cyyever"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pytorch /\n\n pytorch\n\n Tensors and Dynamic neural networks in Python with strong GPU acceleration\n\n Python\n\n 104,543\n\n 32,143\n\n Built by\n\n 315 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "lyogavin",
+    "name": "airllm",
+    "fullName": "lyogavin/airllm",
+    "projectLink": "https://github.com/lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "stars": 36573,
+    "forks": 3821,
+    "deltaStars": 548,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "lyogavin",
+        "profile": "https://github.com/lyogavin"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "eltociear",
+        "profile": "https://github.com/eltociear"
+      },
+      {
+        "login": "NavodPeiris",
+        "profile": "https://github.com/NavodPeiris"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n lyogavin /\n\n airllm\n\n AirLLM 70B inference with single 4GB GPU\n\n Jupyter Notebook\n\n 36,573\n\n 3,821\n\n Built by\n\n 548 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "chrislgarry",
+    "name": "Apollo-11",
+    "fullName": "chrislgarry/Apollo-11",
+    "projectLink": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "stars": 74298,
+    "forks": 8109,
+    "deltaStars": 466,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "wopian",
+        "profile": "https://github.com/wopian"
+      },
+      {
+        "login": "chrislgarry",
+        "profile": "https://github.com/chrislgarry"
+      },
+      {
+        "login": "dwiyatci",
+        "profile": "https://github.com/dwiyatci"
+      },
+      {
+        "login": "proudindiv",
+        "profile": "https://github.com/proudindiv"
+      },
+      {
+        "login": "oldmud0",
+        "profile": "https://github.com/oldmud0"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n chrislgarry /\n\n Apollo-11\n\n Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.\n\n Assembly\n\n 74,298\n\n 8,109\n\n Built by\n\n 466 stars today"
+  }
+]
