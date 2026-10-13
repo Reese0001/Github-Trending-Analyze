@@ -1,0 +1,323 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 166671,
+    "forks": 39497,
+    "deltaStars": 45327,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 166,671\n\n 39,497\n\n Built by\n\n 45,327 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "bilawalsidhu",
+    "name": "gods-eye-view",
+    "fullName": "bilawalsidhu/gods-eye-view",
+    "projectLink": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 53945,
+    "forks": 10636,
+    "deltaStars": 1895,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "samehkhamis",
+        "profile": "https://github.com/samehkhamis"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "asturksever",
+        "profile": "https://github.com/asturksever"
+      },
+      {
+        "login": "bilawalsidhu",
+        "profile": "https://github.com/bilawalsidhu"
+      },
+      {
+        "login": "manjunath22466",
+        "profile": "https://github.com/manjunath22466"
+      }
+    ],
+    "trendingSnippet": "Star\n\n bilawalsidhu /\n\n gods-eye-view\n\n A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\n JavaScript\n\n 53,945\n\n 10,636\n\n Built by\n\n 1,895 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "mksglu",
+    "name": "context-mode",
+    "fullName": "mksglu/context-mode",
+    "projectLink": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 27432,
+    "forks": 1952,
+    "deltaStars": 246,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mksglu",
+        "profile": "https://github.com/mksglu"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ipedro",
+        "profile": "https://github.com/ipedro"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mksglu /\n\n context-mode\n\n Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n TypeScript\n\n 27,432\n\n 1,952\n\n Built by\n\n 246 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "storytold",
+    "name": "artcraft",
+    "fullName": "storytold/artcraft",
+    "projectLink": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 22601,
+    "forks": 3629,
+    "deltaStars": 4095,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "echelon",
+        "profile": "https://github.com/echelon"
+      },
+      {
+        "login": "bflatastic",
+        "profile": "https://github.com/bflatastic"
+      },
+      {
+        "login": "ArEnSc",
+        "profile": "https://github.com/ArEnSc"
+      },
+      {
+        "login": "wilwong",
+        "profile": "https://github.com/wilwong"
+      },
+      {
+        "login": "Quicksticks-oss",
+        "profile": "https://github.com/Quicksticks-oss"
+      }
+    ],
+    "trendingSnippet": "Star\n\n storytold /\n\n artcraft\n\n ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\n Rust\n\n 22,601\n\n 3,629\n\n Built by\n\n 4,095 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "open-webui",
+    "name": "open-webui",
+    "fullName": "open-webui/open-webui",
+    "projectLink": "https://github.com/open-webui/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "language": "Python",
+    "stars": 155185,
+    "forks": 22654,
+    "deltaStars": 157,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "tjbck",
+        "profile": "https://github.com/tjbck"
+      },
+      {
+        "login": "Classic298",
+        "profile": "https://github.com/Classic298"
+      },
+      {
+        "login": "silentoplayz",
+        "profile": "https://github.com/silentoplayz"
+      },
+      {
+        "login": "cheahjs",
+        "profile": "https://github.com/cheahjs"
+      },
+      {
+        "login": "ShirasawaSama",
+        "profile": "https://github.com/ShirasawaSama"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n open-webui /\n\n open-webui\n\n User-friendly AI Interface (Supports Ollama, OpenAI API, ...)\n\n Python\n\n 155,185\n\n 22,654\n\n Built by\n\n 157 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 52886,
+    "forks": 3342,
+    "deltaStars": 2081,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 52,886\n\n 3,342\n\n Built by\n\n 2,081 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "lyogavin",
+    "name": "airllm",
+    "fullName": "lyogavin/airllm",
+    "projectLink": "https://github.com/lyogavin/airllm",
+    "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "stars": 37653,
+    "forks": 3879,
+    "deltaStars": 879,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "lyogavin",
+        "profile": "https://github.com/lyogavin"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "eltociear",
+        "profile": "https://github.com/eltociear"
+      },
+      {
+        "login": "NavodPeiris",
+        "profile": "https://github.com/NavodPeiris"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n lyogavin /\n\n airllm\n\n AirLLM 2.8T LLM inference with single 4GB GPU\n\n Jupyter Notebook\n\n 37,653\n\n 3,879\n\n Built by\n\n 879 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "microsoft",
+    "name": "BitNet",
+    "fullName": "microsoft/BitNet",
+    "projectLink": "https://github.com/microsoft/BitNet",
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "stars": 40962,
+    "forks": 3815,
+    "deltaStars": 97,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "potassiummmm",
+        "profile": "https://github.com/potassiummmm"
+      },
+      {
+        "login": "tsong-ms",
+        "profile": "https://github.com/tsong-ms"
+      },
+      {
+        "login": "younesbelkada",
+        "profile": "https://github.com/younesbelkada"
+      },
+      {
+        "login": "isHuangXin",
+        "profile": "https://github.com/isHuangXin"
+      },
+      {
+        "login": "XsquirrelC",
+        "profile": "https://github.com/XsquirrelC"
+      }
+    ],
+    "trendingSnippet": "Star\n\n microsoft /\n\n BitNet\n\n Official inference framework for 1-bit LLMs\n\n C++\n\n 40,962\n\n 3,815\n\n Built by\n\n 97 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "Alishahryar1",
+    "name": "free-claude-code",
+    "fullName": "Alishahryar1/free-claude-code",
+    "projectLink": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + mult...",
+    "language": "Python",
+    "stars": 59324,
+    "forks": 9340,
+    "deltaStars": 626,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Alishahryar1",
+        "profile": "https://github.com/Alishahryar1"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Tanishq-1",
+        "profile": "https://github.com/Tanishq-1"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Alishahryar1 /\n\n free-claude-code\n\n Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)\n\n Python\n\n 59,324\n\n 9,340\n\n Built by\n\n 626 stars today"
+  }
+]
