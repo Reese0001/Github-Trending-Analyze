@@ -1,0 +1,323 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 210134,
+    "forks": 51508,
+    "deltaStars": 54679,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 210,134\n\n 51,508\n\n Built by\n\n 54,679 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "bilawalsidhu",
+    "name": "gods-eye-view",
+    "fullName": "bilawalsidhu/gods-eye-view",
+    "projectLink": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 55505,
+    "forks": 10842,
+    "deltaStars": 1961,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "samehkhamis",
+        "profile": "https://github.com/samehkhamis"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "asturksever",
+        "profile": "https://github.com/asturksever"
+      },
+      {
+        "login": "bilawalsidhu",
+        "profile": "https://github.com/bilawalsidhu"
+      },
+      {
+        "login": "manjunath22466",
+        "profile": "https://github.com/manjunath22466"
+      }
+    ],
+    "trendingSnippet": "Star\n\n bilawalsidhu /\n\n gods-eye-view\n\n A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\n JavaScript\n\n 55,505\n\n 10,842\n\n Built by\n\n 1,961 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 63523,
+    "forks": 7060,
+    "deltaStars": 1748,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      }
+    ],
+    "trendingSnippet": "Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 63,523\n\n 7,060\n\n Built by\n\n 1,748 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "mksglu",
+    "name": "context-mode",
+    "fullName": "mksglu/context-mode",
+    "projectLink": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 28301,
+    "forks": 1997,
+    "deltaStars": 969,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mksglu",
+        "profile": "https://github.com/mksglu"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ipedro",
+        "profile": "https://github.com/ipedro"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mksglu /\n\n context-mode\n\n Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n TypeScript\n\n 28,301\n\n 1,997\n\n Built by\n\n 969 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 54247,
+    "forks": 3441,
+    "deltaStars": 1815,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 54,247\n\n 3,441\n\n Built by\n\n 1,815 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "vercel-labs",
+    "name": "skills",
+    "fullName": "vercel-labs/skills",
+    "projectLink": "https://github.com/vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "language": "TypeScript",
+    "stars": 34559,
+    "forks": 2953,
+    "deltaStars": 190,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "quuu",
+        "profile": "https://github.com/quuu"
+      },
+      {
+        "login": "huozhi",
+        "profile": "https://github.com/huozhi"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "jonathanhefner",
+        "profile": "https://github.com/jonathanhefner"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n skills\n\n The open agent skills tool - npx skills\n\n TypeScript\n\n 34,559\n\n 2,953\n\n Built by\n\n 190 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "lyogavin",
+    "name": "airllm",
+    "fullName": "lyogavin/airllm",
+    "projectLink": "https://github.com/lyogavin/airllm",
+    "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+    "language": "Jupyter Notebook",
+    "stars": 38371,
+    "forks": 3924,
+    "deltaStars": 1001,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "lyogavin",
+        "profile": "https://github.com/lyogavin"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "eltociear",
+        "profile": "https://github.com/eltociear"
+      },
+      {
+        "login": "NavodPeiris",
+        "profile": "https://github.com/NavodPeiris"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n lyogavin /\n\n airllm\n\n AirLLM 2.8T LLM inference with single 4GB GPU\n\n Jupyter Notebook\n\n 38,371\n\n 3,924\n\n Built by\n\n 1,001 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "storytold",
+    "name": "artcraft",
+    "fullName": "storytold/artcraft",
+    "projectLink": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 25826,
+    "forks": 4051,
+    "deltaStars": 4081,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "echelon",
+        "profile": "https://github.com/echelon"
+      },
+      {
+        "login": "bflatastic",
+        "profile": "https://github.com/bflatastic"
+      },
+      {
+        "login": "ArEnSc",
+        "profile": "https://github.com/ArEnSc"
+      },
+      {
+        "login": "wilwong",
+        "profile": "https://github.com/wilwong"
+      },
+      {
+        "login": "Quicksticks-oss",
+        "profile": "https://github.com/Quicksticks-oss"
+      }
+    ],
+    "trendingSnippet": "Star\n\n storytold /\n\n artcraft\n\n ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\n Rust\n\n 25,826\n\n 4,051\n\n Built by\n\n 4,081 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "xtool-org",
+    "name": "xtool",
+    "fullName": "xtool-org/xtool",
+    "projectLink": "https://github.com/xtool-org/xtool",
+    "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "language": "Swift",
+    "stars": 9474,
+    "forks": 404,
+    "deltaStars": 1198,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "kabiroberai",
+        "profile": "https://github.com/kabiroberai"
+      },
+      {
+        "login": "reklis",
+        "profile": "https://github.com/reklis"
+      },
+      {
+        "login": "erikbdev",
+        "profile": "https://github.com/erikbdev"
+      },
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      },
+      {
+        "login": "pawlowskialex",
+        "profile": "https://github.com/pawlowskialex"
+      }
+    ],
+    "trendingSnippet": "Star\n\n xtool-org /\n\n xtool\n\n Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.\n\n Swift\n\n 9,474\n\n 404\n\n Built by\n\n 1,198 stars today"
+  }
+]
