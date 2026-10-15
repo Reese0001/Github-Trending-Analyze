@@ -1,0 +1,418 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 243894,
+    "forks": 60905,
+    "deltaStars": 214837,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 243,894\n\n 60,905\n\n Built by\n\n 214,837 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 37225,
+    "forks": 3286,
+    "deltaStars": 28240,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "MarcZX100",
+        "profile": "https://github.com/MarcZX100"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 37,225\n\n 3,286\n\n Built by\n\n 28,240 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 291336,
+    "forks": 24435,
+    "deltaStars": 12292,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 291,336\n\n 24,435\n\n Built by\n\n 12,292 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 63744,
+    "forks": 5722,
+    "deltaStars": 5123,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n Write HTML. Render video. Built for agents.\n\n TypeScript\n\n 63,744\n\n 5,722\n\n Built by\n\n 5,123 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "EpicGames",
+    "name": "raddebugger",
+    "fullName": "EpicGames/raddebugger",
+    "projectLink": "https://github.com/EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "language": "C",
+    "stars": 8542,
+    "forks": 415,
+    "deltaStars": 814,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ryanfleury",
+        "profile": "https://github.com/ryanfleury"
+      },
+      {
+        "login": "NikitaSmith057",
+        "profile": "https://github.com/NikitaSmith057"
+      },
+      {
+        "login": "mmozeiko",
+        "profile": "https://github.com/mmozeiko"
+      },
+      {
+        "login": "NikitaAtEpic",
+        "profile": "https://github.com/NikitaAtEpic"
+      },
+      {
+        "login": "andreymlv",
+        "profile": "https://github.com/andreymlv"
+      }
+    ],
+    "trendingSnippet": "Star\n\n EpicGames /\n\n raddebugger\n\n A native, user-mode, multi-process, graphical debugger.\n\n C\n\n 8,542\n\n 415\n\n Built by\n\n 814 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "tester-army",
+    "name": "e2e",
+    "fullName": "tester-army/e2e",
+    "projectLink": "https://github.com/tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "language": "TypeScript",
+    "stars": 10521,
+    "forks": 512,
+    "deltaStars": 3505,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "okwasniewski",
+        "profile": "https://github.com/okwasniewski"
+      },
+      {
+        "login": "kacperkapusciak",
+        "profile": "https://github.com/kacperkapusciak"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "fecolinhares",
+        "profile": "https://github.com/fecolinhares"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tester-army /\n\n e2e\n\n Next generation e2e testing framework for web and mobile apps.\n\n TypeScript\n\n 10,521\n\n 512\n\n Built by\n\n 3,505 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "thedotmack",
+    "name": "claude-mem",
+    "fullName": "thedotmack/claude-mem",
+    "projectLink": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+    "language": "TypeScript",
+    "stars": 100775,
+    "forks": 8829,
+    "deltaStars": 3371,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "thedotmack",
+        "profile": "https://github.com/thedotmack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "rodboev",
+        "profile": "https://github.com/rodboev"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n thedotmack /\n\n claude-mem\n\n Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\n TypeScript\n\n 100,775\n\n 8,829\n\n Built by\n\n 3,371 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 55368,
+    "forks": 3499,
+    "deltaStars": 10706,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 55,368\n\n 3,499\n\n Built by\n\n 10,706 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "twostraws",
+    "name": "SwiftUI-Agent-Skill",
+    "fullName": "twostraws/SwiftUI-Agent-Skill",
+    "projectLink": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "language": "",
+    "stars": 5976,
+    "forks": 218,
+    "deltaStars": 930,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "twostraws",
+        "profile": "https://github.com/twostraws"
+      },
+      {
+        "login": "GLinnik21",
+        "profile": "https://github.com/GLinnik21"
+      },
+      {
+        "login": "Jeehut",
+        "profile": "https://github.com/Jeehut"
+      }
+    ],
+    "trendingSnippet": "Star\n\n twostraws /\n\n SwiftUI-Agent-Skill\n\n SwiftUI agent skill for Claude Code, Codex, and other AI tools.\n\n 5,976\n\n 218\n\n Built by\n\n 930 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "earthtojake",
+    "name": "text-to-cad",
+    "fullName": "earthtojake/text-to-cad",
+    "projectLink": "https://github.com/earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "stars": 20392,
+    "forks": 2011,
+    "deltaStars": 1994,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "earthtojake",
+        "profile": "https://github.com/earthtojake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "warun7",
+        "profile": "https://github.com/warun7"
+      }
+    ],
+    "trendingSnippet": "Star\n\n earthtojake /\n\n text-to-cad\n\n Give your agent CAD superpowers.\n\n Python\n\n 20,392\n\n 2,011\n\n Built by\n\n 1,994 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "flutter",
+    "name": "flutter",
+    "fullName": "flutter/flutter",
+    "projectLink": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stars": 180177,
+    "forks": 34107,
+    "deltaStars": 1117,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "skia-flutter-autoroll",
+        "profile": "https://github.com/skia-flutter-autoroll"
+      },
+      {
+        "login": "engine-flutter-autoroll",
+        "profile": "https://github.com/engine-flutter-autoroll"
+      },
+      {
+        "login": "abarth",
+        "profile": "https://github.com/abarth"
+      },
+      {
+        "login": "Hixie",
+        "profile": "https://github.com/Hixie"
+      },
+      {
+        "login": "jason-simmons",
+        "profile": "https://github.com/jason-simmons"
+      }
+    ],
+    "trendingSnippet": "Star\n\n flutter /\n\n flutter\n\n Flutter makes it easy and fast to build beautiful apps for mobile and beyond\n\n Dart\n\n 180,177\n\n 34,107\n\n Built by\n\n 1,117 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 12,
+    "owner": "NationalSecurityAgency",
+    "name": "ghidra",
+    "fullName": "NationalSecurityAgency/ghidra",
+    "projectLink": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 87576,
+    "forks": 9773,
+    "deltaStars": 5613,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ryanmkurtz",
+        "profile": "https://github.com/ryanmkurtz"
+      },
+      {
+        "login": "ghidra1",
+        "profile": "https://github.com/ghidra1"
+      },
+      {
+        "login": "dragonmacher",
+        "profile": "https://github.com/dragonmacher"
+      },
+      {
+        "login": "nsadeveloper789",
+        "profile": "https://github.com/nsadeveloper789"
+      },
+      {
+        "login": "caheckman",
+        "profile": "https://github.com/caheckman"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NationalSecurityAgency /\n\n ghidra\n\n Ghidra is a software reverse engineering (SRE) framework\n\n Java\n\n 87,576\n\n 9,773\n\n Built by\n\n 5,613 stars this week"
+  }
+]
