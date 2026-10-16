@@ -1,0 +1,422 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 271423,
+    "forks": 68194,
+    "deltaStars": 32314,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 271,423\n\n 68,194\n\n Built by\n\n 32,314 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "fullName": "anthropics/claude-plugins-official",
+    "projectLink": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 39147,
+    "forks": 4328,
+    "deltaStars": 307,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "tobinsouth",
+        "profile": "https://github.com/tobinsouth"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-plugins-official\n\n Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n Python\n\n 39,147\n\n 4,328\n\n Built by\n\n 307 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "K-Dense-AI",
+    "name": "scientific-agent-skills",
+    "fullName": "K-Dense-AI/scientific-agent-skills",
+    "projectLink": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, med...",
+    "language": "Python",
+    "stars": 50523,
+    "forks": 4490,
+    "deltaStars": 1091,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "timothykassis",
+        "profile": "https://github.com/timothykassis"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "borealBytes",
+        "profile": "https://github.com/borealBytes"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n K-Dense-AI /\n\n scientific-agent-skills\n\n Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\n Python\n\n 50,523\n\n 4,490\n\n Built by\n\n 1,091 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "JuliusBrussee",
+    "name": "caveman",
+    "fullName": "JuliusBrussee/caveman",
+    "projectLink": "https://github.com/JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "language": "Go",
+    "stars": 112588,
+    "forks": 6522,
+    "deltaStars": 433,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "JuliusBrussee",
+        "profile": "https://github.com/JuliusBrussee"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "nikpushkarski",
+        "profile": "https://github.com/nikpushkarski"
+      },
+      {
+        "login": "AmirF194",
+        "profile": "https://github.com/AmirF194"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n JuliusBrussee /\n\n caveman\n\n 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\n\n Go\n\n 112,588\n\n 6,522\n\n Built by\n\n 433 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 69173,
+    "forks": 7570,
+    "deltaStars": 3024,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 69,173\n\n 7,570\n\n Built by\n\n 3,024 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "obra",
+    "name": "superpowers",
+    "fullName": "obra/superpowers",
+    "projectLink": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 299931,
+    "forks": 26785,
+    "deltaStars": 582,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "obra",
+        "profile": "https://github.com/obra"
+      },
+      {
+        "login": "arittr",
+        "profile": "https://github.com/arittr"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "clkao",
+        "profile": "https://github.com/clkao"
+      },
+      {
+        "login": "gaurav0107",
+        "profile": "https://github.com/gaurav0107"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n obra /\n\n superpowers\n\n An agentic skills framework & software development methodology that works.\n\n Shell\n\n 299,931\n\n 26,785\n\n Built by\n\n 582 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "ruvnet",
+    "name": "ruflo",
+    "fullName": "ruvnet/ruflo",
+    "projectLink": "https://github.com/ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG...",
+    "language": "TypeScript",
+    "stars": 75147,
+    "forks": 8928,
+    "deltaStars": 147,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ruvnet",
+        "profile": "https://github.com/ruvnet"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "proffesor-for-testing",
+        "profile": "https://github.com/proffesor-for-testing"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ruvnet /\n\n ruflo\n\n 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\n TypeScript\n\n 75,147\n\n 8,928\n\n Built by\n\n 147 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "mksglu",
+    "name": "context-mode",
+    "fullName": "mksglu/context-mode",
+    "projectLink": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 29808,
+    "forks": 2083,
+    "deltaStars": 904,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mksglu",
+        "profile": "https://github.com/mksglu"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ipedro",
+        "profile": "https://github.com/ipedro"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mksglu /\n\n context-mode\n\n Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n TypeScript\n\n 29,808\n\n 2,083\n\n Built by\n\n 904 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "NationalSecurityAgency",
+    "name": "ghidra",
+    "fullName": "NationalSecurityAgency/ghidra",
+    "projectLink": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 88809,
+    "forks": 9911,
+    "deltaStars": 1369,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ryanmkurtz",
+        "profile": "https://github.com/ryanmkurtz"
+      },
+      {
+        "login": "ghidra1",
+        "profile": "https://github.com/ghidra1"
+      },
+      {
+        "login": "dragonmacher",
+        "profile": "https://github.com/dragonmacher"
+      },
+      {
+        "login": "nsadeveloper789",
+        "profile": "https://github.com/nsadeveloper789"
+      },
+      {
+        "login": "caheckman",
+        "profile": "https://github.com/caheckman"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NationalSecurityAgency /\n\n ghidra\n\n Ghidra is a software reverse engineering (SRE) framework\n\n Java\n\n 88,809\n\n 9,911\n\n Built by\n\n 1,369 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "affaan-m",
+    "name": "ECC",
+    "fullName": "affaan-m/ECC",
+    "projectLink": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 280429,
+    "forks": 41707,
+    "deltaStars": 1013,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "affaan-m",
+        "profile": "https://github.com/affaan-m"
+      },
+      {
+        "login": "haelyra",
+        "profile": "https://github.com/haelyra"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "montjeffrey",
+        "profile": "https://github.com/montjeffrey"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n affaan-m /\n\n ECC\n\n The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n JavaScript\n\n 280,429\n\n 41,707\n\n Built by\n\n 1,013 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "lightseekorg",
+    "name": "tokenspeed",
+    "fullName": "lightseekorg/tokenspeed",
+    "projectLink": "https://github.com/lightseekorg/tokenspeed",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+    "language": "Python",
+    "stars": 2507,
+    "forks": 336,
+    "deltaStars": 30,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "lightseek-bot",
+        "profile": "https://github.com/lightseek-bot"
+      },
+      {
+        "login": "antiagainst",
+        "profile": "https://github.com/antiagainst"
+      },
+      {
+        "login": "nperrin-fr",
+        "profile": "https://github.com/nperrin-fr"
+      },
+      {
+        "login": "longcat-ia-team",
+        "profile": "https://github.com/longcat-ia-team"
+      },
+      {
+        "login": "borontion",
+        "profile": "https://github.com/borontion"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n lightseekorg /\n\n tokenspeed\n\n TokenSpeed is a speed-of-light LLM inference engine.\n\n Python\n\n 2,507\n\n 336\n\n Built by\n\n 30 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "xerj-org",
+    "name": "xerj",
+    "fullName": "xerj-org/xerj",
+    "projectLink": "https://github.com/xerj-org/xerj",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security a...",
+    "language": "Rust",
+    "stars": 5703,
+    "forks": 309,
+    "deltaStars": 715,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "xerj-org",
+        "profile": "https://github.com/xerj-org"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "buger",
+        "profile": "https://github.com/buger"
+      },
+      {
+        "login": "Vinz2168",
+        "profile": "https://github.com/Vinz2168"
+      },
+      {
+        "login": "thomas-villani",
+        "profile": "https://github.com/thomas-villani"
+      }
+    ],
+    "trendingSnippet": "Star\n\n xerj-org /\n\n xerj\n\n XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.\n\n Rust\n\n 5,703\n\n 309\n\n Built by\n\n 715 stars today"
+  }
+]
