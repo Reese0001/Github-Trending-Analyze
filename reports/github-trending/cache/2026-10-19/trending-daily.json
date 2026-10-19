@@ -1,0 +1,463 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "MadsLorentzen",
+    "name": "ai-job-search",
+    "fullName": "MadsLorentzen/ai-job-search",
+    "projectLink": "https://github.com/MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars": 53383,
+    "forks": 17412,
+    "deltaStars": 2232,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "MadsLorentzen",
+        "profile": "https://github.com/MadsLorentzen"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      },
+      {
+        "login": "oscarbol09",
+        "profile": "https://github.com/oscarbol09"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n MadsLorentzen /\n\n ai-job-search\n\n The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n Python\n\n 53,383\n\n 17,412\n\n Built by\n\n 2,232 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "fullName": "anthropics/claude-plugins-official",
+    "projectLink": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 42732,
+    "forks": 4535,
+    "deltaStars": 1175,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mhegazy",
+        "profile": "https://github.com/mhegazy"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-plugins-official\n\n Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n Python\n\n 42,732\n\n 4,535\n\n Built by\n\n 1,175 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "anomalyco",
+    "name": "opencode",
+    "fullName": "anomalyco/opencode",
+    "projectLink": "https://github.com/anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars": 216650,
+    "forks": 29005,
+    "deltaStars": 1414,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "thdxr",
+        "profile": "https://github.com/thdxr"
+      },
+      {
+        "login": "rekram1-node",
+        "profile": "https://github.com/rekram1-node"
+      },
+      {
+        "login": "adamdotdevin",
+        "profile": "https://github.com/adamdotdevin"
+      },
+      {
+        "login": "kitlangton",
+        "profile": "https://github.com/kitlangton"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n anomalyco /\n\n opencode\n\n The open source coding agent.\n\n TypeScript\n\n 216,650\n\n 29,005\n\n Built by\n\n 1,414 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "cursor",
+    "name": "plugins",
+    "fullName": "cursor/plugins",
+    "projectLink": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 12764,
+    "forks": 1258,
+    "deltaStars": 350,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "poteto",
+        "profile": "https://github.com/poteto"
+      },
+      {
+        "login": "minupalaniappan",
+        "profile": "https://github.com/minupalaniappan"
+      },
+      {
+        "login": "ericzakariasson",
+        "profile": "https://github.com/ericzakariasson"
+      },
+      {
+        "login": "roshansada",
+        "profile": "https://github.com/roshansada"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cursor /\n\n plugins\n\n Cursor plugin specification and official plugins\n\n TypeScript\n\n 12,764\n\n 1,258\n\n Built by\n\n 350 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "ruvnet",
+    "name": "ruflo",
+    "fullName": "ruvnet/ruflo",
+    "projectLink": "https://github.com/ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG...",
+    "language": "TypeScript",
+    "stars": 76552,
+    "forks": 9050,
+    "deltaStars": 513,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ruvnet",
+        "profile": "https://github.com/ruvnet"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "proffesor-for-testing",
+        "profile": "https://github.com/proffesor-for-testing"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ruvnet /\n\n ruflo\n\n 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\n TypeScript\n\n 76,552\n\n 9,050\n\n Built by\n\n 513 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "akitaonrails",
+    "name": "ai-memory",
+    "fullName": "akitaonrails/ai-memory",
+    "projectLink": "https://github.com/akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars": 10529,
+    "forks": 753,
+    "deltaStars": 512,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "akitaonrails",
+        "profile": "https://github.com/akitaonrails"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "viniciusdsandrade",
+        "profile": "https://github.com/viniciusdsandrade"
+      },
+      {
+        "login": "djalmajr",
+        "profile": "https://github.com/djalmajr"
+      },
+      {
+        "login": "everton-dgn",
+        "profile": "https://github.com/everton-dgn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n akitaonrails /\n\n ai-memory\n\n Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n Rust\n\n 10,529\n\n 753\n\n Built by\n\n 512 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "stablyai",
+    "name": "orca",
+    "fullName": "stablyai/orca",
+    "projectLink": "https://github.com/stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "stars": 96727,
+    "forks": 6177,
+    "deltaStars": 1146,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "nwparker",
+        "profile": "https://github.com/nwparker"
+      },
+      {
+        "login": "brennanb2025",
+        "profile": "https://github.com/brennanb2025"
+      },
+      {
+        "login": "Jinwoo-H",
+        "profile": "https://github.com/Jinwoo-H"
+      },
+      {
+        "login": "AmethystLiang",
+        "profile": "https://github.com/AmethystLiang"
+      },
+      {
+        "login": "orca-ide",
+        "profile": "https://github.com/orca-ide"
+      }
+    ],
+    "trendingSnippet": "Star\n\n stablyai /\n\n orca\n\n Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\n\n TypeScript\n\n 96,727\n\n 6,177\n\n Built by\n\n 1,146 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "HKUDS",
+    "name": "CLI-Anything",
+    "fullName": "HKUDS/CLI-Anything",
+    "projectLink": "https://github.com/HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "stars": 54619,
+    "forks": 4949,
+    "deltaStars": 589,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "yuh-yang",
+        "profile": "https://github.com/yuh-yang"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "AiMiDi",
+        "profile": "https://github.com/AiMiDi"
+      },
+      {
+        "login": "omerarslan0",
+        "profile": "https://github.com/omerarslan0"
+      },
+      {
+        "login": "hito0512",
+        "profile": "https://github.com/hito0512"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n CLI-Anything\n\n \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\n Python\n\n 54,619\n\n 4,949\n\n Built by\n\n 589 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 75492,
+    "forks": 8265,
+    "deltaStars": 2082,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 75,492\n\n 8,265\n\n Built by\n\n 2,082 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "android",
+    "name": "skills",
+    "fullName": "android/skills",
+    "projectLink": "https://github.com/android/skills",
+    "description": "",
+    "language": "Kotlin",
+    "stars": 8795,
+    "forks": 568,
+    "deltaStars": 375,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "android-devrel-github-bot",
+        "profile": "https://github.com/android-devrel-github-bot"
+      },
+      {
+        "login": "simona-anomis",
+        "profile": "https://github.com/simona-anomis"
+      },
+      {
+        "login": "JoseAlcerreca",
+        "profile": "https://github.com/JoseAlcerreca"
+      },
+      {
+        "login": "bentrengrove",
+        "profile": "https://github.com/bentrengrove"
+      },
+      {
+        "login": "vinishavathwani",
+        "profile": "https://github.com/vinishavathwani"
+      }
+    ],
+    "trendingSnippet": "Star\n\n android /\n\n skills\n\n Kotlin\n\n 8,795\n\n 568\n\n Built by\n\n 375 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "mlabonne",
+    "name": "llm-course",
+    "fullName": "mlabonne/llm-course",
+    "projectLink": "https://github.com/mlabonne/llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "language": "",
+    "stars": 84060,
+    "forks": 9784,
+    "deltaStars": 81,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mlabonne",
+        "profile": "https://github.com/mlabonne"
+      },
+      {
+        "login": "pitmonticone",
+        "profile": "https://github.com/pitmonticone"
+      },
+      {
+        "login": "Shrinija17",
+        "profile": "https://github.com/Shrinija17"
+      }
+    ],
+    "trendingSnippet": "Star\n\n mlabonne /\n\n llm-course\n\n Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.\n\n 84,060\n\n 9,784\n\n Built by\n\n 81 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "Kruk2",
+    "name": "jasna",
+    "fullName": "Kruk2/jasna",
+    "projectLink": "https://github.com/Kruk2/jasna",
+    "description": "Video restoration tool",
+    "language": "Python",
+    "stars": 2436,
+    "forks": 188,
+    "deltaStars": 115,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Kruk2",
+        "profile": "https://github.com/Kruk2"
+      },
+      {
+        "login": "suphamster",
+        "profile": "https://github.com/suphamster"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "helkaluin",
+        "profile": "https://github.com/helkaluin"
+      },
+      {
+        "login": "ironicgitposting",
+        "profile": "https://github.com/ironicgitposting"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Kruk2 /\n\n jasna\n\n Video restoration tool\n\n Python\n\n 2,436\n\n 188\n\n Built by\n\n 115 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "Comfy-Org",
+    "name": "ComfyUI",
+    "fullName": "Comfy-Org/ComfyUI",
+    "projectLink": "https://github.com/Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "language": "Python",
+    "stars": 138655,
+    "forks": 16505,
+    "deltaStars": 154,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "comfyanonymous",
+        "profile": "https://github.com/comfyanonymous"
+      },
+      {
+        "login": "bigcat88",
+        "profile": "https://github.com/bigcat88"
+      },
+      {
+        "login": "pythongosssss",
+        "profile": "https://github.com/pythongosssss"
+      },
+      {
+        "login": "comfyui-wiki",
+        "profile": "https://github.com/comfyui-wiki"
+      },
+      {
+        "login": "rattus128",
+        "profile": "https://github.com/rattus128"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Comfy-Org /\n\n ComfyUI\n\n The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\n\n Python\n\n 138,655\n\n 16,505\n\n Built by\n\n 154 stars today"
+  }
+]

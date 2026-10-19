@@ -1,0 +1,360 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 322984,
+    "forks": 81836,
+    "deltaStars": 229268,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 322,984\n\n 81,836\n\n Built by\n\n 229,268 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "storytold",
+    "name": "artcraft",
+    "fullName": "storytold/artcraft",
+    "projectLink": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 32775,
+    "forks": 5195,
+    "deltaStars": 16379,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "echelon",
+        "profile": "https://github.com/echelon"
+      },
+      {
+        "login": "bflatastic",
+        "profile": "https://github.com/bflatastic"
+      },
+      {
+        "login": "ArEnSc",
+        "profile": "https://github.com/ArEnSc"
+      },
+      {
+        "login": "wilwong",
+        "profile": "https://github.com/wilwong"
+      },
+      {
+        "login": "Quicksticks-oss",
+        "profile": "https://github.com/Quicksticks-oss"
+      }
+    ],
+    "trendingSnippet": "Star\n\n storytold /\n\n artcraft\n\n ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\n Rust\n\n 32,775\n\n 5,195\n\n Built by\n\n 16,379 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 43255,
+    "forks": 3927,
+    "deltaStars": 14224,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "MarcZX10",
+        "profile": "https://github.com/MarcZX10"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 43,255\n\n 3,927\n\n Built by\n\n 14,224 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "fullName": "anthropics/claude-plugins-official",
+    "projectLink": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 42732,
+    "forks": 4535,
+    "deltaStars": 4774,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mhegazy",
+        "profile": "https://github.com/mhegazy"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-plugins-official\n\n Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n Python\n\n 42,732\n\n 4,535\n\n Built by\n\n 4,774 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "mksglu",
+    "name": "context-mode",
+    "fullName": "mksglu/context-mode",
+    "projectLink": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 30773,
+    "forks": 2280,
+    "deltaStars": 4138,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mksglu",
+        "profile": "https://github.com/mksglu"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ipedro",
+        "profile": "https://github.com/ipedro"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mksglu /\n\n context-mode\n\n Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n TypeScript\n\n 30,773\n\n 2,280\n\n Built by\n\n 4,138 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 57732,
+    "forks": 3697,
+    "deltaStars": 7901,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 57,732\n\n 3,697\n\n Built by\n\n 7,901 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "NationalSecurityAgency",
+    "name": "ghidra",
+    "fullName": "NationalSecurityAgency/ghidra",
+    "projectLink": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 90937,
+    "forks": 10180,
+    "deltaStars": 7602,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ryanmkurtz",
+        "profile": "https://github.com/ryanmkurtz"
+      },
+      {
+        "login": "ghidra1",
+        "profile": "https://github.com/ghidra1"
+      },
+      {
+        "login": "dragonmacher",
+        "profile": "https://github.com/dragonmacher"
+      },
+      {
+        "login": "nsadeveloper789",
+        "profile": "https://github.com/nsadeveloper789"
+      },
+      {
+        "login": "caheckman",
+        "profile": "https://github.com/caheckman"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NationalSecurityAgency /\n\n ghidra\n\n Ghidra is a software reverse engineering (SRE) framework\n\n Java\n\n 90,937\n\n 10,180\n\n Built by\n\n 7,602 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 66776,
+    "forks": 6059,
+    "deltaStars": 5883,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n Write HTML. Render video. Built for agents.\n\n TypeScript\n\n 66,776\n\n 6,059\n\n Built by\n\n 5,883 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "cursor",
+    "name": "plugins",
+    "fullName": "cursor/plugins",
+    "projectLink": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 12764,
+    "forks": 1258,
+    "deltaStars": 1717,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "poteto",
+        "profile": "https://github.com/poteto"
+      },
+      {
+        "login": "minupalaniappan",
+        "profile": "https://github.com/minupalaniappan"
+      },
+      {
+        "login": "ericzakariasson",
+        "profile": "https://github.com/ericzakariasson"
+      },
+      {
+        "login": "roshansada",
+        "profile": "https://github.com/roshansada"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cursor /\n\n plugins\n\n Cursor plugin specification and official plugins\n\n TypeScript\n\n 12,764\n\n 1,258\n\n Built by\n\n 1,717 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "MadsLorentzen",
+    "name": "ai-job-search",
+    "fullName": "MadsLorentzen/ai-job-search",
+    "projectLink": "https://github.com/MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars": 53383,
+    "forks": 17412,
+    "deltaStars": 5742,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "MadsLorentzen",
+        "profile": "https://github.com/MadsLorentzen"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      },
+      {
+        "login": "oscarbol09",
+        "profile": "https://github.com/oscarbol09"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n MadsLorentzen /\n\n ai-job-search\n\n The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n Python\n\n 53,383\n\n 17,412\n\n Built by\n\n 5,742 stars this week"
+  }
+]
