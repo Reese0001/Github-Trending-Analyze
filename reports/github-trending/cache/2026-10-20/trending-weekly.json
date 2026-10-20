@@ -1,0 +1,500 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 337493,
+    "forks": 85215,
+    "deltaStars": 201065,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 337,493\n\n 85,215\n\n Built by\n\n 201,065 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "fullName": "anthropics/claude-plugins-official",
+    "projectLink": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 43194,
+    "forks": 4571,
+    "deltaStars": 5441,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mhegazy",
+        "profile": "https://github.com/mhegazy"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-plugins-official\n\n Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n Python\n\n 43,194\n\n 4,571\n\n Built by\n\n 5,441 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "storytold",
+    "name": "artcraft",
+    "fullName": "storytold/artcraft",
+    "projectLink": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 33778,
+    "forks": 5346,
+    "deltaStars": 13572,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "echelon",
+        "profile": "https://github.com/echelon"
+      },
+      {
+        "login": "bflatastic",
+        "profile": "https://github.com/bflatastic"
+      },
+      {
+        "login": "ArEnSc",
+        "profile": "https://github.com/ArEnSc"
+      },
+      {
+        "login": "wilwong",
+        "profile": "https://github.com/wilwong"
+      },
+      {
+        "login": "Quicksticks-oss",
+        "profile": "https://github.com/Quicksticks-oss"
+      }
+    ],
+    "trendingSnippet": "Star\n\n storytold /\n\n artcraft\n\n ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\n\n Rust\n\n 33,778\n\n 5,346\n\n Built by\n\n 13,572 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "MadsLorentzen",
+    "name": "ai-job-search",
+    "fullName": "MadsLorentzen/ai-job-search",
+    "projectLink": "https://github.com/MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars": 57485,
+    "forks": 18243,
+    "deltaStars": 9073,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "MadsLorentzen",
+        "profile": "https://github.com/MadsLorentzen"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      },
+      {
+        "login": "oscarbol09",
+        "profile": "https://github.com/oscarbol09"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n MadsLorentzen /\n\n ai-job-search\n\n The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n Python\n\n 57,485\n\n 18,243\n\n Built by\n\n 9,073 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "fullName": "boykopovar/AnyPS5",
+    "projectLink": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 44549,
+    "forks": 4072,
+    "deltaStars": 12389,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "adriadam10",
+        "profile": "https://github.com/adriadam10"
+      },
+      {
+        "login": "oneandonlydean",
+        "profile": "https://github.com/oneandonlydean"
+      },
+      {
+        "login": "boykopovar",
+        "profile": "https://github.com/boykopovar"
+      },
+      {
+        "login": "MarcZX10",
+        "profile": "https://github.com/MarcZX10"
+      }
+    ],
+    "trendingSnippet": "Star\n\n boykopovar /\n\n AnyPS5\n\n Tool for automatic PS5 executables porting to Linux and Windows\n\n C++\n\n 44,549\n\n 4,072\n\n Built by\n\n 12,389 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "NationalSecurityAgency",
+    "name": "ghidra",
+    "fullName": "NationalSecurityAgency/ghidra",
+    "projectLink": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 91626,
+    "forks": 10266,
+    "deltaStars": 7152,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ryanmkurtz",
+        "profile": "https://github.com/ryanmkurtz"
+      },
+      {
+        "login": "ghidra1",
+        "profile": "https://github.com/ghidra1"
+      },
+      {
+        "login": "dragonmacher",
+        "profile": "https://github.com/dragonmacher"
+      },
+      {
+        "login": "nsadeveloper789",
+        "profile": "https://github.com/nsadeveloper789"
+      },
+      {
+        "login": "caheckman",
+        "profile": "https://github.com/caheckman"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NationalSecurityAgency /\n\n ghidra\n\n Ghidra is a software reverse engineering (SRE) framework\n\n Java\n\n 91,626\n\n 10,266\n\n Built by\n\n 7,152 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "mksglu",
+    "name": "context-mode",
+    "fullName": "mksglu/context-mode",
+    "projectLink": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 31103,
+    "forks": 2336,
+    "deltaStars": 4224,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mksglu",
+        "profile": "https://github.com/mksglu"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ipedro",
+        "profile": "https://github.com/ipedro"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mksglu /\n\n context-mode\n\n Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.\n\n TypeScript\n\n 31,103\n\n 2,336\n\n Built by\n\n 4,224 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 67717,
+    "forks": 6120,
+    "deltaStars": 5945,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n Write HTML. Render video. Built for agents.\n\n TypeScript\n\n 67,717\n\n 6,120\n\n Built by\n\n 5,945 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 58470,
+    "forks": 3755,
+    "deltaStars": 6638,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "parveen0029",
+        "profile": "https://github.com/parveen0029"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 58,470\n\n 3,755\n\n Built by\n\n 6,638 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "K-Dense-AI",
+    "name": "scientific-agent-skills",
+    "fullName": "K-Dense-AI/scientific-agent-skills",
+    "projectLink": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, med...",
+    "language": "Python",
+    "stars": 52950,
+    "forks": 4688,
+    "deltaStars": 4355,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "timothykassis",
+        "profile": "https://github.com/timothykassis"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "borealBytes",
+        "profile": "https://github.com/borealBytes"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n K-Dense-AI /\n\n scientific-agent-skills\n\n Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\n\n Python\n\n 52,950\n\n 4,688\n\n Built by\n\n 4,355 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "cursor",
+    "name": "plugins",
+    "fullName": "cursor/plugins",
+    "projectLink": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 13066,
+    "forks": 1283,
+    "deltaStars": 1975,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "poteto",
+        "profile": "https://github.com/poteto"
+      },
+      {
+        "login": "minupalaniappan",
+        "profile": "https://github.com/minupalaniappan"
+      },
+      {
+        "login": "ericzakariasson",
+        "profile": "https://github.com/ericzakariasson"
+      },
+      {
+        "login": "roshansada",
+        "profile": "https://github.com/roshansada"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cursor /\n\n plugins\n\n Cursor plugin specification and official plugins\n\n TypeScript\n\n 13,066\n\n 1,283\n\n Built by\n\n 1,975 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 12,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 77595,
+    "forks": 8502,
+    "deltaStars": 17291,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 77,595\n\n 8,502\n\n Built by\n\n 17,291 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 13,
+    "owner": "YuJunZhiXue",
+    "name": "dsh-purge",
+    "fullName": "YuJunZhiXue/dsh-purge",
+    "projectLink": "https://github.com/YuJunZhiXue/dsh-purge",
+    "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+    "language": "JavaScript",
+    "stars": 9086,
+    "forks": 1610,
+    "deltaStars": 2933,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "YuJunZhiXue",
+        "profile": "https://github.com/YuJunZhiXue"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "Musan-34",
+        "profile": "https://github.com/Musan-34"
+      },
+      {
+        "login": "fomaper",
+        "profile": "https://github.com/fomaper"
+      },
+      {
+        "login": "Kilig1058674225",
+        "profile": "https://github.com/Kilig1058674225"
+      }
+    ],
+    "trendingSnippet": "Star\n\n YuJunZhiXue /\n\n dsh-purge\n\n DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分\n\n JavaScript\n\n 9,086\n\n 1,610\n\n Built by\n\n 2,933 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 14,
+    "owner": "ruvnet",
+    "name": "ruflo",
+    "fullName": "ruvnet/ruflo",
+    "projectLink": "https://github.com/ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG...",
+    "language": "TypeScript",
+    "stars": 77225,
+    "forks": 9104,
+    "deltaStars": 2543,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ruvnet",
+        "profile": "https://github.com/ruvnet"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "proffesor-for-testing",
+        "profile": "https://github.com/proffesor-for-testing"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ruvnet /\n\n ruflo\n\n 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\n TypeScript\n\n 77,225\n\n 9,104\n\n Built by\n\n 2,543 stars this week"
+  }
+]
