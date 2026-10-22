@@ -1,0 +1,426 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 36620,
+    "forks": 2285,
+    "deltaStars": 2012,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 36,620\n\n 2,285\n\n Built by\n\n 2,012 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "vllm-project",
+    "name": "vllm",
+    "fullName": "vllm-project/vllm",
+    "projectLink": "https://github.com/vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "language": "Python",
+    "stars": 94906,
+    "forks": 23749,
+    "deltaStars": 441,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "DarkLight1337",
+        "profile": "https://github.com/DarkLight1337"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mgoin",
+        "profile": "https://github.com/mgoin"
+      },
+      {
+        "login": "WoosukKwon",
+        "profile": "https://github.com/WoosukKwon"
+      },
+      {
+        "login": "hmellor",
+        "profile": "https://github.com/hmellor"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n vllm-project /\n\n vllm\n\n A high-throughput and memory-efficient inference and serving engine for LLMs\n\n Python\n\n 94,906\n\n 23,749\n\n Built by\n\n 441 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "stablyai",
+    "name": "orca",
+    "fullName": "stablyai/orca",
+    "projectLink": "https://github.com/stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "stars": 101361,
+    "forks": 6411,
+    "deltaStars": 1541,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "nwparker",
+        "profile": "https://github.com/nwparker"
+      },
+      {
+        "login": "brennanb2025",
+        "profile": "https://github.com/brennanb2025"
+      },
+      {
+        "login": "Jinwoo-H",
+        "profile": "https://github.com/Jinwoo-H"
+      },
+      {
+        "login": "AmethystLiang",
+        "profile": "https://github.com/AmethystLiang"
+      },
+      {
+        "login": "orca-ide",
+        "profile": "https://github.com/orca-ide"
+      }
+    ],
+    "trendingSnippet": "Star\n\n stablyai /\n\n orca\n\n Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\n\n TypeScript\n\n 101,361\n\n 6,411\n\n Built by\n\n 1,541 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "headroomlabs-ai",
+    "name": "headroom",
+    "fullName": "headroomlabs-ai/headroom",
+    "projectLink": "https://github.com/headroomlabs-ai/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "stars": 77288,
+    "forks": 5996,
+    "deltaStars": 474,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "chopratejas",
+        "profile": "https://github.com/chopratejas"
+      },
+      {
+        "login": "JerrettDavis",
+        "profile": "https://github.com/JerrettDavis"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abhay-codes07",
+        "profile": "https://github.com/abhay-codes07"
+      },
+      {
+        "login": "gglucass",
+        "profile": "https://github.com/gglucass"
+      }
+    ],
+    "trendingSnippet": "Star\n\n headroomlabs-ai /\n\n headroom\n\n Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.\n\n Python\n\n 77,288\n\n 5,996\n\n Built by\n\n 474 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "DietrichGebert",
+    "name": "ponytail",
+    "fullName": "DietrichGebert/ponytail",
+    "projectLink": "https://github.com/DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 171745,
+    "forks": 9345,
+    "deltaStars": 2079,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "DietrichGebert",
+        "profile": "https://github.com/DietrichGebert"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      },
+      {
+        "login": "Lakshya77089",
+        "profile": "https://github.com/Lakshya77089"
+      },
+      {
+        "login": "dhedhialy",
+        "profile": "https://github.com/dhedhialy"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n DietrichGebert /\n\n ponytail\n\n Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n JavaScript\n\n 171,745\n\n 9,345\n\n Built by\n\n 2,079 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "Comfy-Org",
+    "name": "ComfyUI",
+    "fullName": "Comfy-Org/ComfyUI",
+    "projectLink": "https://github.com/Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "language": "Python",
+    "stars": 141564,
+    "forks": 16730,
+    "deltaStars": 939,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "comfyanonymous",
+        "profile": "https://github.com/comfyanonymous"
+      },
+      {
+        "login": "bigcat88",
+        "profile": "https://github.com/bigcat88"
+      },
+      {
+        "login": "pythongosssss",
+        "profile": "https://github.com/pythongosssss"
+      },
+      {
+        "login": "comfyui-wiki",
+        "profile": "https://github.com/comfyui-wiki"
+      },
+      {
+        "login": "rattus128",
+        "profile": "https://github.com/rattus128"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Comfy-Org /\n\n ComfyUI\n\n The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\n\n Python\n\n 141,564\n\n 16,730\n\n Built by\n\n 939 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "supabase",
+    "name": "supabase",
+    "fullName": "supabase/supabase",
+    "projectLink": "https://github.com/supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars": 113040,
+    "forks": 16941,
+    "deltaStars": 504,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "joshenlim",
+        "profile": "https://github.com/joshenlim"
+      },
+      {
+        "login": "kiwicopple",
+        "profile": "https://github.com/kiwicopple"
+      },
+      {
+        "login": "MildTomato",
+        "profile": "https://github.com/MildTomato"
+      },
+      {
+        "login": "saltcod",
+        "profile": "https://github.com/saltcod"
+      },
+      {
+        "login": "alaister",
+        "profile": "https://github.com/alaister"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n supabase /\n\n supabase\n\n The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.\n\n TypeScript\n\n 113,040\n\n 16,941\n\n Built by\n\n 504 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "twentyhq",
+    "name": "twenty",
+    "fullName": "twentyhq/twenty",
+    "projectLink": "https://github.com/twentyhq/twenty",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "language": "TypeScript",
+    "stars": 59207,
+    "forks": 9664,
+    "deltaStars": 112,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "charlesBochet",
+        "profile": "https://github.com/charlesBochet"
+      },
+      {
+        "login": "FelixMalfait",
+        "profile": "https://github.com/FelixMalfait"
+      },
+      {
+        "login": "bosiraphael",
+        "profile": "https://github.com/bosiraphael"
+      },
+      {
+        "login": "Weiko",
+        "profile": "https://github.com/Weiko"
+      }
+    ],
+    "trendingSnippet": "Star\n\n twentyhq /\n\n twenty\n\n The open alternative to Salesforce, designed for AI.\n\n TypeScript\n\n 59,207\n\n 9,664\n\n Built by\n\n 112 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "shiyu-coder",
+    "name": "Kronos",
+    "fullName": "shiyu-coder/Kronos",
+    "projectLink": "https://github.com/shiyu-coder/Kronos",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "stars": 42857,
+    "forks": 7071,
+    "deltaStars": 575,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "shiyu-coder",
+        "profile": "https://github.com/shiyu-coder"
+      },
+      {
+        "login": "Luciferbobo",
+        "profile": "https://github.com/Luciferbobo"
+      },
+      {
+        "login": "CharlesJ-ABu",
+        "profile": "https://github.com/CharlesJ-ABu"
+      },
+      {
+        "login": "AnMakc",
+        "profile": "https://github.com/AnMakc"
+      },
+      {
+        "login": "randyy179",
+        "profile": "https://github.com/randyy179"
+      }
+    ],
+    "trendingSnippet": "Star\n\n shiyu-coder /\n\n Kronos\n\n Kronos: A Foundation Model for the Language of Financial Markets\n\n Python\n\n 42,857\n\n 7,071\n\n Built by\n\n 575 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "strelov1",
+    "name": "freehire",
+    "fullName": "strelov1/freehire",
+    "projectLink": "https://github.com/strelov1/freehire",
+    "description": "freehire — the open-source search engine for job seekers",
+    "language": "Go",
+    "stars": 2435,
+    "forks": 248,
+    "deltaStars": 360,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "strelov1",
+        "profile": "https://github.com/strelov1"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gearsandcode",
+        "profile": "https://github.com/gearsandcode"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n strelov1 /\n\n freehire\n\n freehire — the open-source search engine for job seekers\n\n Go\n\n 2,435\n\n 248\n\n Built by\n\n 360 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "akitaonrails",
+    "name": "ai-memory",
+    "fullName": "akitaonrails/ai-memory",
+    "projectLink": "https://github.com/akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars": 12366,
+    "forks": 873,
+    "deltaStars": 286,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "akitaonrails",
+        "profile": "https://github.com/akitaonrails"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "viniciusdsandrade",
+        "profile": "https://github.com/viniciusdsandrade"
+      },
+      {
+        "login": "djalmajr",
+        "profile": "https://github.com/djalmajr"
+      },
+      {
+        "login": "everton-dgn",
+        "profile": "https://github.com/everton-dgn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n akitaonrails /\n\n ai-memory\n\n Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n Rust\n\n 12,366\n\n 873\n\n Built by\n\n 286 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "Graphify-Labs",
+    "name": "graphify",
+    "fullName": "Graphify-Labs/graphify",
+    "projectLink": "https://github.com/Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explain...",
+    "language": "Python",
+    "stars": 131703,
+    "forks": 12641,
+    "deltaStars": 1433,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "safishamsi",
+        "profile": "https://github.com/safishamsi"
+      },
+      {
+        "login": "ayushcodes10",
+        "profile": "https://github.com/ayushcodes10"
+      },
+      {
+        "login": "rajatnagda45",
+        "profile": "https://github.com/rajatnagda45"
+      },
+      {
+        "login": "abhay-codes07",
+        "profile": "https://github.com/abhay-codes07"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Graphify-Labs /\n\n graphify\n\n Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\n Python\n\n 131,703\n\n 12,641\n\n Built by\n\n 1,433 stars today"
+  }
+]
