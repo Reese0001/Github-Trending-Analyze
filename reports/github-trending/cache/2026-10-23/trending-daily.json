@@ -1,0 +1,311 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "php",
+    "name": "php-src",
+    "fullName": "php/php-src",
+    "projectLink": "https://github.com/php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "stars": 41196,
+    "forks": 8316,
+    "deltaStars": 287,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dstogov",
+        "profile": "https://github.com/dstogov"
+      },
+      {
+        "login": "nikic",
+        "profile": "https://github.com/nikic"
+      },
+      {
+        "login": "weltling",
+        "profile": "https://github.com/weltling"
+      },
+      {
+        "login": "cmb69",
+        "profile": "https://github.com/cmb69"
+      },
+      {
+        "login": "iliaal",
+        "profile": "https://github.com/iliaal"
+      }
+    ],
+    "trendingSnippet": "Star\n\n php /\n\n php-src\n\n The PHP Interpreter\n\n C\n\n 41,196\n\n 8,316\n\n Built by\n\n 287 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "anthropics",
+    "name": "knowledge-work-plugins",
+    "fullName": "anthropics/knowledge-work-plugins",
+    "projectLink": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 31653,
+    "forks": 3536,
+    "deltaStars": 303,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mattpic-ant",
+        "profile": "https://github.com/mattpic-ant"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n knowledge-work-plugins\n\n Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n Python\n\n 31,653\n\n 3,536\n\n Built by\n\n 303 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "DietrichGebert",
+    "name": "ponytail",
+    "fullName": "DietrichGebert/ponytail",
+    "projectLink": "https://github.com/DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 173580,
+    "forks": 9445,
+    "deltaStars": 1948,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "DietrichGebert",
+        "profile": "https://github.com/DietrichGebert"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ousamabenyounes",
+        "profile": "https://github.com/ousamabenyounes"
+      },
+      {
+        "login": "Lakshya77089",
+        "profile": "https://github.com/Lakshya77089"
+      },
+      {
+        "login": "dhedhialy",
+        "profile": "https://github.com/dhedhialy"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n DietrichGebert /\n\n ponytail\n\n Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n JavaScript\n\n 173,580\n\n 9,445\n\n Built by\n\n 1,948 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 39678,
+    "forks": 2477,
+    "deltaStars": 2979,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 39,678\n\n 2,477\n\n Built by\n\n 2,979 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "Graphify-Labs",
+    "name": "graphify",
+    "fullName": "Graphify-Labs/graphify",
+    "projectLink": "https://github.com/Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explain...",
+    "language": "Python",
+    "stars": 133022,
+    "forks": 12727,
+    "deltaStars": 1408,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "safishamsi",
+        "profile": "https://github.com/safishamsi"
+      },
+      {
+        "login": "ayushcodes10",
+        "profile": "https://github.com/ayushcodes10"
+      },
+      {
+        "login": "rajatnagda45",
+        "profile": "https://github.com/rajatnagda45"
+      },
+      {
+        "login": "abhay-codes07",
+        "profile": "https://github.com/abhay-codes07"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Graphify-Labs /\n\n graphify\n\n Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\n Python\n\n 133,022\n\n 12,727\n\n Built by\n\n 1,408 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "supabase",
+    "name": "supabase",
+    "fullName": "supabase/supabase",
+    "projectLink": "https://github.com/supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars": 113512,
+    "forks": 17004,
+    "deltaStars": 693,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "joshenlim",
+        "profile": "https://github.com/joshenlim"
+      },
+      {
+        "login": "kiwicopple",
+        "profile": "https://github.com/kiwicopple"
+      },
+      {
+        "login": "MildTomato",
+        "profile": "https://github.com/MildTomato"
+      },
+      {
+        "login": "saltcod",
+        "profile": "https://github.com/saltcod"
+      },
+      {
+        "login": "alaister",
+        "profile": "https://github.com/alaister"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n supabase /\n\n supabase\n\n The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.\n\n TypeScript\n\n 113,512\n\n 17,004\n\n Built by\n\n 693 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "fastapi",
+    "name": "fastapi",
+    "fullName": "fastapi/fastapi",
+    "projectLink": "https://github.com/fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "stars": 103779,
+    "forks": 10091,
+    "deltaStars": 101,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "tiangolo",
+        "profile": "https://github.com/tiangolo"
+      },
+      {
+        "login": "YuriiMotov",
+        "profile": "https://github.com/YuriiMotov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n fastapi /\n\n fastapi\n\n FastAPI framework, high performance, easy to learn, fast to code, ready for production\n\n Python\n\n 103,779\n\n 10,091\n\n Built by\n\n 101 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "luongnv89",
+    "name": "claude-howto",
+    "fullName": "luongnv89/claude-howto",
+    "projectLink": "https://github.com/luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "stars": 43276,
+    "forks": 5395,
+    "deltaStars": 177,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "luongnv89",
+        "profile": "https://github.com/luongnv89"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "edocltd",
+        "profile": "https://github.com/edocltd"
+      },
+      {
+        "login": "toanalien",
+        "profile": "https://github.com/toanalien"
+      },
+      {
+        "login": "lzw-git-all",
+        "profile": "https://github.com/lzw-git-all"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n luongnv89 /\n\n claude-howto\n\n A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\n Python\n\n 43,276\n\n 5,395\n\n Built by\n\n 177 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "Meloong-Git",
+    "name": "PCL",
+    "fullName": "Meloong-Git/PCL",
+    "projectLink": "https://github.com/Meloong-Git/PCL",
+    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "language": "Visual Basic .NET",
+    "stars": 8717,
+    "forks": 1204,
+    "deltaStars": 119,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "LTCatt",
+        "profile": "https://github.com/LTCatt"
+      },
+      {
+        "login": "allMagicNB",
+        "profile": "https://github.com/allMagicNB"
+      },
+      {
+        "login": "RyogiMutsuki",
+        "profile": "https://github.com/RyogiMutsuki"
+      },
+      {
+        "login": "wyc-26",
+        "profile": "https://github.com/wyc-26"
+      },
+      {
+        "login": "Pigeon0v0",
+        "profile": "https://github.com/Pigeon0v0"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Meloong-Git /\n\n PCL\n\n Minecraft 启动器 Plain Craft Launcher（PCL）。\n\n Visual Basic .NET\n\n 8,717\n\n 1,204\n\n Built by\n\n 119 stars today"
+  }
+]
