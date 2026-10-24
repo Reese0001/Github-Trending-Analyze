@@ -1,0 +1,282 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 42222,
+    "forks": 2638,
+    "deltaStars": 2716,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 42,222\n\n 2,638\n\n Built by\n\n 2,716 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "php",
+    "name": "php-src",
+    "fullName": "php/php-src",
+    "projectLink": "https://github.com/php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "stars": 41573,
+    "forks": 8361,
+    "deltaStars": 716,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dstogov",
+        "profile": "https://github.com/dstogov"
+      },
+      {
+        "login": "nikic",
+        "profile": "https://github.com/nikic"
+      },
+      {
+        "login": "weltling",
+        "profile": "https://github.com/weltling"
+      },
+      {
+        "login": "cmb69",
+        "profile": "https://github.com/cmb69"
+      },
+      {
+        "login": "iliaal",
+        "profile": "https://github.com/iliaal"
+      }
+    ],
+    "trendingSnippet": "Star\n\n php /\n\n php-src\n\n The PHP Interpreter\n\n C\n\n 41,573\n\n 8,361\n\n Built by\n\n 716 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "anthropics",
+    "name": "knowledge-work-plugins",
+    "fullName": "anthropics/knowledge-work-plugins",
+    "projectLink": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 32249,
+    "forks": 3574,
+    "deltaStars": 635,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mattpic-ant",
+        "profile": "https://github.com/mattpic-ant"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n knowledge-work-plugins\n\n Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n Python\n\n 32,249\n\n 3,574\n\n Built by\n\n 635 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "NVIDIA",
+    "name": "OpenShell",
+    "fullName": "NVIDIA/OpenShell",
+    "projectLink": "https://github.com/NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "stars": 18831,
+    "forks": 1886,
+    "deltaStars": 1119,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "drew",
+        "profile": "https://github.com/drew"
+      },
+      {
+        "login": "johntmyers",
+        "profile": "https://github.com/johntmyers"
+      },
+      {
+        "login": "pimlock",
+        "profile": "https://github.com/pimlock"
+      },
+      {
+        "login": "miyoungc",
+        "profile": "https://github.com/miyoungc"
+      },
+      {
+        "login": "elezar",
+        "profile": "https://github.com/elezar"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NVIDIA /\n\n OpenShell\n\n OpenShell is the safe, private runtime for autonomous AI agents.\n\n Rust\n\n 18,831\n\n 1,886\n\n Built by\n\n 1,119 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "Renhuai123",
+    "name": "ziwei-doushu",
+    "fullName": "Renhuai123/ziwei-doushu",
+    "projectLink": "https://github.com/Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "language": "TypeScript",
+    "stars": 6892,
+    "forks": 1413,
+    "deltaStars": 546,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Renhuai123",
+        "profile": "https://github.com/Renhuai123"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Renhuai",
+        "profile": "https://github.com/Renhuai"
+      },
+      {
+        "login": "sakura168899-debug",
+        "profile": "https://github.com/sakura168899-debug"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Renhuai123 /\n\n ziwei-doushu\n\n 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\n TypeScript\n\n 6,892\n\n 1,413\n\n Built by\n\n 546 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "SnailSploit",
+    "name": "Claude-Red",
+    "fullName": "SnailSploit/Claude-Red",
+    "projectLink": "https://github.com/SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surfa...",
+    "language": "Python",
+    "stars": 8521,
+    "forks": 1103,
+    "deltaStars": 226,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "SnailSploit",
+        "profile": "https://github.com/SnailSploit"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "halilkirazkaya",
+        "profile": "https://github.com/halilkirazkaya"
+      },
+      {
+        "login": "LvL23HT",
+        "profile": "https://github.com/LvL23HT"
+      },
+      {
+        "login": "yogesh-tessl",
+        "profile": "https://github.com/yogesh-tessl"
+      }
+    ],
+    "trendingSnippet": "Star\n\n SnailSploit /\n\n Claude-Red\n\n claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.\n\n Python\n\n 8,521\n\n 1,103\n\n Built by\n\n 226 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "OpenBMB",
+    "name": "VoxCPM",
+    "fullName": "OpenBMB/VoxCPM",
+    "projectLink": "https://github.com/OpenBMB/VoxCPM",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "stars": 40282,
+    "forks": 4579,
+    "deltaStars": 150,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Labmem-Zhouyx",
+        "profile": "https://github.com/Labmem-Zhouyx"
+      },
+      {
+        "login": "a710128",
+        "profile": "https://github.com/a710128"
+      },
+      {
+        "login": "bcsdcox",
+        "profile": "https://github.com/bcsdcox"
+      },
+      {
+        "login": "liuxin99",
+        "profile": "https://github.com/liuxin99"
+      },
+      {
+        "login": "VoxInstruct",
+        "profile": "https://github.com/VoxInstruct"
+      }
+    ],
+    "trendingSnippet": "Star\n\n OpenBMB /\n\n VoxCPM\n\n VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning\n\n Python\n\n 40,282\n\n 4,579\n\n Built by\n\n 150 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "nodejs",
+    "name": "node",
+    "fullName": "nodejs/node",
+    "projectLink": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "stars": 122891,
+    "forks": 39834,
+    "deltaStars": 66,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Trott",
+        "profile": "https://github.com/Trott"
+      },
+      {
+        "login": "ry",
+        "profile": "https://github.com/ry"
+      },
+      {
+        "login": "bnoordhuis",
+        "profile": "https://github.com/bnoordhuis"
+      },
+      {
+        "login": "addaleax",
+        "profile": "https://github.com/addaleax"
+      },
+      {
+        "login": "isaacs",
+        "profile": "https://github.com/isaacs"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n nodejs /\n\n node\n\n Node.js JavaScript runtime ✨🐢🚀✨\n\n JavaScript\n\n 122,891\n\n 39,834\n\n Built by\n\n 66 stars today"
+  }
+]
