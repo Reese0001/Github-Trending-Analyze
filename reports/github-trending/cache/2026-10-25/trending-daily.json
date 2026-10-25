@@ -1,0 +1,344 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 44653,
+    "forks": 2769,
+    "deltaStars": 2264,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 44,653\n\n 2,769\n\n Built by\n\n 2,264 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "NVIDIA",
+    "name": "OpenShell",
+    "fullName": "NVIDIA/OpenShell",
+    "projectLink": "https://github.com/NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "stars": 19494,
+    "forks": 1932,
+    "deltaStars": 896,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "drew",
+        "profile": "https://github.com/drew"
+      },
+      {
+        "login": "johntmyers",
+        "profile": "https://github.com/johntmyers"
+      },
+      {
+        "login": "pimlock",
+        "profile": "https://github.com/pimlock"
+      },
+      {
+        "login": "miyoungc",
+        "profile": "https://github.com/miyoungc"
+      },
+      {
+        "login": "elezar",
+        "profile": "https://github.com/elezar"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NVIDIA /\n\n OpenShell\n\n OpenShell is the safe, private runtime for autonomous AI agents.\n\n Rust\n\n 19,494\n\n 1,932\n\n Built by\n\n 896 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "aws",
+    "name": "agent-toolkit-for-aws",
+    "fullName": "aws/agent-toolkit-for-aws",
+    "projectLink": "https://github.com/aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "language": "Python",
+    "stars": 3142,
+    "forks": 400,
+    "deltaStars": 13,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "arnewouters",
+        "profile": "https://github.com/arnewouters"
+      },
+      {
+        "login": "herosjourney",
+        "profile": "https://github.com/herosjourney"
+      },
+      {
+        "login": "anasstahr",
+        "profile": "https://github.com/anasstahr"
+      },
+      {
+        "login": "rshevchuk-git",
+        "profile": "https://github.com/rshevchuk-git"
+      },
+      {
+        "login": "leon1418",
+        "profile": "https://github.com/leon1418"
+      }
+    ],
+    "trendingSnippet": "Star\n\n aws /\n\n agent-toolkit-for-aws\n\n Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS\n\n Python\n\n 3,142\n\n 400\n\n Built by\n\n 13 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 32189,
+    "forks": 1653,
+    "deltaStars": 455,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "riccardogiorato",
+        "profile": "https://github.com/riccardogiorato"
+      },
+      {
+        "login": "JaySmith502",
+        "profile": "https://github.com/JaySmith502"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 32,189\n\n 1,653\n\n Built by\n\n 455 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "luongnv89",
+    "name": "claude-howto",
+    "fullName": "luongnv89/claude-howto",
+    "projectLink": "https://github.com/luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "stars": 44583,
+    "forks": 5495,
+    "deltaStars": 392,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "luongnv89",
+        "profile": "https://github.com/luongnv89"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "edocltd",
+        "profile": "https://github.com/edocltd"
+      },
+      {
+        "login": "toanalien",
+        "profile": "https://github.com/toanalien"
+      },
+      {
+        "login": "lzw-git-all",
+        "profile": "https://github.com/lzw-git-all"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n luongnv89 /\n\n claude-howto\n\n A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\n Python\n\n 44,583\n\n 5,495\n\n Built by\n\n 392 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "Rust",
+    "stars": 86451,
+    "forks": 5155,
+    "deltaStars": 619,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design language that makes your AI harness better at design.\n\n Rust\n\n 86,451\n\n 5,155\n\n Built by\n\n 619 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "pollen-robotics",
+    "name": "microduck",
+    "fullName": "pollen-robotics/microduck",
+    "projectLink": "https://github.com/pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆",
+    "language": "Rust",
+    "stars": 11018,
+    "forks": 1415,
+    "deltaStars": 319,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pierre-rouanet",
+        "profile": "https://github.com/pierre-rouanet"
+      },
+      {
+        "login": "apirrone",
+        "profile": "https://github.com/apirrone"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Drenayaz",
+        "profile": "https://github.com/Drenayaz"
+      },
+      {
+        "login": "Nixxx19",
+        "profile": "https://github.com/Nixxx19"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pollen-robotics /\n\n microduck\n\n A Tiny biped duck robot 🦆\n\n Rust\n\n 11,018\n\n 1,415\n\n Built by\n\n 319 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "google-gemini",
+    "name": "gemini-cli",
+    "fullName": "google-gemini/gemini-cli",
+    "projectLink": "https://github.com/google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "language": "TypeScript",
+    "stars": 108078,
+    "forks": 14810,
+    "deltaStars": 44,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "scidomino",
+        "profile": "https://github.com/scidomino"
+      },
+      {
+        "login": "jacob314",
+        "profile": "https://github.com/jacob314"
+      },
+      {
+        "login": "NTaylorMullen",
+        "profile": "https://github.com/NTaylorMullen"
+      },
+      {
+        "login": "abhipatel12",
+        "profile": "https://github.com/abhipatel12"
+      },
+      {
+        "login": "SandyTao520",
+        "profile": "https://github.com/SandyTao520"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-gemini /\n\n gemini-cli\n\n An open-source AI agent that brings the power of Gemini directly into your terminal.\n\n TypeScript\n\n 108,078\n\n 14,810\n\n Built by\n\n 44 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "jbiaojerry",
+    "name": "ebook-treasure-chest",
+    "fullName": "jbiaojerry/ebook-treasure-chest",
+    "projectLink": "https://github.com/jbiaojerry/ebook-treasure-chest",
+    "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+    "language": "Python",
+    "stars": 22639,
+    "forks": 3192,
+    "deltaStars": 227,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jbiaojerry",
+        "profile": "https://github.com/jbiaojerry"
+      }
+    ],
+    "trendingSnippet": "Star\n\n jbiaojerry /\n\n ebook-treasure-chest\n\n 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。\n\n Python\n\n 22,639\n\n 3,192\n\n Built by\n\n 227 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "makecindy",
+    "name": "cindy",
+    "fullName": "makecindy/cindy",
+    "projectLink": "https://github.com/makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "stars": 4119,
+    "forks": 594,
+    "deltaStars": 477,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dashhuang",
+        "profile": "https://github.com/dashhuang"
+      },
+      {
+        "login": "zqchris",
+        "profile": "https://github.com/zqchris"
+      },
+      {
+        "login": "MagicLizi",
+        "profile": "https://github.com/MagicLizi"
+      },
+      {
+        "login": "DavidShenXD",
+        "profile": "https://github.com/DavidShenXD"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n makecindy /\n\n cindy\n\n Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n TypeScript\n\n 4,119\n\n 594\n\n Built by\n\n 477 stars today"
+  }
+]

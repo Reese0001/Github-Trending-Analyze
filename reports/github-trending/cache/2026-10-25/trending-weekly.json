@@ -1,0 +1,533 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 44653,
+    "forks": 2769,
+    "deltaStars": 12680,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 44,653\n\n 2,769\n\n Built by\n\n 12,680 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "morluto",
+    "name": "rea",
+    "fullName": "morluto/rea",
+    "projectLink": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 378950,
+    "forks": 94694,
+    "deltaStars": 78562,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "morluto",
+        "profile": "https://github.com/morluto"
+      },
+      {
+        "login": "kaoru0822-kitauji",
+        "profile": "https://github.com/kaoru0822-kitauji"
+      },
+      {
+        "login": "N0zoM1z0",
+        "profile": "https://github.com/N0zoM1z0"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gensokyo-dev",
+        "profile": "https://github.com/gensokyo-dev"
+      }
+    ],
+    "trendingSnippet": "Star\n\n morluto /\n\n rea\n\n Reverse engineer anything with agents, from app behavior down to native binaries.\n\n TypeScript\n\n 378,950\n\n 94,694\n\n Built by\n\n 78,562 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "fullName": "anthropics/claude-plugins-official",
+    "projectLink": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 44365,
+    "forks": 4655,
+    "deltaStars": 3232,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "mhegazy",
+        "profile": "https://github.com/mhegazy"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-plugins-official\n\n Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n Python\n\n 44,365\n\n 4,655\n\n Built by\n\n 3,232 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "ruvnet",
+    "name": "ruflo",
+    "fullName": "ruvnet/ruflo",
+    "projectLink": "https://github.com/ruvnet/ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG...",
+    "language": "TypeScript",
+    "stars": 79057,
+    "forks": 9283,
+    "deltaStars": 3241,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ruvnet",
+        "profile": "https://github.com/ruvnet"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "proffesor-for-testing",
+        "profile": "https://github.com/proffesor-for-testing"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ruvnet /\n\n ruflo\n\n 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated\n\n TypeScript\n\n 79,057\n\n 9,283\n\n Built by\n\n 3,241 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "stablyai",
+    "name": "orca",
+    "fullName": "stablyai/orca",
+    "projectLink": "https://github.com/stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "stars": 104988,
+    "forks": 6626,
+    "deltaStars": 9828,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "nwparker",
+        "profile": "https://github.com/nwparker"
+      },
+      {
+        "login": "brennanb2025",
+        "profile": "https://github.com/brennanb2025"
+      },
+      {
+        "login": "Jinwoo-H",
+        "profile": "https://github.com/Jinwoo-H"
+      },
+      {
+        "login": "AmethystLiang",
+        "profile": "https://github.com/AmethystLiang"
+      },
+      {
+        "login": "orca-ide",
+        "profile": "https://github.com/orca-ide"
+      }
+    ],
+    "trendingSnippet": "Star\n\n stablyai /\n\n orca\n\n Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.\n\n TypeScript\n\n 104,988\n\n 6,626\n\n Built by\n\n 9,828 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "anomalyco",
+    "name": "opencode",
+    "fullName": "anomalyco/opencode",
+    "projectLink": "https://github.com/anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "stars": 221102,
+    "forks": 29566,
+    "deltaStars": 6857,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "thdxr",
+        "profile": "https://github.com/thdxr"
+      },
+      {
+        "login": "rekram1-node",
+        "profile": "https://github.com/rekram1-node"
+      },
+      {
+        "login": "adamdotdevin",
+        "profile": "https://github.com/adamdotdevin"
+      },
+      {
+        "login": "kitlangton",
+        "profile": "https://github.com/kitlangton"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n anomalyco /\n\n opencode\n\n The open source coding agent.\n\n TypeScript\n\n 221,102\n\n 29,566\n\n Built by\n\n 6,857 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "cursor",
+    "name": "plugins",
+    "fullName": "cursor/plugins",
+    "projectLink": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 13917,
+    "forks": 1386,
+    "deltaStars": 1729,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "poteto",
+        "profile": "https://github.com/poteto"
+      },
+      {
+        "login": "minupalaniappan",
+        "profile": "https://github.com/minupalaniappan"
+      },
+      {
+        "login": "ericzakariasson",
+        "profile": "https://github.com/ericzakariasson"
+      },
+      {
+        "login": "roshansada",
+        "profile": "https://github.com/roshansada"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cursor /\n\n plugins\n\n Cursor plugin specification and official plugins\n\n TypeScript\n\n 13,917\n\n 1,386\n\n Built by\n\n 1,729 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "android",
+    "name": "skills",
+    "fullName": "android/skills",
+    "projectLink": "https://github.com/android/skills",
+    "description": "",
+    "language": "Kotlin",
+    "stars": 9601,
+    "forks": 620,
+    "deltaStars": 1317,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "android-devrel-github-bot",
+        "profile": "https://github.com/android-devrel-github-bot"
+      },
+      {
+        "login": "simona-anomis",
+        "profile": "https://github.com/simona-anomis"
+      },
+      {
+        "login": "JoseAlcerreca",
+        "profile": "https://github.com/JoseAlcerreca"
+      },
+      {
+        "login": "bentrengrove",
+        "profile": "https://github.com/bentrengrove"
+      },
+      {
+        "login": "vinishavathwani",
+        "profile": "https://github.com/vinishavathwani"
+      }
+    ],
+    "trendingSnippet": "Star\n\n android /\n\n skills\n\n Kotlin\n\n 9,601\n\n 620\n\n Built by\n\n 1,317 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "anthropics",
+    "name": "knowledge-work-plugins",
+    "fullName": "anthropics/knowledge-work-plugins",
+    "projectLink": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 32644,
+    "forks": 3605,
+    "deltaStars": 2631,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jordanecker-ant",
+        "profile": "https://github.com/jordanecker-ant"
+      },
+      {
+        "login": "bryan-anthropic",
+        "profile": "https://github.com/bryan-anthropic"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mattpic-ant",
+        "profile": "https://github.com/mattpic-ant"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n knowledge-work-plugins\n\n Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n Python\n\n 32,644\n\n 3,605\n\n Built by\n\n 2,631 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 71508,
+    "forks": 6461,
+    "deltaStars": 5633,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n Write HTML. Render video. Built for agents.\n\n TypeScript\n\n 71,508\n\n 6,461\n\n Built by\n\n 5,633 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "Comfy-Org",
+    "name": "ComfyUI",
+    "fullName": "Comfy-Org/ComfyUI",
+    "projectLink": "https://github.com/Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "language": "Python",
+    "stars": 142644,
+    "forks": 16823,
+    "deltaStars": 4648,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "comfyanonymous",
+        "profile": "https://github.com/comfyanonymous"
+      },
+      {
+        "login": "bigcat88",
+        "profile": "https://github.com/bigcat88"
+      },
+      {
+        "login": "pythongosssss",
+        "profile": "https://github.com/pythongosssss"
+      },
+      {
+        "login": "comfyui-wiki",
+        "profile": "https://github.com/comfyui-wiki"
+      },
+      {
+        "login": "rattus128",
+        "profile": "https://github.com/rattus128"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Comfy-Org /\n\n ComfyUI\n\n The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.\n\n Python\n\n 142,644\n\n 16,823\n\n Built by\n\n 4,648 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 12,
+    "owner": "akitaonrails",
+    "name": "ai-memory",
+    "fullName": "akitaonrails/ai-memory",
+    "projectLink": "https://github.com/akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars": 13283,
+    "forks": 936,
+    "deltaStars": 3541,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "akitaonrails",
+        "profile": "https://github.com/akitaonrails"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "viniciusdsandrade",
+        "profile": "https://github.com/viniciusdsandrade"
+      },
+      {
+        "login": "djalmajr",
+        "profile": "https://github.com/djalmajr"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n akitaonrails /\n\n ai-memory\n\n Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\n\n Rust\n\n 13,283\n\n 936\n\n Built by\n\n 3,541 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 13,
+    "owner": "Graphify-Labs",
+    "name": "graphify",
+    "fullName": "Graphify-Labs/graphify",
+    "projectLink": "https://github.com/Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explain...",
+    "language": "Python",
+    "stars": 134492,
+    "forks": 12837,
+    "deltaStars": 6868,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "safishamsi",
+        "profile": "https://github.com/safishamsi"
+      },
+      {
+        "login": "ayushcodes10",
+        "profile": "https://github.com/ayushcodes10"
+      },
+      {
+        "login": "rajatnagda45",
+        "profile": "https://github.com/rajatnagda45"
+      },
+      {
+        "login": "abhay-codes07",
+        "profile": "https://github.com/abhay-codes07"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Graphify-Labs /\n\n graphify\n\n Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.\n\n Python\n\n 134,492\n\n 12,837\n\n Built by\n\n 6,868 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 14,
+    "owner": "HKUDS",
+    "name": "CLI-Anything",
+    "fullName": "HKUDS/CLI-Anything",
+    "projectLink": "https://github.com/HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "stars": 56858,
+    "forks": 5095,
+    "deltaStars": 3069,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "yuh-yang",
+        "profile": "https://github.com/yuh-yang"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "AiMiDi",
+        "profile": "https://github.com/AiMiDi"
+      },
+      {
+        "login": "omerarslan0",
+        "profile": "https://github.com/omerarslan0"
+      },
+      {
+        "login": "hito0512",
+        "profile": "https://github.com/hito0512"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n CLI-Anything\n\n \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\n Python\n\n 56,858\n\n 5,095\n\n Built by\n\n 3,069 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 15,
+    "owner": "vllm-project",
+    "name": "vllm",
+    "fullName": "vllm-project/vllm",
+    "projectLink": "https://github.com/vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "language": "Python",
+    "stars": 95349,
+    "forks": 23902,
+    "deltaStars": 1371,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "DarkLight1337",
+        "profile": "https://github.com/DarkLight1337"
+      },
+      {
+        "login": "mgoin",
+        "profile": "https://github.com/mgoin"
+      },
+      {
+        "login": "WoosukKwon",
+        "profile": "https://github.com/WoosukKwon"
+      },
+      {
+        "login": "hmellor",
+        "profile": "https://github.com/hmellor"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n vllm-project /\n\n vllm\n\n A high-throughput and memory-efficient inference and serving engine for LLMs\n\n Python\n\n 95,349\n\n 23,902\n\n Built by\n\n 1,371 stars this week"
+  }
+]
