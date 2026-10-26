@@ -1,0 +1,385 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "makecindy",
+    "name": "cindy",
+    "fullName": "makecindy/cindy",
+    "projectLink": "https://github.com/makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "stars": 4929,
+    "forks": 669,
+    "deltaStars": 675,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dashhuang",
+        "profile": "https://github.com/dashhuang"
+      },
+      {
+        "login": "zqchris",
+        "profile": "https://github.com/zqchris"
+      },
+      {
+        "login": "MagicLizi",
+        "profile": "https://github.com/MagicLizi"
+      },
+      {
+        "login": "DavidShenXD",
+        "profile": "https://github.com/DavidShenXD"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n makecindy /\n\n cindy\n\n Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n TypeScript\n\n 4,929\n\n 669\n\n Built by\n\n 675 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 33888,
+    "forks": 1769,
+    "deltaStars": 1317,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "riccardogiorato",
+        "profile": "https://github.com/riccardogiorato"
+      },
+      {
+        "login": "JaySmith502",
+        "profile": "https://github.com/JaySmith502"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 33,888\n\n 1,769\n\n Built by\n\n 1,317 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "debpalash",
+    "name": "VoiceStudio",
+    "fullName": "debpalash/VoiceStudio",
+    "projectLink": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 86923,
+    "forks": 9620,
+    "deltaStars": 1592,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "debpalash",
+        "profile": "https://github.com/debpalash"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "velixio",
+        "profile": "https://github.com/velixio"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "jaketame",
+        "profile": "https://github.com/jaketame"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n debpalash /\n\n VoiceStudio\n\n VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\n\n Python\n\n 86,923\n\n 9,620\n\n Built by\n\n 1,592 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "Rust",
+    "stars": 87758,
+    "forks": 5246,
+    "deltaStars": 1092,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design language that makes your AI harness better at design.\n\n Rust\n\n 87,758\n\n 5,246\n\n Built by\n\n 1,092 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "pollen-robotics",
+    "name": "microduck",
+    "fullName": "pollen-robotics/microduck",
+    "projectLink": "https://github.com/pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆",
+    "language": "Rust",
+    "stars": 11691,
+    "forks": 1487,
+    "deltaStars": 647,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pierre-rouanet",
+        "profile": "https://github.com/pierre-rouanet"
+      },
+      {
+        "login": "apirrone",
+        "profile": "https://github.com/apirrone"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Drenayaz",
+        "profile": "https://github.com/Drenayaz"
+      },
+      {
+        "login": "Nixxx19",
+        "profile": "https://github.com/Nixxx19"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pollen-robotics /\n\n microduck\n\n A Tiny biped duck robot 🦆\n\n Rust\n\n 11,691\n\n 1,487\n\n Built by\n\n 647 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "TauricResearch",
+    "name": "TradingAgents",
+    "fullName": "TauricResearch/TradingAgents",
+    "projectLink": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": 114665,
+    "forks": 22129,
+    "deltaStars": 381,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Yijia-Xiao",
+        "profile": "https://github.com/Yijia-Xiao"
+      },
+      {
+        "login": "EdwardoSunny",
+        "profile": "https://github.com/EdwardoSunny"
+      },
+      {
+        "login": "CadeYu",
+        "profile": "https://github.com/CadeYu"
+      },
+      {
+        "login": "luohy15",
+        "profile": "https://github.com/luohy15"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n TauricResearch /\n\n TradingAgents\n\n TradingAgents: Multi-Agents LLM Financial Trading Framework\n\n Python\n\n 114,665\n\n 22,129\n\n Built by\n\n 381 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "Renhuai123",
+    "name": "ziwei-doushu",
+    "fullName": "Renhuai123/ziwei-doushu",
+    "projectLink": "https://github.com/Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "language": "TypeScript",
+    "stars": 7646,
+    "forks": 1555,
+    "deltaStars": 199,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Renhuai123",
+        "profile": "https://github.com/Renhuai123"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Renhuai",
+        "profile": "https://github.com/Renhuai"
+      },
+      {
+        "login": "sakura168899-debug",
+        "profile": "https://github.com/sakura168899-debug"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Renhuai123 /\n\n ziwei-doushu\n\n 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据\n\n TypeScript\n\n 7,646\n\n 1,555\n\n Built by\n\n 199 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "JetBrains",
+    "name": "thinkrail",
+    "fullName": "JetBrains/thinkrail",
+    "projectLink": "https://github.com/JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 1797,
+    "forks": 104,
+    "deltaStars": 51,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rsolmano",
+        "profile": "https://github.com/rsolmano"
+      },
+      {
+        "login": "danyaberezun",
+        "profile": "https://github.com/danyaberezun"
+      },
+      {
+        "login": "OLavrik",
+        "profile": "https://github.com/OLavrik"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "SBOne-Kenobi",
+        "profile": "https://github.com/SBOne-Kenobi"
+      }
+    ],
+    "trendingSnippet": "Star\n\n JetBrains /\n\n thinkrail\n\n Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n TypeScript\n\n 1,797\n\n 104\n\n Built by\n\n 51 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "coollabsio",
+    "name": "coolify",
+    "fullName": "coollabsio/coolify",
+    "projectLink": "https://github.com/coollabsio/coolify",
+    "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+    "language": "PHP",
+    "stars": 64433,
+    "forks": 5788,
+    "deltaStars": 152,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "andrasbacsai",
+        "profile": "https://github.com/andrasbacsai"
+      },
+      {
+        "login": "peaklabs-dev",
+        "profile": "https://github.com/peaklabs-dev"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ShadowArcanist",
+        "profile": "https://github.com/ShadowArcanist"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n coollabsio /\n\n coolify\n\n An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.\n\n PHP\n\n 64,433\n\n 5,788\n\n Built by\n\n 152 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 46996,
+    "forks": 2914,
+    "deltaStars": 2878,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 46,996\n\n 2,914\n\n Built by\n\n 2,878 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "AgriciDaniel",
+    "name": "claude-seo",
+    "fullName": "AgriciDaniel/claude-seo",
+    "projectLink": "https://github.com/AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, i...",
+    "language": "Python",
+    "stars": 20946,
+    "forks": 2957,
+    "deltaStars": 197,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "AgriciDaniel",
+        "profile": "https://github.com/AgriciDaniel"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Nordalux",
+        "profile": "https://github.com/Nordalux"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Star\n\n AgriciDaniel /\n\n claude-seo\n\n Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.\n\n Python\n\n 20,946\n\n 2,957\n\n Built by\n\n 197 stars today"
+  }
+]
