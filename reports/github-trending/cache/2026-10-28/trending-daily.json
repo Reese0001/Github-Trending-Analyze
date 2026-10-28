@@ -1,0 +1,381 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "elayadesign",
+    "name": "ai-design-skills",
+    "fullName": "elayadesign/ai-design-skills",
+    "projectLink": "https://github.com/elayadesign/ai-design-skills",
+    "description": "",
+    "language": "",
+    "stars": 9564,
+    "forks": 681,
+    "deltaStars": 1395,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "elayadesign",
+        "profile": "https://github.com/elayadesign"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n elayadesign /\n\n ai-design-skills\n\n 9,564\n\n 681\n\n Built by\n\n 1,395 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 39160,
+    "forks": 2042,
+    "deltaStars": 2830,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "riccardogiorato",
+        "profile": "https://github.com/riccardogiorato"
+      },
+      {
+        "login": "JaySmith502",
+        "profile": "https://github.com/JaySmith502"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 39,160\n\n 2,042\n\n Built by\n\n 2,830 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "nightly-labs",
+    "name": "openbot",
+    "fullName": "nightly-labs/openbot",
+    "projectLink": "https://github.com/nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "language": "TypeScript",
+    "stars": 2535,
+    "forks": 257,
+    "deltaStars": 777,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "NorbertBodziony",
+        "profile": "https://github.com/NorbertBodziony"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Sniezka1927",
+        "profile": "https://github.com/Sniezka1927"
+      },
+      {
+        "login": "nrb-dev",
+        "profile": "https://github.com/nrb-dev"
+      },
+      {
+        "login": "aniruddhaadak80",
+        "profile": "https://github.com/aniruddhaadak80"
+      }
+    ],
+    "trendingSnippet": "Star\n\n nightly-labs /\n\n openbot\n\n A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\n TypeScript\n\n 2,535\n\n 257\n\n Built by\n\n 777 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "obra",
+    "name": "superpowers",
+    "fullName": "obra/superpowers",
+    "projectLink": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 306510,
+    "forks": 27283,
+    "deltaStars": 617,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "obra",
+        "profile": "https://github.com/obra"
+      },
+      {
+        "login": "arittr",
+        "profile": "https://github.com/arittr"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "clkao",
+        "profile": "https://github.com/clkao"
+      },
+      {
+        "login": "arimu1",
+        "profile": "https://github.com/arimu1"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n obra /\n\n superpowers\n\n An agentic skills framework & software development methodology that works.\n\n Shell\n\n 306,510\n\n 27,283\n\n Built by\n\n 617 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "Rust",
+    "stars": 90691,
+    "forks": 5379,
+    "deltaStars": 1449,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design language that makes your AI harness better at design.\n\n Rust\n\n 90,691\n\n 5,379\n\n Built by\n\n 1,449 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "makecindy",
+    "name": "cindy",
+    "fullName": "makecindy/cindy",
+    "projectLink": "https://github.com/makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "stars": 7541,
+    "forks": 892,
+    "deltaStars": 1465,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dashhuang",
+        "profile": "https://github.com/dashhuang"
+      },
+      {
+        "login": "zqchris",
+        "profile": "https://github.com/zqchris"
+      },
+      {
+        "login": "MagicLizi",
+        "profile": "https://github.com/MagicLizi"
+      },
+      {
+        "login": "DavidShenXD",
+        "profile": "https://github.com/DavidShenXD"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n makecindy /\n\n cindy\n\n Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n TypeScript\n\n 7,541\n\n 892\n\n Built by\n\n 1,465 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "gitroomhq",
+    "name": "postiz-app",
+    "fullName": "gitroomhq/postiz-app",
+    "projectLink": "https://github.com/gitroomhq/postiz-app",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "language": "TypeScript",
+    "stars": 39458,
+    "forks": 7524,
+    "deltaStars": 951,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "nevo-david",
+        "profile": "https://github.com/nevo-david"
+      },
+      {
+        "login": "giladresisi",
+        "profile": "https://github.com/giladresisi"
+      },
+      {
+        "login": "egelhaus",
+        "profile": "https://github.com/egelhaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "jamesread",
+        "profile": "https://github.com/jamesread"
+      }
+    ],
+    "trendingSnippet": "Star\n\n gitroomhq /\n\n postiz-app\n\n 📨 The ultimate agentic social media scheduling tool 🤖\n\n TypeScript\n\n 39,458\n\n 7,524\n\n Built by\n\n 951 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "affaan-m",
+    "name": "ECC",
+    "fullName": "affaan-m/ECC",
+    "projectLink": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 290957,
+    "forks": 43083,
+    "deltaStars": 1165,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "affaan-m",
+        "profile": "https://github.com/affaan-m"
+      },
+      {
+        "login": "haelyra",
+        "profile": "https://github.com/haelyra"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "montjeffrey",
+        "profile": "https://github.com/montjeffrey"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n affaan-m /\n\n ECC\n\n The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n JavaScript\n\n 290,957\n\n 43,083\n\n Built by\n\n 1,165 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "HKUDS",
+    "name": "DeepTutor",
+    "fullName": "HKUDS/DeepTutor",
+    "projectLink": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+    "language": "Python",
+    "stars": 46095,
+    "forks": 5774,
+    "deltaStars": 1598,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pancacake",
+        "profile": "https://github.com/pancacake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Pinkllow",
+        "profile": "https://github.com/Pinkllow"
+      },
+      {
+        "login": "evan188199-tech",
+        "profile": "https://github.com/evan188199-tech"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n DeepTutor\n\n DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\n Python\n\n 46,095\n\n 5,774\n\n Built by\n\n 1,598 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "JetBrains",
+    "name": "thinkrail",
+    "fullName": "JetBrains/thinkrail",
+    "projectLink": "https://github.com/JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 4119,
+    "forks": 219,
+    "deltaStars": 1204,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rsolmano",
+        "profile": "https://github.com/rsolmano"
+      },
+      {
+        "login": "danyaberezun",
+        "profile": "https://github.com/danyaberezun"
+      },
+      {
+        "login": "OLavrik",
+        "profile": "https://github.com/OLavrik"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "SBOne-Kenobi",
+        "profile": "https://github.com/SBOne-Kenobi"
+      }
+    ],
+    "trendingSnippet": "Star\n\n JetBrains /\n\n thinkrail\n\n Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n TypeScript\n\n 4,119\n\n 219\n\n Built by\n\n 1,204 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "togg53192-cmd",
+    "name": "jailbreaks",
+    "fullName": "togg53192-cmd/jailbreaks",
+    "projectLink": "https://github.com/togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "language": "",
+    "stars": 5687,
+    "forks": 843,
+    "deltaStars": 902,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "togg53192-cmd",
+        "profile": "https://github.com/togg53192-cmd"
+      },
+      {
+        "login": "raghavraut",
+        "profile": "https://github.com/raghavraut"
+      },
+      {
+        "login": "metalim",
+        "profile": "https://github.com/metalim"
+      },
+      {
+        "login": "reblox01",
+        "profile": "https://github.com/reblox01"
+      }
+    ],
+    "trendingSnippet": "Star\n\n togg53192-cmd /\n\n jailbreaks\n\n LIST OF ALL MY JAILBREAKS\n\n 5,687\n\n 843\n\n Built by\n\n 902 stars today"
+  }
+]
