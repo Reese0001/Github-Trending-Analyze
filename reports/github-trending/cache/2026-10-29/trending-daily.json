@@ -1,0 +1,492 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "JetBrains",
+    "name": "thinkrail",
+    "fullName": "JetBrains/thinkrail",
+    "projectLink": "https://github.com/JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 5188,
+    "forks": 268,
+    "deltaStars": 1068,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rsolmano",
+        "profile": "https://github.com/rsolmano"
+      },
+      {
+        "login": "danyaberezun",
+        "profile": "https://github.com/danyaberezun"
+      },
+      {
+        "login": "OLavrik",
+        "profile": "https://github.com/OLavrik"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "SBOne-Kenobi",
+        "profile": "https://github.com/SBOne-Kenobi"
+      }
+    ],
+    "trendingSnippet": "Star\n\n JetBrains /\n\n thinkrail\n\n Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n TypeScript\n\n 5,188\n\n 268\n\n Built by\n\n 1,068 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "elayadesign",
+    "name": "ai-design-skills",
+    "fullName": "elayadesign/ai-design-skills",
+    "projectLink": "https://github.com/elayadesign/ai-design-skills",
+    "description": "",
+    "language": "",
+    "stars": 11260,
+    "forks": 812,
+    "deltaStars": 2139,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "elayadesign",
+        "profile": "https://github.com/elayadesign"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n elayadesign /\n\n ai-design-skills\n\n 11,260\n\n 812\n\n Built by\n\n 2,139 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "obra",
+    "name": "superpowers",
+    "fullName": "obra/superpowers",
+    "projectLink": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 307529,
+    "forks": 27352,
+    "deltaStars": 1095,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "obra",
+        "profile": "https://github.com/obra"
+      },
+      {
+        "login": "arittr",
+        "profile": "https://github.com/arittr"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "clkao",
+        "profile": "https://github.com/clkao"
+      },
+      {
+        "login": "arimu1",
+        "profile": "https://github.com/arimu1"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n obra /\n\n superpowers\n\n An agentic skills framework & software development methodology that works.\n\n Shell\n\n 307,529\n\n 27,352\n\n Built by\n\n 1,095 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "HKUDS",
+    "name": "DeepTutor",
+    "fullName": "HKUDS/DeepTutor",
+    "projectLink": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+    "language": "Python",
+    "stars": 48199,
+    "forks": 5975,
+    "deltaStars": 2371,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pancacake",
+        "profile": "https://github.com/pancacake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Pinkllow",
+        "profile": "https://github.com/Pinkllow"
+      },
+      {
+        "login": "evan188199-tech",
+        "profile": "https://github.com/evan188199-tech"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n DeepTutor\n\n DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\n Python\n\n 48,199\n\n 5,975\n\n Built by\n\n 2,371 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "macro-inc",
+    "name": "macro",
+    "fullName": "macro-inc/macro",
+    "projectLink": "https://github.com/macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "stars": 5466,
+    "forks": 521,
+    "deltaStars": 117,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "gbirman",
+        "profile": "https://github.com/gbirman"
+      },
+      {
+        "login": "whutchinson98",
+        "profile": "https://github.com/whutchinson98"
+      },
+      {
+        "login": "synoet",
+        "profile": "https://github.com/synoet"
+      },
+      {
+        "login": "sedson",
+        "profile": "https://github.com/sedson"
+      },
+      {
+        "login": "peterchinman",
+        "profile": "https://github.com/peterchinman"
+      }
+    ],
+    "trendingSnippet": "Star\n\n macro-inc /\n\n macro\n\n Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.\n\n Rust\n\n 5,466\n\n 521\n\n Built by\n\n 117 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 40850,
+    "forks": 2117,
+    "deltaStars": 2110,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "riccardogiorato",
+        "profile": "https://github.com/riccardogiorato"
+      },
+      {
+        "login": "JaySmith502",
+        "profile": "https://github.com/JaySmith502"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 40,850\n\n 2,117\n\n Built by\n\n 2,110 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "stars": 92963,
+    "forks": 5488,
+    "deltaStars": 1472,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\n Rust\n\n 92,963\n\n 5,488\n\n Built by\n\n 1,472 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "makecindy",
+    "name": "cindy",
+    "fullName": "makecindy/cindy",
+    "projectLink": "https://github.com/makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "language": "TypeScript",
+    "stars": 8174,
+    "forks": 957,
+    "deltaStars": 728,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dashhuang",
+        "profile": "https://github.com/dashhuang"
+      },
+      {
+        "login": "zqchris",
+        "profile": "https://github.com/zqchris"
+      },
+      {
+        "login": "MagicLizi",
+        "profile": "https://github.com/MagicLizi"
+      },
+      {
+        "login": "DavidShenXD",
+        "profile": "https://github.com/DavidShenXD"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n makecindy /\n\n cindy\n\n Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n TypeScript\n\n 8,174\n\n 957\n\n Built by\n\n 728 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "nightly-labs",
+    "name": "openbot",
+    "fullName": "nightly-labs/openbot",
+    "projectLink": "https://github.com/nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "language": "TypeScript",
+    "stars": 3321,
+    "forks": 318,
+    "deltaStars": 1054,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "NorbertBodziony",
+        "profile": "https://github.com/NorbertBodziony"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Sniezka1927",
+        "profile": "https://github.com/Sniezka1927"
+      },
+      {
+        "login": "nrb-dev",
+        "profile": "https://github.com/nrb-dev"
+      },
+      {
+        "login": "aniruddhaadak80",
+        "profile": "https://github.com/aniruddhaadak80"
+      }
+    ],
+    "trendingSnippet": "Star\n\n nightly-labs /\n\n openbot\n\n A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.\n\n TypeScript\n\n 3,321\n\n 318\n\n Built by\n\n 1,054 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "togg53192-cmd",
+    "name": "jailbreaks",
+    "fullName": "togg53192-cmd/jailbreaks",
+    "projectLink": "https://github.com/togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "language": "",
+    "stars": 7276,
+    "forks": 1043,
+    "deltaStars": 1477,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "togg53192-cmd",
+        "profile": "https://github.com/togg53192-cmd"
+      },
+      {
+        "login": "raghavraut",
+        "profile": "https://github.com/raghavraut"
+      },
+      {
+        "login": "metalim",
+        "profile": "https://github.com/metalim"
+      },
+      {
+        "login": "reblox01",
+        "profile": "https://github.com/reblox01"
+      }
+    ],
+    "trendingSnippet": "Star\n\n togg53192-cmd /\n\n jailbreaks\n\n LIST OF ALL MY JAILBREAKS\n\n 7,276\n\n 1,043\n\n Built by\n\n 1,477 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "hmjz100",
+    "name": "LinkSwift",
+    "fullName": "hmjz100/LinkSwift",
+    "projectLink": "https://github.com/hmjz100/LinkSwift",
+    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+    "language": "JavaScript",
+    "stars": 35061,
+    "forks": 2491,
+    "deltaStars": 1616,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "hmjz100",
+        "profile": "https://github.com/hmjz100"
+      },
+      {
+        "login": "MisaLiu",
+        "profile": "https://github.com/MisaLiu"
+      },
+      {
+        "login": "Night-stars-1",
+        "profile": "https://github.com/Night-stars-1"
+      },
+      {
+        "login": "sherlocknieh",
+        "profile": "https://github.com/sherlocknieh"
+      },
+      {
+        "login": "DeepslateQAQ",
+        "profile": "https://github.com/DeepslateQAQ"
+      }
+    ],
+    "trendingSnippet": "Star\n\n hmjz100 /\n\n LinkSwift\n\n 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘\n\n JavaScript\n\n 35,061\n\n 2,491\n\n Built by\n\n 1,616 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "expo",
+    "name": "skills",
+    "fullName": "expo/skills",
+    "projectLink": "https://github.com/expo/skills",
+    "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "language": "Shell",
+    "stars": 3622,
+    "forks": 230,
+    "deltaStars": 90,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "EvanBacon",
+        "profile": "https://github.com/EvanBacon"
+      },
+      {
+        "login": "Kudo",
+        "profile": "https://github.com/Kudo"
+      },
+      {
+        "login": "gwdp",
+        "profile": "https://github.com/gwdp"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ide",
+        "profile": "https://github.com/ide"
+      }
+    ],
+    "trendingSnippet": "Star\n\n expo /\n\n skills\n\n A collection of AI agent skills for working with Expo projects and Expo Application Services\n\n Shell\n\n 3,622\n\n 230\n\n Built by\n\n 90 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "ruvnet",
+    "name": "RuView",
+    "fullName": "ruvnet/RuView",
+    "projectLink": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars": 101129,
+    "forks": 13165,
+    "deltaStars": 557,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ruvnet",
+        "profile": "https://github.com/ruvnet"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "proffesor-for-testing",
+        "profile": "https://github.com/proffesor-for-testing"
+      },
+      {
+        "login": "aepod",
+        "profile": "https://github.com/aepod"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ruvnet /\n\n RuView\n\n π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.\n\n Rust\n\n 101,129\n\n 13,165\n\n Built by\n\n 557 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 14,
+    "owner": "xiaolai",
+    "name": "the-craft-of-selfteaching",
+    "fullName": "xiaolai/the-craft-of-selfteaching",
+    "projectLink": "https://github.com/xiaolai/the-craft-of-selfteaching",
+    "description": "One has no future if one couldn't teach themself.",
+    "language": "Jupyter Notebook",
+    "stars": 18578,
+    "forks": 17894,
+    "deltaStars": 148,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "xiaolai",
+        "profile": "https://github.com/xiaolai"
+      },
+      {
+        "login": "wpeiran",
+        "profile": "https://github.com/wpeiran"
+      },
+      {
+        "login": "towerzju",
+        "profile": "https://github.com/towerzju"
+      },
+      {
+        "login": "HarryYC",
+        "profile": "https://github.com/HarryYC"
+      },
+      {
+        "login": "ljqbpm",
+        "profile": "https://github.com/ljqbpm"
+      }
+    ],
+    "trendingSnippet": "Star\n\n xiaolai /\n\n the-craft-of-selfteaching\n\n One has no future if one couldn't teach themself.\n\n Jupyter Notebook\n\n 18,578\n\n 17,894\n\n Built by\n\n 148 stars today"
+  }
+]
