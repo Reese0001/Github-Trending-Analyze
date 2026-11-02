@@ -1,0 +1,550 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 44993,
+    "forks": 2388,
+    "deltaStars": 11566,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "xunguangzlj-cloud",
+        "profile": "https://github.com/xunguangzlj-cloud"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "riccardogiorato",
+        "profile": "https://github.com/riccardogiorato"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 44,993\n\n 2,388\n\n Built by\n\n 11,566 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "stars": 99454,
+    "forks": 5881,
+    "deltaStars": 12017,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\n Rust\n\n 99,454\n\n 5,881\n\n Built by\n\n 12,017 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "AgriciDaniel",
+    "name": "claude-seo",
+    "fullName": "AgriciDaniel/claude-seo",
+    "projectLink": "https://github.com/AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, i...",
+    "language": "Python",
+    "stars": 25589,
+    "forks": 3360,
+    "deltaStars": 5034,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "AgriciDaniel",
+        "profile": "https://github.com/AgriciDaniel"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Nordalux",
+        "profile": "https://github.com/Nordalux"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Star\n\n AgriciDaniel /\n\n claude-seo\n\n Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.\n\n Python\n\n 25,589\n\n 3,360\n\n Built by\n\n 5,034 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "thedotmack",
+    "name": "claude-mem",
+    "fullName": "thedotmack/claude-mem",
+    "projectLink": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+    "language": "TypeScript",
+    "stars": 109459,
+    "forks": 9574,
+    "deltaStars": 5852,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "thedotmack",
+        "profile": "https://github.com/thedotmack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "rodboev",
+        "profile": "https://github.com/rodboev"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n thedotmack /\n\n claude-mem\n\n Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\n TypeScript\n\n 109,459\n\n 9,574\n\n Built by\n\n 5,852 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 56473,
+    "forks": 3681,
+    "deltaStars": 10069,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 56,473\n\n 3,681\n\n Built by\n\n 10,069 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "obra",
+    "name": "superpowers",
+    "fullName": "obra/superpowers",
+    "projectLink": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 310685,
+    "forks": 27652,
+    "deltaStars": 5896,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "obra",
+        "profile": "https://github.com/obra"
+      },
+      {
+        "login": "arittr",
+        "profile": "https://github.com/arittr"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "clkao",
+        "profile": "https://github.com/clkao"
+      },
+      {
+        "login": "arimu1",
+        "profile": "https://github.com/arimu1"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n obra /\n\n superpowers\n\n An agentic skills framework & software development methodology that works.\n\n Shell\n\n 310,685\n\n 27,652\n\n Built by\n\n 5,896 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "JetBrains",
+    "name": "thinkrail",
+    "fullName": "JetBrains/thinkrail",
+    "projectLink": "https://github.com/JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 6991,
+    "forks": 395,
+    "deltaStars": 5760,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "rsolmano",
+        "profile": "https://github.com/rsolmano"
+      },
+      {
+        "login": "danyaberezun",
+        "profile": "https://github.com/danyaberezun"
+      },
+      {
+        "login": "OLavrik",
+        "profile": "https://github.com/OLavrik"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Mark-Life",
+        "profile": "https://github.com/Mark-Life"
+      }
+    ],
+    "trendingSnippet": "Star\n\n JetBrains /\n\n thinkrail\n\n Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need\n\n TypeScript\n\n 6,991\n\n 395\n\n Built by\n\n 5,760 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "pingdotgg",
+    "name": "t3code",
+    "fullName": "pingdotgg/t3code",
+    "projectLink": "https://github.com/pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 38295,
+    "forks": 8927,
+    "deltaStars": 6926,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "juliusmarminge",
+        "profile": "https://github.com/juliusmarminge"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "t3dotgg",
+        "profile": "https://github.com/t3dotgg"
+      },
+      {
+        "login": "maria-rcks",
+        "profile": "https://github.com/maria-rcks"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pingdotgg /\n\n t3code\n\n TypeScript\n\n 38,295\n\n 8,927\n\n Built by\n\n 6,926 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "multica-ai",
+    "name": "andrej-karpathy-skills",
+    "fullName": "multica-ai/andrej-karpathy-skills",
+    "projectLink": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "stars": 228046,
+    "forks": 22747,
+    "deltaStars": 4459,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "forrestchang",
+        "profile": "https://github.com/forrestchang"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "back1ply",
+        "profile": "https://github.com/back1ply"
+      },
+      {
+        "login": "herobrine19",
+        "profile": "https://github.com/herobrine19"
+      },
+      {
+        "login": "szkocot",
+        "profile": "https://github.com/szkocot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n multica-ai /\n\n andrej-karpathy-skills\n\n A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\n\n 228,046\n\n 22,747\n\n Built by\n\n 4,459 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "jakubkrehel",
+    "name": "skills",
+    "fullName": "jakubkrehel/skills",
+    "projectLink": "https://github.com/jakubkrehel/skills",
+    "description": "A collection of agent skills that help you build great interfaces.",
+    "language": "Markdown",
+    "stars": 10114,
+    "forks": 392,
+    "deltaStars": 1607,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jakubkrehel",
+        "profile": "https://github.com/jakubkrehel"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n jakubkrehel /\n\n skills\n\n A collection of agent skills that help you build great interfaces.\n\n Markdown\n\n 10,114\n\n 392\n\n Built by\n\n 1,607 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "TauricResearch",
+    "name": "TradingAgents",
+    "fullName": "TauricResearch/TradingAgents",
+    "projectLink": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": 119575,
+    "forks": 22872,
+    "deltaStars": 5432,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "Yijia-Xiao",
+        "profile": "https://github.com/Yijia-Xiao"
+      },
+      {
+        "login": "EdwardoSunny",
+        "profile": "https://github.com/EdwardoSunny"
+      },
+      {
+        "login": "CadeYu",
+        "profile": "https://github.com/CadeYu"
+      },
+      {
+        "login": "luohy15",
+        "profile": "https://github.com/luohy15"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n TauricResearch /\n\n TradingAgents\n\n TradingAgents: Multi-Agents LLM Financial Trading Framework\n\n Python\n\n 119,575\n\n 22,872\n\n Built by\n\n 5,432 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 12,
+    "owner": "Leonxlnx",
+    "name": "taste-skill",
+    "fullName": "Leonxlnx/taste-skill",
+    "projectLink": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+    "language": "JavaScript",
+    "stars": 107892,
+    "forks": 7283,
+    "deltaStars": 5336,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "Leonxlnx",
+        "profile": "https://github.com/Leonxlnx"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "HugoSpy",
+        "profile": "https://github.com/HugoSpy"
+      },
+      {
+        "login": "flexi767",
+        "profile": "https://github.com/flexi767"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n Leonxlnx /\n\n taste-skill\n\n Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages\n\n JavaScript\n\n 107,892\n\n 7,283\n\n Built by\n\n 5,336 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 13,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 186405,
+    "forks": 22025,
+    "deltaStars": 2600,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 186,405\n\n 22,025\n\n Built by\n\n 2,600 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 14,
+    "owner": "affaan-m",
+    "name": "ECC",
+    "fullName": "affaan-m/ECC",
+    "projectLink": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 294871,
+    "forks": 43648,
+    "deltaStars": 6299,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "affaan-m",
+        "profile": "https://github.com/affaan-m"
+      },
+      {
+        "login": "haelyra",
+        "profile": "https://github.com/haelyra"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "montjeffrey",
+        "profile": "https://github.com/montjeffrey"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n affaan-m /\n\n ECC\n\n The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n\n JavaScript\n\n 294,871\n\n 43,648\n\n Built by\n\n 6,299 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 15,
+    "owner": "YuJunZhiXue",
+    "name": "dsh-purge",
+    "fullName": "YuJunZhiXue/dsh-purge",
+    "projectLink": "https://github.com/YuJunZhiXue/dsh-purge",
+    "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+    "language": "JavaScript",
+    "stars": 15447,
+    "forks": 3558,
+    "deltaStars": 6644,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "YuJunZhiXue",
+        "profile": "https://github.com/YuJunZhiXue"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Musan-34",
+        "profile": "https://github.com/Musan-34"
+      }
+    ],
+    "trendingSnippet": "Star\n\n YuJunZhiXue /\n\n dsh-purge\n\n DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分\n\n JavaScript\n\n 15,447\n\n 3,558\n\n Built by\n\n 6,644 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 16,
+    "owner": "ghostty-org",
+    "name": "ghostty",
+    "fullName": "ghostty-org/ghostty",
+    "projectLink": "https://github.com/ghostty-org/ghostty",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "language": "Zig",
+    "stars": 63193,
+    "forks": 3817,
+    "deltaStars": 589,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mitchellh",
+        "profile": "https://github.com/mitchellh"
+      },
+      {
+        "login": "jcollie",
+        "profile": "https://github.com/jcollie"
+      },
+      {
+        "login": "qwerasd205",
+        "profile": "https://github.com/qwerasd205"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ghostty-org /\n\n ghostty\n\n 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.\n\n Zig\n\n 63,193\n\n 3,817\n\n Built by\n\n 589 stars this week"
+  }
+]
