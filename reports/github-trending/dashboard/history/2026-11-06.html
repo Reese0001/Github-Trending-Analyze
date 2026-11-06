@@ -1,0 +1,1819 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GitHub Trending Dashboard</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-inner">
+        <nav class="period-nav" aria-label="趋势周期切换">
+
+        <button class="nav-link is-active" type="button" data-period-tab="daily">
+          每日
+        </button>
+
+        <button class="nav-link" type="button" data-period-tab="weekly">
+          每周
+        </button>
+
+        <button class="nav-link" type="button" data-period-tab="monthly">
+          每月
+        </button>
+
+        </nav>
+        <span class="generated-at" data-generated-at>Snapshot · 2026-11-06</span>
+      </div>
+    </header>
+
+    <main class="page">
+      <section class="page-heading">
+        <div>
+          <span class="section-kicker">Trend Insights</span>
+          <h1>GitHub Trending Dashboard</h1>
+        </div>
+        <div class="headline-callout">
+          <span class="callout-label">Current Lead</span>
+          <strong data-current-lead>NVIDIA/auto-ontology</strong>
+          <span data-current-growth>2.7k stars this day</span>
+        </div>
+      </section>
+
+      <section class="snapshot-toolbar" aria-label="历史快照选择">
+        <div class="snapshot-toolbar-heading">
+          <span>Archive Browser</span>
+          <strong>按时间加载历史榜单</strong>
+        </div>
+        <div class="date-controls">
+
+        <div class="date-control is-active" data-date-control="daily">
+          <div class="date-control-copy">
+            <span>按天加载</span>
+            <strong>日报日期</strong>
+          </div>
+          <label class="date-select-wrap">
+            <span class="sr-only">选择日报日期</span>
+            <select data-date-select="daily" aria-label="选择日报日期">
+
+                    <option value="./2026-11-06.html?period=daily" selected>2026-11-06</option>
+
+                    <option value="./2026-11-05.html?period=daily">2026-11-05</option>
+
+                    <option value="./2026-11-04.html?period=daily">2026-11-04</option>
+
+                    <option value="./2026-11-03.html?period=daily">2026-11-03</option>
+
+                    <option value="./2026-11-02.html?period=daily">2026-11-02</option>
+
+                    <option value="./2026-11-01.html?period=daily">2026-11-01</option>
+
+                    <option value="./2026-10-31.html?period=daily">2026-10-31</option>
+
+                    <option value="./2026-10-30.html?period=daily">2026-10-30</option>
+
+                    <option value="./2026-10-29.html?period=daily">2026-10-29</option>
+
+                    <option value="./2026-10-28.html?period=daily">2026-10-28</option>
+
+                    <option value="./2026-10-27.html?period=daily">2026-10-27</option>
+
+                    <option value="./2026-10-26.html?period=daily">2026-10-26</option>
+
+                    <option value="./2026-10-25.html?period=daily">2026-10-25</option>
+
+                    <option value="./2026-10-24.html?period=daily">2026-10-24</option>
+
+                    <option value="./2026-10-23.html?period=daily">2026-10-23</option>
+
+                    <option value="./2026-10-22.html?period=daily">2026-10-22</option>
+
+                    <option value="./2026-10-21.html?period=daily">2026-10-21</option>
+
+                    <option value="./2026-10-20.html?period=daily">2026-10-20</option>
+
+                    <option value="./2026-10-19.html?period=daily">2026-10-19</option>
+
+                    <option value="./2026-10-18.html?period=daily">2026-10-18</option>
+
+                    <option value="./2026-10-17.html?period=daily">2026-10-17</option>
+
+                    <option value="./2026-10-16.html?period=daily">2026-10-16</option>
+
+                    <option value="./2026-10-15.html?period=daily">2026-10-15</option>
+
+                    <option value="./2026-10-14.html?period=daily">2026-10-14</option>
+
+                    <option value="./2026-10-13.html?period=daily">2026-10-13</option>
+
+                    <option value="./2026-10-12.html?period=daily">2026-10-12</option>
+
+                    <option value="./2026-10-11.html?period=daily">2026-10-11</option>
+
+                    <option value="./2026-10-10.html?period=daily">2026-10-10</option>
+
+                    <option value="./2026-10-09.html?period=daily">2026-10-09</option>
+
+                    <option value="./2026-10-08.html?period=daily">2026-10-08</option>
+
+                    <option value="./2026-10-07.html?period=daily">2026-10-07</option>
+
+                    <option value="./2026-10-06.html?period=daily">2026-10-06</option>
+
+                    <option value="./2026-10-05.html?period=daily">2026-10-05</option>
+
+                    <option value="./2026-10-04.html?period=daily">2026-10-04</option>
+
+                    <option value="./2026-09-30.html?period=daily">2026-09-30</option>
+
+            </select>
+          </label>
+          <span class="archive-count">35 个可用日期</span>
+        </div>
+
+        <div class="date-control" data-date-control="weekly">
+          <div class="date-control-copy">
+            <span>按周加载</span>
+            <strong>周报周期</strong>
+          </div>
+          <label class="date-select-wrap">
+            <span class="sr-only">选择周报周期</span>
+            <select data-date-select="weekly" aria-label="选择周报周期">
+
+                    <option value="./2026-11-06.html?period=weekly" selected>2026 年第 45 周 · 11/02–11/08</option>
+
+                    <option value="./2026-11-01.html?period=weekly">2026 年第 44 周 · 10/26–11/01</option>
+
+                    <option value="./2026-10-25.html?period=weekly">2026 年第 43 周 · 10/19–10/25</option>
+
+                    <option value="./2026-10-18.html?period=weekly">2026 年第 42 周 · 10/12–10/18</option>
+
+                    <option value="./2026-10-11.html?period=weekly">2026 年第 41 周 · 10/05–10/11</option>
+
+                    <option value="./2026-10-04.html?period=weekly">2026 年第 40 周 · 09/28–10/04</option>
+
+            </select>
+          </label>
+          <span class="archive-count">6 个可用周次</span>
+        </div>
+
+        <div class="date-control" data-date-control="monthly">
+          <div class="date-control-copy">
+            <span>按月加载</span>
+            <strong>月报月份</strong>
+          </div>
+          <label class="date-select-wrap">
+            <span class="sr-only">选择月报月份</span>
+            <select data-date-select="monthly" aria-label="选择月报月份">
+
+                    <option value="./2026-11-06.html?period=monthly" selected>2026 年 11 月</option>
+
+                    <option value="./2026-10-31.html?period=monthly">2026 年 10 月</option>
+
+            </select>
+          </label>
+          <span class="archive-count">2 个可用月份</span>
+        </div>
+
+        </div>
+      </section>
+
+
+    <section
+      class="period-panel is-active"
+      data-period-panel="daily"
+      data-lead-name="NVIDIA/auto-ontology"
+      data-lead-growth="2.7k stars this day"
+      data-snapshot-date="2026-11-06"
+    >
+      <div class="hero-card">
+        <div class="hero-visual">
+          <img src="../assets/hero-background-281466.png" alt="" aria-hidden="true">
+        </div>
+        <div class="hero-copy">
+          <span class="eyebrow">TREND SIGNAL</span>
+          <h2>智能体开始补齐执行闭环、记忆与工具编排</h2>
+          <p>核心关键词：Agent、MCP、Rust、Python、智能体与自动化工作流。代表项目：NVIDIA/auto-ontology（今日新增2,679）、vercel-labs/agent-desktop（今日新增2,173）、mattpocock/skills（今日新增2,071）。 多个高增项目的共同演进方向，是让 Agent 从单轮交互接口升级为可持续运行、可调度、可接入外部工具链的全链路系统。</p>
+        </div>
+      </div>
+
+
+      <section class="trend-analysis panel">
+        <div class="section-head">
+          <h3>整体趋势分析</h3>
+          <span>从项目共性归纳当前技术趋势</span>
+        </div>
+        <div class="trend-list">
+
+                <article class="trend-card">
+                  <span class="trend-index">趋势 1</span>
+                  <h4>智能体开始补齐执行闭环、记忆与工具编排</h4>
+                  <p><strong>核心关键词：</strong>Agent、MCP、Rust、Python、智能体与自动化工作流</p>
+                  <p><strong>宏观 What：</strong>多个高增项目的共同演进方向，是让 Agent 从单轮交互接口升级为可持续运行、可调度、可接入外部工具链的全链路系统。</p>
+                  <p><strong>宏观 Why：</strong>其背后的范式转移是，单轮问答式 Agent 已无法覆盖真实业务中的长链路任务，行业开始追求具备稳定执行、自主性和可复用流水线的智能体基础能力。</p>
+                  <p><strong>宏观 How：</strong>支撑这一趋势的通用方法论包括多 Agent 协同架构、工具调用协议、任务编排器、长期记忆层以及浏览器/终端等执行接口的标准化接入。</p>
+                  <p><strong>代表项目：</strong>NVIDIA/auto-ontology（今日新增2,679）、vercel-labs/agent-desktop（今日新增2,173）、mattpocock/skills（今日新增2,071）</p>
+                  <p><strong>潜在风险：</strong>潜在风险在于，Agent 工业化很容易堆叠复杂度；如果缺少评测、权限控制和故障回滚机制，系统会在真实环境中暴露稳定性与安全性问题。</p>
+                </article>
+
+                <article class="trend-card">
+                  <span class="trend-index">趋势 2</span>
+                  <h4>多模态内容生成正在产品化和流水线化</h4>
+                  <p><strong>核心关键词：</strong>Multimodal、Audio、Video、Agent、Python</p>
+                  <p><strong>宏观 What：</strong>高增项目的集群化方向，是把视频、语音、图像等离散能力重新组装为可批量生产、可自动化交付的多模态内容流水线。</p>
+                  <p><strong>宏观 Why：</strong>社区转向这一方向的核心驱动力，是单点生成工具已无法解决真实生产中的链路断裂、素材组织和人机协作效率问题，AI 内容生成因此进入工业化阶段。</p>
+                  <p><strong>宏观 How：</strong>底层支撑正在沉淀为多 Agent 协同编排、素材采集与处理链、统一的内容生产工作流、自托管运行环境以及围绕渲染/审核/发布的自动化方法论。</p>
+                  <p><strong>代表项目：</strong>NVIDIA/auto-ontology（今日新增2,679）、JiaFeiMiao-K-Cat/DiscImageStudio（今日新增984）、scenario-labs/skills（今日新增667）</p>
+                  <p><strong>潜在风险：</strong>风险在于，多模态流水线项目容易因外部模型依赖、渲染成本和内容质量波动而失真，若没有稳定产能与评估机制，增长可能先于交付能力。</p>
+                </article>
+
+        </div>
+      </section>
+
+
+      <section class="deep-dive-section panel">
+        <div class="section-head">
+          <h3>Deep Dive Analysis</h3>
+          <span>每日趋势解构</span>
+        </div>
+        <p class="trend-overview">社区正在把智能体从聊天式能力模块，推向具备执行闭环、工具调用、记忆和多阶段编排的工业化系统。 这说明当前 GitHub Trending 的焦点，正在向“智能体开始补齐执行闭环、记忆与工具编排”这类更成体系的技术方向收敛。</p>
+        <div class="deep-list">
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/NVIDIA/auto-ontology" target="_blank" rel="noreferrer">NVIDIA/auto-ontology</a></h3>
+            </div>
+            <span class="chip">Agent Systems</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">7.6k + 2.7k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">607</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Python</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent、MCP等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>把多步骤任务编排为可重复执行的工作流</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>强调性能、资源效率与稳定执行</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/scenario-labs/skills" target="_blank" rel="noreferrer">scenario-labs/skills</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>把视频素材、生成、剪辑与发布串成可重复执行的内容生产工作流</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">3.1k + 667</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">275</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Python</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 视频生成与自动化制作</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent、Multimodal、Audio等能力组织执行链路，把脚本、素材、剪辑和成片流程尽量自动化</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>通过标准工具接口连接外部系统与执行环境</li><li>统一编排图像、视频与音频等多模态能力</li><li>支持 Agent 自主规划并连续执行任务</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/microsoft/VibeVoice" target="_blank" rel="noreferrer">microsoft/VibeVoice</a></h3>
+            </div>
+            <span class="chip">Community Build</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>语音与音频生成能力，更快搭建语音创作、配音或音频交互场景</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">56.1k + 223</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">6.3k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Python</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>语音与音频生成能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Audio、Multimodal等能力组织执行链路，更快搭建语音创作、配音或音频交互场景</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>覆盖推理服务、网关与部署运维链路</li><li>统一编排图像、视频与音频等多模态能力</li><li>提供语音识别、转写或生成能力</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/ConardLi/garden-skills" target="_blank" rel="noreferrer">ConardLi/garden-skills</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>围绕AI 软件开发/代码自动化提供可直接使用的开源实现</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">14.2k + 175</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">1.7k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">JavaScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 软件开发/代码自动化工具</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过可复用组件和标准化入口，把AI 软件开发/代码自动化接入真实工作流</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>统一编排图像、视频与音频等多模态能力</li><li>统一编排图像、视频与音频能力</li><li>把内容生产步骤自动化并可重复执行</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/vercel-labs/agent-desktop" target="_blank" rel="noreferrer">vercel-labs/agent-desktop</a></h3>
+            </div>
+            <span class="chip">Agent Systems</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">17.1k + 2.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">1.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Rust</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent、Rust等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>强化隐私保护与本地数据边界</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>强调性能、资源效率与稳定执行</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/mattpocock/skills" target="_blank" rel="noreferrer">mattpocock/skills</a></h3>
+            </div>
+            <span class="chip">Agent Systems</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>把资深工程实践封装成可复用 Skills，让编码 Agent 按成熟方法完成真实任务</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">315.5k + 2.1k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">26.4k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Shell</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>面向真实工程任务的 Agent Skills 集合</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>以独立 Skill 文档沉淀任务流程、判断标准和执行步骤，可直接放入 Agent 技能目录</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>以 Skills 形式封装真实工程经验</li><li>可直接接入通用 Agent 技能目录</li><li>覆盖可复用的任务流程与质量标准</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/D4Vinci/Scrapling" target="_blank" rel="noreferrer">D4Vinci/Scrapling</a></h3>
+            </div>
+            <span class="chip">Community Build</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>D4Vinci/Scrapling 聚焦热门开源项目，提供可直接采用的开源实现</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">98.2k + 1.7k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">10.3k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Python</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>D4Vinci/Scrapling 开源项目</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过清晰的项目入口和可复用实现，降低热门开源项目场景的使用门槛</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>通过标准工具接口连接外部系统与执行环境</li><li>自动采集、整理并结构化多平台数据</li><li>把多步骤任务编排为可重复执行的工作流</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio" target="_blank" rel="noreferrer">JiaFeiMiao-K-Cat/DiscImageStudio</a></h3>
+            </div>
+            <span class="chip">Community Build</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>JiaFeiMiao-K-Cat/DiscImageStudio 聚焦热门开源项目，提供可直接采用的开源实现</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">7.4k + 984</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">263</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">C#</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>JiaFeiMiao-K-Cat/DiscImageStudio 开源项目</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过清晰的项目入口和可复用实现，降低热门开源项目场景的使用门槛</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>统一编排图像、视频与音频能力</li><li>围绕JiaFeiMiao-K-Cat/DiscImageStudio 开源项目提供开源实现</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        </div>
+      </section>
+    </section>
+
+    <section
+      class="period-panel"
+      data-period-panel="weekly"
+      data-lead-name="pingdotgg/t3code"
+      data-lead-growth="16.2k stars this week"
+      data-snapshot-date="2026-11-06"
+    >
+      <div class="hero-card">
+        <div class="hero-visual">
+          <img src="../assets/hero-background-281466.png" alt="" aria-hidden="true">
+        </div>
+        <div class="hero-copy">
+          <span class="eyebrow">TREND SIGNAL</span>
+          <h2>AI 编程从单点辅助走向工程化工作流</h2>
+          <p>核心关键词：Agent、Rust、AI Coding、智能体与自动化工作流、Python。代表项目：pingdotgg/t3code（本周新增16,235）、thedotmack/claude-mem（本周新增9,318）、pbakaus/impeccable（本周新增9,303）。 高 Star 增量项目正在从“补一个能力点”演进为“补一整条研发链路”，共同指向 AI 编程增强与工程化工作流这一集群化方向。</p>
+        </div>
+      </div>
+
+
+      <section class="trend-analysis panel">
+        <div class="section-head">
+          <h3>整体趋势分析</h3>
+          <span>从项目共性归纳当前技术趋势</span>
+        </div>
+        <div class="trend-list">
+
+                <article class="trend-card">
+                  <span class="trend-index">趋势 1</span>
+                  <h4>AI 编程从单点辅助走向工程化工作流</h4>
+                  <p><strong>核心关键词：</strong>Agent、Rust、AI Coding、智能体与自动化工作流、Python</p>
+                  <p><strong>宏观 What：</strong>高 Star 增量项目正在从“补一个能力点”演进为“补一整条研发链路”，共同指向 AI 编程增强与工程化工作流这一集群化方向。</p>
+                  <p><strong>宏观 Why：</strong>社区集体发力的根因，是大模型在大型代码库中存在上下文窗口受限、仓库级记忆缺失和任务交接脆弱等瓶颈，迫使 AI 编程从单文件补全转向全库架构级理解与执行。</p>
+                  <p><strong>宏观 How：</strong>支撑这一趋势落地的底层支撑，正在收敛为 MCP 接口、仓库级索引/RAG、代码知识图谱、终端工作流接入以及可编排的 Agent 链路。</p>
+                  <p><strong>代表项目：</strong>pingdotgg/t3code（本周新增16,235）、thedotmack/claude-mem（本周新增9,318）、pbakaus/impeccable（本周新增9,303）</p>
+                  <p><strong>潜在风险：</strong>潜在风险在于，很多项目仍停留在工作流包装层，若缺少稳定的上下文管理、索引质量和可验证执行闭环，工程化承诺容易沦为演示效果。</p>
+                </article>
+
+                <article class="trend-card">
+                  <span class="trend-index">趋势 2</span>
+                  <h4>多模态内容生成正在产品化和流水线化</h4>
+                  <p><strong>核心关键词：</strong>Video、Python、Agent、AI Coding、智能体与自动化工作流</p>
+                  <p><strong>宏观 What：</strong>高增项目的集群化方向，是把视频、语音、图像等离散能力重新组装为可批量生产、可自动化交付的多模态内容流水线。</p>
+                  <p><strong>宏观 Why：</strong>社区转向这一方向的核心驱动力，是单点生成工具已无法解决真实生产中的链路断裂、素材组织和人机协作效率问题，AI 内容生成因此进入工业化阶段。</p>
+                  <p><strong>宏观 How：</strong>底层支撑正在沉淀为多 Agent 协同编排、素材采集与处理链、统一的内容生产工作流、自托管运行环境以及围绕渲染/审核/发布的自动化方法论。</p>
+                  <p><strong>代表项目：</strong>HKUDS/DeepTutor（本周新增6,229）、calesthio/OpenMontage（本周新增4,132）、multica-ai/andrej-karpathy-skills（本周新增3,713）</p>
+                  <p><strong>潜在风险：</strong>风险在于，多模态流水线项目容易因外部模型依赖、渲染成本和内容质量波动而失真，若没有稳定产能与评估机制，增长可能先于交付能力。</p>
+                </article>
+
+        </div>
+      </section>
+
+
+      <section class="deep-dive-section panel">
+        <div class="section-head">
+          <h3>Deep Dive Analysis</h3>
+          <span>每周趋势解构</span>
+        </div>
+        <p class="trend-overview">本期高增项目的最大公约数不是单个插件或脚本，而是让 AI 真正接入真实仓库、真实上下文和真实研发流程的工程化能力。 这说明当前 GitHub Trending 的焦点，正在向“AI 编程从单点辅助走向工程化工作流”这类更成体系的技术方向收敛。</p>
+        <div class="deep-list">
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/thedotmack/claude-mem" target="_blank" rel="noreferrer">thedotmack/claude-mem</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">113.6k + 9.3k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">9.9k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">TypeScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>沉淀可复用的长期记忆与上下文</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>持续管理仓库与任务上下文</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noreferrer">pbakaus/impeccable</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>AI 编码、代码理解与开发工作流，让 AI 真正接入真实仓库、代码上下文和研发流程</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">104.1k + 9.3k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">6.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Rust</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 编码、代码理解与开发工作流</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过AI Coding、Agent、Rust等能力组织执行链路，让 AI 真正接入真实仓库、代码上下文和研发流程</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>强调性能、资源效率与稳定执行</li><li>面向真实代码库提供 AI 编程辅助</li><li>支持 Agent 自主执行与任务编排</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/Leonxlnx/taste-skill" target="_blank" rel="noreferrer">Leonxlnx/taste-skill</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">110.8k + 5.4k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">7.4k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">JavaScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent、前端框架等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>支持本地或自托管部署，保留数据控制权</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>支持 Agent 自主执行与任务编排</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/obra/superpowers" target="_blank" rel="noreferrer">obra/superpowers</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">313.1k + 5.1k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">27.9k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Shell</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>把多步骤任务编排为可重复执行的工作流</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>通过 MCP、CLI 或 IDE 接入开发流程</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noreferrer">calesthio/OpenMontage</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>把视频素材、生成、剪辑与发布串成可重复执行的内容生产工作流</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">77.3k + 4.1k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">10.3k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Python</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 视频生成与自动化制作</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Video、Agent、AI Coding等能力组织执行链路，把脚本、素材、剪辑和成片流程尽量自动化</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>串联素材、剪辑、渲染与发布流程</li><li>把多步骤任务编排为可重复执行的工作流</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank" rel="noreferrer">multica-ai/andrej-karpathy-skills</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>围绕AI 软件开发/代码自动化提供可直接使用的开源实现</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">229.9k + 3.7k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">22.9k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">未标注</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 软件开发/代码自动化工具</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过可复用组件和标准化入口，把AI 软件开发/代码自动化接入真实工作流</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>围绕AI 软件开发/代码自动化工具提供开源实现</li><li>针对AI 软件开发/代码自动化从概念走向落地时的工程化与执行问题优化使用流程</li><li>提供可复用、易接入的工程入口</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/pingdotgg/t3code" target="_blank" rel="noreferrer">pingdotgg/t3code</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">48.5k + 16.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">9.6k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">TypeScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>支持 Agent 自主执行与任务编排</li><li>围绕智能体编排、记忆或执行能力提供开源实现</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/Nutlope/hallmark" target="_blank" rel="noreferrer">Nutlope/hallmark</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>把设计语言和反模板化审美交给编码 Agent，减少千篇一律的 AI 生成界面</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">48.9k + 7k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">2.6k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">CSS</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>面向编码 Agent 的设计规范与审美技能</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过可复用的设计规则、检查清单和提示约束，引导 Agent 生成更一致、更有辨识度的前端</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>把设计语言转成 Agent 可执行规则</li><li>强调反模板化与真实产品审美</li><li>可接入 Claude Code、Cursor 与 Codex</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        </div>
+      </section>
+    </section>
+
+    <section
+      class="period-panel"
+      data-period-panel="monthly"
+      data-lead-name="morluto/rea"
+      data-lead-growth="430.8k stars this month"
+      data-snapshot-date="2026-11-06"
+    >
+      <div class="hero-card">
+        <div class="hero-visual">
+          <img src="../assets/hero-background-281466.png" alt="" aria-hidden="true">
+        </div>
+        <div class="hero-copy">
+          <span class="eyebrow">TREND SIGNAL</span>
+          <h2>AI 编程从单点辅助走向工程化工作流</h2>
+          <p>核心关键词：Agent、TypeScript、Rust、MCP、AI Coding。代表项目：morluto/rea（本月新增430,792）、cloudflare/security-audit-skill（本月新增35,956）、pbakaus/impeccable（本月新增27,205）。 高 Star 增量项目正在从“补一个能力点”演进为“补一整条研发链路”，共同指向 AI 编程增强与工程化工作流这一集群化方向。</p>
+        </div>
+      </div>
+
+
+      <section class="trend-analysis panel">
+        <div class="section-head">
+          <h3>整体趋势分析</h3>
+          <span>从项目共性归纳当前技术趋势</span>
+        </div>
+        <div class="trend-list">
+
+                <article class="trend-card">
+                  <span class="trend-index">趋势 1</span>
+                  <h4>AI 编程从单点辅助走向工程化工作流</h4>
+                  <p><strong>核心关键词：</strong>Agent、TypeScript、Rust、MCP、AI Coding</p>
+                  <p><strong>宏观 What：</strong>高 Star 增量项目正在从“补一个能力点”演进为“补一整条研发链路”，共同指向 AI 编程增强与工程化工作流这一集群化方向。</p>
+                  <p><strong>宏观 Why：</strong>社区集体发力的根因，是大模型在大型代码库中存在上下文窗口受限、仓库级记忆缺失和任务交接脆弱等瓶颈，迫使 AI 编程从单文件补全转向全库架构级理解与执行。</p>
+                  <p><strong>宏观 How：</strong>支撑这一趋势落地的底层支撑，正在收敛为 MCP 接口、仓库级索引/RAG、代码知识图谱、终端工作流接入以及可编排的 Agent 链路。</p>
+                  <p><strong>代表项目：</strong>morluto/rea（本月新增430,792）、cloudflare/security-audit-skill（本月新增35,956）、pbakaus/impeccable（本月新增27,205）</p>
+                  <p><strong>潜在风险：</strong>潜在风险在于，很多项目仍停留在工作流包装层，若缺少稳定的上下文管理、索引质量和可验证执行闭环，工程化承诺容易沦为演示效果。</p>
+                </article>
+
+                <article class="trend-card">
+                  <span class="trend-index">趋势 2</span>
+                  <h4>多模态内容生成正在产品化和流水线化</h4>
+                  <p><strong>核心关键词：</strong>Video、Multimodal、Audio、Python、多模态内容生成</p>
+                  <p><strong>宏观 What：</strong>高增项目的集群化方向，是把视频、语音、图像等离散能力重新组装为可批量生产、可自动化交付的多模态内容流水线。</p>
+                  <p><strong>宏观 Why：</strong>社区转向这一方向的核心驱动力，是单点生成工具已无法解决真实生产中的链路断裂、素材组织和人机协作效率问题，AI 内容生成因此进入工业化阶段。</p>
+                  <p><strong>宏观 How：</strong>底层支撑正在沉淀为多 Agent 协同编排、素材采集与处理链、统一的内容生产工作流、自托管运行环境以及围绕渲染/审核/发布的自动化方法论。</p>
+                  <p><strong>代表项目：</strong>debpalash/VoiceStudio（本月新增48,803）、heygen-com/hyperframes（本月新增22,694）、HKUDS/DeepTutor（本月新增14,748）</p>
+                  <p><strong>潜在风险：</strong>风险在于，多模态流水线项目容易因外部模型依赖、渲染成本和内容质量波动而失真，若没有稳定产能与评估机制，增长可能先于交付能力。</p>
+                </article>
+
+        </div>
+      </section>
+
+
+      <section class="deep-dive-section panel">
+        <div class="section-head">
+          <h3>Deep Dive Analysis</h3>
+          <span>每月趋势解构</span>
+        </div>
+        <p class="trend-overview">本期高增项目的最大公约数不是单个插件或脚本，而是让 AI 真正接入真实仓库、真实上下文和真实研发流程的工程化能力。 这说明当前 GitHub Trending 的焦点，正在向“AI 编程从单点辅助走向工程化工作流”这类更成体系的技术方向收敛。</p>
+        <div class="deep-list">
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noreferrer">pbakaus/impeccable</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>AI 编码、代码理解与开发工作流，让 AI 真正接入真实仓库、代码上下文和研发流程</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">104.1k + 27.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">6.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Rust</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 编码、代码理解与开发工作流</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过AI Coding、Agent、Rust等能力组织执行链路，让 AI 真正接入真实仓库、代码上下文和研发流程</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>强调性能、资源效率与稳定执行</li><li>面向真实代码库提供 AI 编程辅助</li><li>支持 Agent 自主执行与任务编排</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/heygen-com/hyperframes" target="_blank" rel="noreferrer">heygen-com/hyperframes</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>AI 视频生成与自动化制作，把脚本、素材、剪辑和成片流程尽量自动化</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">79.6k + 22.7k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">7.3k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">TypeScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 视频生成与自动化制作</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Video等能力组织执行链路，把脚本、素材、剪辑和成片流程尽量自动化</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>把多步骤任务编排为可重复执行的工作流</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>统一编排图像、视频与音频能力</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/thedotmack/claude-mem" target="_blank" rel="noreferrer">thedotmack/claude-mem</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">113.6k + 17.6k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">9.9k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">TypeScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>沉淀可复用的长期记忆与上下文</li><li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>持续管理仓库与任务上下文</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/morluto/rea" target="_blank" rel="noreferrer">morluto/rea</a></h3>
+            </div>
+            <span class="chip">Agent Systems</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>morluto/rea 聚焦热门开源项目，提供可直接采用的开源实现</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">434.9k + 430.8k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">107.9k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">TypeScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>morluto/rea 开源项目</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过清晰的项目入口和可复用实现，降低热门开源项目场景的使用门槛</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>通过 MCP、CLI 或 IDE 接入开发流程</li><li>通过 MCP 接入 Agent 与外部工具</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noreferrer">debpalash/VoiceStudio</a></h3>
+            </div>
+            <span class="chip">Community Build</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>AI 视频生成与自动化制作，把脚本、素材、剪辑和成片流程尽量自动化</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">102.1k + 48.8k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">11.3k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">Python</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>AI 视频生成与自动化制作</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Multimodal、Audio、Video等能力组织执行链路，把脚本、素材、剪辑和成片流程尽量自动化</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>统一编排图像、视频与音频等多模态能力</li><li>提供语音识别、转写或生成能力</li><li>统一编排图像、视频与音频能力</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/boykopovar/AnyPS5" target="_blank" rel="noreferrer">boykopovar/AnyPS5</a></h3>
+            </div>
+            <span class="chip">Community Build</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>boykopovar/AnyPS5 聚焦热门开源项目，提供可直接采用的开源实现</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">51.5k + 47.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">4.9k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">C++</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>boykopovar/AnyPS5 开源项目</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过清晰的项目入口和可复用实现，降低热门开源项目场景的使用门槛</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>围绕boykopovar/AnyPS5 开源项目提供开源实现</li><li>针对具体场景里的效率、协作或工程落地问题优化使用流程</li><li>以 C++ 构建可复用的工程入口</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/cloudflare/security-audit-skill" target="_blank" rel="noreferrer">cloudflare/security-audit-skill</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">61.8k + 36k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">4k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">JavaScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过安全、Agent等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>把多步骤任务编排为可重复执行的工作流</li><li>强调性能、资源效率与稳定执行</li><li>提供自动化安全检测与验证能力</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        <article class="deep-card">
+          <div class="card-heading">
+            <div class="title-wrap">
+              <img src="../assets/repo-icon.svg" alt="" aria-hidden="true" class="icon icon-repo">
+              <h3><a href="https://github.com/pingdotgg/t3code" target="_blank" rel="noreferrer">pingdotgg/t3code</a></h3>
+            </div>
+            <span class="chip">AI Coding</span>
+          </div>
+          <div class="insight-panel">
+            <div class="insight-title">
+              <img src="../assets/spark-icon.svg" alt="" aria-hidden="true" class="icon icon-spark">
+              <span>一句话读懂</span>
+            </div>
+            <p>智能体编排、记忆或执行能力，提升 Agent 的可用性、可控性和执行闭环能力</p>
+            <div class="meta-row">
+
+              <div class="meta-pill">
+                <span class="meta-label">Star</span>
+                <strong class="meta-value">48.5k + 22.2k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Fork</span>
+                <strong class="meta-value">9.6k</strong>
+              </div>
+
+              <div class="meta-pill">
+                <span class="meta-label">Language</span>
+                <strong class="meta-value">TypeScript</strong>
+              </div>
+
+            </div>
+          </div>
+          <div class="core-value-panel">
+            <span class="core-value-label">核心价值</span>
+            <ul class="core-value-list">
+
+              <li class="core-value-item">
+                <strong class="core-value-key">what</strong>
+                <span>智能体编排、记忆或执行能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">how</strong>
+                <span>通过Agent等能力组织执行链路，提升 Agent 的可用性、可控性和执行闭环能力</span>
+              </li>
+
+              <li class="core-value-item">
+                <strong class="core-value-key">why</strong>
+                <ol class="highlight-list">
+                  <li>提供 CLI 或终端入口，便于接入现有工程流程</li><li>支持 Agent 自主执行与任务编排</li><li>围绕智能体编排、记忆或执行能力提供开源实现</li>
+                </ol>
+              </li>
+
+            </ul>
+          </div>
+        </article>
+
+        </div>
+      </section>
+    </section>
+
+    </main>
+  </div>
+
+  <script>
+    const tabs = Array.from(document.querySelectorAll("[data-period-tab]"));
+    const panels = Array.from(document.querySelectorAll("[data-period-panel]"));
+    const dateControls = Array.from(document.querySelectorAll("[data-date-control]"));
+    const dateSelects = Array.from(document.querySelectorAll("[data-date-select]"));
+    const leadName = document.querySelector("[data-current-lead]");
+    const leadGrowth = document.querySelector("[data-current-growth]");
+    const generatedAt = document.querySelector("[data-generated-at]");
+
+    function setActivePeriod(period) {
+      const activePanel = panels.find((panel) => panel.dataset.periodPanel === period);
+      if (!activePanel) {
+        return;
+      }
+
+      tabs.forEach((tab) => {
+        tab.classList.toggle("is-active", tab.dataset.periodTab === period);
+      });
+
+      panels.forEach((panel) => {
+        panel.classList.toggle("is-active", panel.dataset.periodPanel === period);
+      });
+
+      dateControls.forEach((control) => {
+        control.classList.toggle("is-active", control.dataset.dateControl === period);
+      });
+
+      leadName.textContent = activePanel.dataset.leadName || "";
+      leadGrowth.textContent = activePanel.dataset.leadGrowth || "";
+      generatedAt.textContent = "Snapshot · " + (activePanel.dataset.snapshotDate || "");
+    }
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => setActivePeriod(tab.dataset.periodTab));
+    });
+
+    dateSelects.forEach((select) => {
+      select.addEventListener("change", () => {
+        if (select.value) {
+          window.location.href = select.value;
+        }
+      });
+    });
+
+    const requestedPeriod = new URLSearchParams(window.location.search).get("period");
+    setActivePeriod(tabs.some((tab) => tab.dataset.periodTab === requestedPeriod) ? requestedPeriod : "daily");
+  </script>
+</body>
+</html>

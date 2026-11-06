@@ -1,0 +1,497 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "NVIDIA",
+    "name": "auto-ontology",
+    "fullName": "NVIDIA/auto-ontology",
+    "projectLink": "https://github.com/NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "language": "Python",
+    "stars": 7601,
+    "forks": 607,
+    "deltaStars": 2679,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "DinaLaptii",
+        "profile": "https://github.com/DinaLaptii"
+      },
+      {
+        "login": "yuvalshkolar",
+        "profile": "https://github.com/yuvalshkolar"
+      },
+      {
+        "login": "liavnave",
+        "profile": "https://github.com/liavnave"
+      },
+      {
+        "login": "liofnv",
+        "profile": "https://github.com/liofnv"
+      },
+      {
+        "login": "tomer-levin-nv",
+        "profile": "https://github.com/tomer-levin-nv"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NVIDIA /\n\n auto-ontology\n\n Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\n Python\n\n 7,601\n\n 607\n\n Built by\n\n 2,679 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 315479,
+    "forks": 26412,
+    "deltaStars": 2071,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 315,479\n\n 26,412\n\n Built by\n\n 2,071 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "garrytan",
+    "name": "gstack",
+    "fullName": "garrytan/gstack",
+    "projectLink": "https://github.com/garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "stars": 140034,
+    "forks": 20700,
+    "deltaStars": 612,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "garrytan",
+        "profile": "https://github.com/garrytan"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "test22345",
+        "profile": "https://github.com/test22345"
+      },
+      {
+        "login": "szsunyuan",
+        "profile": "https://github.com/szsunyuan"
+      }
+    ],
+    "trendingSnippet": "Star\n\n garrytan /\n\n gstack\n\n Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA\n\n TypeScript\n\n 140,034\n\n 20,700\n\n Built by\n\n 612 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "Usagi-org",
+    "name": "ai-goofish-monitor",
+    "fullName": "Usagi-org/ai-goofish-monitor",
+    "projectLink": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "language": "Python",
+    "stars": 17757,
+    "forks": 2965,
+    "deltaStars": 240,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dingyufei615",
+        "profile": "https://github.com/dingyufei615"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "ijodion",
+        "profile": "https://github.com/ijodion"
+      },
+      {
+        "login": "hurleychin",
+        "profile": "https://github.com/hurleychin"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Usagi-org /\n\n ai-goofish-monitor\n\n 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。\n\n Python\n\n 17,757\n\n 2,965\n\n Built by\n\n 240 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "D4Vinci",
+    "name": "Scrapling",
+    "fullName": "D4Vinci/Scrapling",
+    "projectLink": "https://github.com/D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/...",
+    "language": "Python",
+    "stars": 98156,
+    "forks": 10282,
+    "deltaStars": 1655,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "D4Vinci",
+        "profile": "https://github.com/D4Vinci"
+      },
+      {
+        "login": "yetval",
+        "profile": "https://github.com/yetval"
+      },
+      {
+        "login": "AbdullahY36",
+        "profile": "https://github.com/AbdullahY36"
+      },
+      {
+        "login": "SulimanAbdulrazzaq",
+        "profile": "https://github.com/SulimanAbdulrazzaq"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n D4Vinci /\n\n Scrapling\n\n 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\n\n Python\n\n 98,156\n\n 10,282\n\n Built by\n\n 1,655 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "vercel-labs",
+    "name": "agent-desktop",
+    "fullName": "vercel-labs/agent-desktop",
+    "projectLink": "https://github.com/vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "language": "Rust",
+    "stars": 17090,
+    "forks": 1208,
+    "deltaStars": 2173,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-desktop\n\n Computer use CLI for AI agents\n\n Rust\n\n 17,090\n\n 1,208\n\n Built by\n\n 2,173 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "max-sixty",
+    "name": "worktrunk",
+    "fullName": "max-sixty/worktrunk",
+    "projectLink": "https://github.com/max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "stars": 11577,
+    "forks": 440,
+    "deltaStars": 546,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "max-sixty",
+        "profile": "https://github.com/max-sixty"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "worktrunk-bot",
+        "profile": "https://github.com/worktrunk-bot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n max-sixty /\n\n worktrunk\n\n Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\n Rust\n\n 11,577\n\n 440\n\n Built by\n\n 546 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "lz4",
+    "name": "lz4",
+    "fullName": "lz4/lz4",
+    "projectLink": "https://github.com/lz4/lz4",
+    "description": "Extremely Fast Compression algorithm",
+    "language": "C",
+    "stars": 12412,
+    "forks": 1636,
+    "deltaStars": 23,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Cyan4973",
+        "profile": "https://github.com/Cyan4973"
+      },
+      {
+        "login": "inikep",
+        "profile": "https://github.com/inikep"
+      },
+      {
+        "login": "t-mat",
+        "profile": "https://github.com/t-mat"
+      },
+      {
+        "login": "felixhandte",
+        "profile": "https://github.com/felixhandte"
+      }
+    ],
+    "trendingSnippet": "Star\n\n lz4 /\n\n lz4\n\n Extremely Fast Compression algorithm\n\n C\n\n 12,412\n\n 1,636\n\n Built by\n\n 23 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "google",
+    "name": "skills",
+    "fullName": "google/skills",
+    "projectLink": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "stars": 22441,
+    "forks": 1895,
+    "deltaStars": 211,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cloud-ix-copybara",
+        "profile": "https://github.com/cloud-ix-copybara"
+      },
+      {
+        "login": "holtskinner",
+        "profile": "https://github.com/holtskinner"
+      },
+      {
+        "login": "martinvarelaj",
+        "profile": "https://github.com/martinvarelaj"
+      },
+      {
+        "login": "helloeve",
+        "profile": "https://github.com/helloeve"
+      },
+      {
+        "login": "wangauone",
+        "profile": "https://github.com/wangauone"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google /\n\n skills\n\n Agent Skills for Google products and technologies\n\n Python\n\n 22,441\n\n 1,895\n\n Built by\n\n 211 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 45992,
+    "forks": 3151,
+    "deltaStars": 150,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 45,992\n\n 3,151\n\n Built by\n\n 150 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "scenario-labs",
+    "name": "skills",
+    "fullName": "scenario-labs/skills",
+    "projectLink": "https://github.com/scenario-labs/skills",
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that...",
+    "language": "Python",
+    "stars": 3146,
+    "forks": 275,
+    "deltaStars": 667,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "hervenivon",
+        "profile": "https://github.com/hervenivon"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      },
+      {
+        "login": "edemaistre",
+        "profile": "https://github.com/edemaistre"
+      }
+    ],
+    "trendingSnippet": "Star\n\n scenario-labs /\n\n skills\n\n Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.\n\n Python\n\n 3,146\n\n 275\n\n Built by\n\n 667 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "ConardLi",
+    "name": "garden-skills",
+    "fullName": "ConardLi/garden-skills",
+    "projectLink": "https://github.com/ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "language": "JavaScript",
+    "stars": 14218,
+    "forks": 1653,
+    "deltaStars": 175,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ConardLi",
+        "profile": "https://github.com/ConardLi"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "eltociear",
+        "profile": "https://github.com/eltociear"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ConardLi /\n\n garden-skills\n\n ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.\n\n JavaScript\n\n 14,218\n\n 1,653\n\n Built by\n\n 175 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "microsoft",
+    "name": "VibeVoice",
+    "fullName": "microsoft/VibeVoice",
+    "projectLink": "https://github.com/microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "language": "Python",
+    "stars": 56074,
+    "forks": 6310,
+    "deltaStars": 223,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "YaoyaoChang",
+        "profile": "https://github.com/YaoyaoChang"
+      },
+      {
+        "login": "pengzhiliang",
+        "profile": "https://github.com/pengzhiliang"
+      },
+      {
+        "login": "MSLDCherryPick",
+        "profile": "https://github.com/MSLDCherryPick"
+      },
+      {
+        "login": "jsoref",
+        "profile": "https://github.com/jsoref"
+      }
+    ],
+    "trendingSnippet": "Star\n\n microsoft /\n\n VibeVoice\n\n Open-Source Frontier Voice AI\n\n Python\n\n 56,074\n\n 6,310\n\n Built by\n\n 223 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 14,
+    "owner": "floci-io",
+    "name": "floci",
+    "fullName": "floci-io/floci",
+    "projectLink": "https://github.com/floci-io/floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "language": "Java",
+    "stars": 30500,
+    "forks": 3334,
+    "deltaStars": 779,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "hectorvent",
+        "profile": "https://github.com/hectorvent"
+      },
+      {
+        "login": "pgermosen",
+        "profile": "https://github.com/pgermosen"
+      },
+      {
+        "login": "AndreKurait",
+        "profile": "https://github.com/AndreKurait"
+      },
+      {
+        "login": "okinaka",
+        "profile": "https://github.com/okinaka"
+      },
+      {
+        "login": "exoego",
+        "profile": "https://github.com/exoego"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n floci-io /\n\n floci\n\n Light, fluffy, and always free - The AWS Local Emulator alternative\n\n Java\n\n 30,500\n\n 3,334\n\n Built by\n\n 779 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 15,
+    "owner": "JiaFeiMiao-K-Cat",
+    "name": "DiscImageStudio",
+    "fullName": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "projectLink": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "description": "",
+    "language": "C#",
+    "stars": 7372,
+    "forks": 263,
+    "deltaStars": 984,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "JiaFeiMiao-K-Cat",
+        "profile": "https://github.com/JiaFeiMiao-K-Cat"
+      },
+      {
+        "login": "Catho168",
+        "profile": "https://github.com/Catho168"
+      },
+      {
+        "login": "eltociear",
+        "profile": "https://github.com/eltociear"
+      },
+      {
+        "login": "keremuysal",
+        "profile": "https://github.com/keremuysal"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n JiaFeiMiao-K-Cat /\n\n DiscImageStudio\n\n C#\n\n 7,372\n\n 263\n\n Built by\n\n 984 stars today"
+  }
+]

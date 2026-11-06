@@ -1,0 +1,554 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "thedotmack",
+    "name": "claude-mem",
+    "fullName": "thedotmack/claude-mem",
+    "projectLink": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+    "language": "TypeScript",
+    "stars": 113617,
+    "forks": 9855,
+    "deltaStars": 9318,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "thedotmack",
+        "profile": "https://github.com/thedotmack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "rodboev",
+        "profile": "https://github.com/rodboev"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n thedotmack /\n\n claude-mem\n\n Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\n TypeScript\n\n 113,617\n\n 9,855\n\n Built by\n\n 9,318 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 48879,
+    "forks": 2589,
+    "deltaStars": 6994,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "Bortlesboat",
+        "profile": "https://github.com/Bortlesboat"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 48,879\n\n 2,589\n\n Built by\n\n 6,994 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "pingdotgg",
+    "name": "t3code",
+    "fullName": "pingdotgg/t3code",
+    "projectLink": "https://github.com/pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 48496,
+    "forks": 9637,
+    "deltaStars": 16235,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "juliusmarminge",
+        "profile": "https://github.com/juliusmarminge"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "t3dotgg",
+        "profile": "https://github.com/t3dotgg"
+      },
+      {
+        "login": "maria-rcks",
+        "profile": "https://github.com/maria-rcks"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pingdotgg /\n\n t3code\n\n TypeScript\n\n 48,496\n\n 9,637\n\n Built by\n\n 16,235 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 187808,
+    "forks": 22154,
+    "deltaStars": 3072,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 187,808\n\n 22,154\n\n Built by\n\n 3,072 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "HKUDS",
+    "name": "DeepTutor",
+    "fullName": "HKUDS/DeepTutor",
+    "projectLink": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+    "language": "Python",
+    "stars": 55534,
+    "forks": 6807,
+    "deltaStars": 6229,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "pancacake",
+        "profile": "https://github.com/pancacake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Pinkllow",
+        "profile": "https://github.com/Pinkllow"
+      },
+      {
+        "login": "evan188199-tech",
+        "profile": "https://github.com/evan188199-tech"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n DeepTutor\n\n DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\n Python\n\n 55,534\n\n 6,807\n\n Built by\n\n 6,229 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "max-sixty",
+    "name": "worktrunk",
+    "fullName": "max-sixty/worktrunk",
+    "projectLink": "https://github.com/max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "stars": 11577,
+    "forks": 440,
+    "deltaStars": 1802,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "max-sixty",
+        "profile": "https://github.com/max-sixty"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "worktrunk-bot",
+        "profile": "https://github.com/worktrunk-bot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n max-sixty /\n\n worktrunk\n\n Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\n\n Rust\n\n 11,577\n\n 440\n\n Built by\n\n 1,802 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "milind-soni",
+    "name": "OpenMausBot",
+    "fullName": "milind-soni/OpenMausBot",
+    "projectLink": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 13624,
+    "forks": 1884,
+    "deltaStars": 5580,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "milind-soni",
+        "profile": "https://github.com/milind-soni"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "aivsomkar",
+        "profile": "https://github.com/aivsomkar"
+      },
+      {
+        "login": "robinsonnblack",
+        "profile": "https://github.com/robinsonnblack"
+      },
+      {
+        "login": "bradhallett",
+        "profile": "https://github.com/bradhallett"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n milind-soni /\n\n OpenMausBot\n\n Open-source Grok Bot alternative with a virtual machine that bots can use\n\n TypeScript\n\n 13,624\n\n 1,884\n\n Built by\n\n 5,580 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "obra",
+    "name": "superpowers",
+    "fullName": "obra/superpowers",
+    "projectLink": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 313087,
+    "forks": 27855,
+    "deltaStars": 5131,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "obra",
+        "profile": "https://github.com/obra"
+      },
+      {
+        "login": "arittr",
+        "profile": "https://github.com/arittr"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "clkao",
+        "profile": "https://github.com/clkao"
+      },
+      {
+        "login": "arimu1",
+        "profile": "https://github.com/arimu1"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n obra /\n\n superpowers\n\n An agentic skills framework & software development methodology that works.\n\n Shell\n\n 313,087\n\n 27,855\n\n Built by\n\n 5,131 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "stars": 104058,
+    "forks": 6166,
+    "deltaStars": 9303,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\n Rust\n\n 104,058\n\n 6,166\n\n Built by\n\n 9,303 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "hyprwm",
+    "name": "Hyprland",
+    "fullName": "hyprwm/Hyprland",
+    "projectLink": "https://github.com/hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "stars": 40376,
+    "forks": 2169,
+    "deltaStars": 1371,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "vaxerski",
+        "profile": "https://github.com/vaxerski"
+      },
+      {
+        "login": "fufexan",
+        "profile": "https://github.com/fufexan"
+      },
+      {
+        "login": "gulafaran",
+        "profile": "https://github.com/gulafaran"
+      },
+      {
+        "login": "MightyPlaza",
+        "profile": "https://github.com/MightyPlaza"
+      },
+      {
+        "login": "UjinT34",
+        "profile": "https://github.com/UjinT34"
+      }
+    ],
+    "trendingSnippet": "Star\n\n hyprwm /\n\n Hyprland\n\n Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.\n\n C++\n\n 40,376\n\n 2,169\n\n Built by\n\n 1,371 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "jakubkrehel",
+    "name": "skills",
+    "fullName": "jakubkrehel/skills",
+    "projectLink": "https://github.com/jakubkrehel/skills",
+    "description": "A collection of agent skills that help you build great interfaces.",
+    "language": "Markdown",
+    "stars": 11063,
+    "forks": 426,
+    "deltaStars": 1840,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jakubkrehel",
+        "profile": "https://github.com/jakubkrehel"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n jakubkrehel /\n\n skills\n\n A collection of agent skills that help you build great interfaces.\n\n Markdown\n\n 11,063\n\n 426\n\n Built by\n\n 1,840 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 12,
+    "owner": "calesthio",
+    "name": "OpenMontage",
+    "fullName": "calesthio/OpenMontage",
+    "projectLink": "https://github.com/calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "stars": 77254,
+    "forks": 10264,
+    "deltaStars": 4132,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "calesthio",
+        "profile": "https://github.com/calesthio"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "0xDevNinja",
+        "profile": "https://github.com/0xDevNinja"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "yiyabo",
+        "profile": "https://github.com/yiyabo"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n calesthio /\n\n OpenMontage\n\n World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.\n\n Python\n\n 77,254\n\n 10,264\n\n Built by\n\n 4,132 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 13,
+    "owner": "multica-ai",
+    "name": "andrej-karpathy-skills",
+    "fullName": "multica-ai/andrej-karpathy-skills",
+    "projectLink": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "",
+    "stars": 229922,
+    "forks": 22886,
+    "deltaStars": 3713,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "forrestchang",
+        "profile": "https://github.com/forrestchang"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "back1ply",
+        "profile": "https://github.com/back1ply"
+      },
+      {
+        "login": "herobrine19",
+        "profile": "https://github.com/herobrine19"
+      },
+      {
+        "login": "szkocot",
+        "profile": "https://github.com/szkocot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n multica-ai /\n\n andrej-karpathy-skills\n\n A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\n\n 229,922\n\n 22,886\n\n Built by\n\n 3,713 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 14,
+    "owner": "ghostty-org",
+    "name": "ghostty",
+    "fullName": "ghostty-org/ghostty",
+    "projectLink": "https://github.com/ghostty-org/ghostty",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "language": "Zig",
+    "stars": 63661,
+    "forks": 3831,
+    "deltaStars": 726,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mitchellh",
+        "profile": "https://github.com/mitchellh"
+      },
+      {
+        "login": "jcollie",
+        "profile": "https://github.com/jcollie"
+      },
+      {
+        "login": "qwerasd205",
+        "profile": "https://github.com/qwerasd205"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ghostty-org /\n\n ghostty\n\n 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.\n\n Zig\n\n 63,661\n\n 3,831\n\n Built by\n\n 726 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 15,
+    "owner": "Leonxlnx",
+    "name": "taste-skill",
+    "fullName": "Leonxlnx/taste-skill",
+    "projectLink": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+    "language": "JavaScript",
+    "stars": 110761,
+    "forks": 7438,
+    "deltaStars": 5426,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "Leonxlnx",
+        "profile": "https://github.com/Leonxlnx"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "HugoSpy",
+        "profile": "https://github.com/HugoSpy"
+      },
+      {
+        "login": "bougieL",
+        "profile": "https://github.com/bougieL"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n Leonxlnx /\n\n taste-skill\n\n Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages\n\n JavaScript\n\n 110,761\n\n 7,438\n\n Built by\n\n 5,426 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 16,
+    "owner": "The-PR-Agent",
+    "name": "pr-agent",
+    "fullName": "The-PR-Agent/pr-agent",
+    "projectLink": "https://github.com/The-PR-Agent/pr-agent",
+    "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+    "language": "Python",
+    "stars": 15117,
+    "forks": 2114,
+    "deltaStars": 1355,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mrT23",
+        "profile": "https://github.com/mrT23"
+      },
+      {
+        "login": "okotek",
+        "profile": "https://github.com/okotek"
+      },
+      {
+        "login": "PeterDaveHello",
+        "profile": "https://github.com/PeterDaveHello"
+      },
+      {
+        "login": "IsmaelMartinez",
+        "profile": "https://github.com/IsmaelMartinez"
+      }
+    ],
+    "trendingSnippet": "Star\n\n The-PR-Agent /\n\n pr-agent\n\n 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.\n\n Python\n\n 15,117\n\n 2,114\n\n Built by\n\n 1,355 stars this week"
+  }
+]
