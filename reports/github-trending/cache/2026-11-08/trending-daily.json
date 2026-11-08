@@ -1,0 +1,517 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 46895,
+    "forks": 3214,
+    "deltaStars": 190,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 46,895\n\n 3,214\n\n Built by\n\n 190 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 65829,
+    "forks": 4276,
+    "deltaStars": 2085,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 65,829\n\n 4,276\n\n Built by\n\n 2,085 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "google",
+    "name": "skills",
+    "fullName": "google/skills",
+    "projectLink": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "stars": 23450,
+    "forks": 1959,
+    "deltaStars": 443,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cloud-ix-copybara",
+        "profile": "https://github.com/cloud-ix-copybara"
+      },
+      {
+        "login": "holtskinner",
+        "profile": "https://github.com/holtskinner"
+      },
+      {
+        "login": "martinvarelaj",
+        "profile": "https://github.com/martinvarelaj"
+      },
+      {
+        "login": "helloeve",
+        "profile": "https://github.com/helloeve"
+      },
+      {
+        "login": "wangauone",
+        "profile": "https://github.com/wangauone"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google /\n\n skills\n\n Agent Skills for Google products and technologies\n\n Python\n\n 23,450\n\n 1,959\n\n Built by\n\n 443 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 317785,
+    "forks": 26586,
+    "deltaStars": 1100,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 317,785\n\n 26,586\n\n Built by\n\n 1,100 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 188849,
+    "forks": 22261,
+    "deltaStars": 390,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 188,849\n\n 22,261\n\n Built by\n\n 390 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 14611,
+    "forks": 1196,
+    "deltaStars": 96,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 14,611\n\n 1,196\n\n Built by\n\n 96 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "prometheus",
+    "name": "prometheus",
+    "fullName": "prometheus/prometheus",
+    "projectLink": "https://github.com/prometheus/prometheus",
+    "description": "The Prometheus monitoring system and time series database.",
+    "language": "Go",
+    "stars": 67457,
+    "forks": 11006,
+    "deltaStars": 322,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "fabxc",
+        "profile": "https://github.com/fabxc"
+      },
+      {
+        "login": "juliusv",
+        "profile": "https://github.com/juliusv"
+      },
+      {
+        "login": "beorn7",
+        "profile": "https://github.com/beorn7"
+      },
+      {
+        "login": "bboreham",
+        "profile": "https://github.com/bboreham"
+      }
+    ],
+    "trendingSnippet": "Star\n\n prometheus /\n\n prometheus\n\n The Prometheus monitoring system and time series database.\n\n Go\n\n 67,457\n\n 11,006\n\n Built by\n\n 322 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "sherlock-project",
+    "name": "sherlock",
+    "fullName": "sherlock-project/sherlock",
+    "projectLink": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 100657,
+    "forks": 11889,
+    "deltaStars": 1766,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "sdushantha",
+        "profile": "https://github.com/sdushantha"
+      },
+      {
+        "login": "hoadlck",
+        "profile": "https://github.com/hoadlck"
+      },
+      {
+        "login": "ppfeister",
+        "profile": "https://github.com/ppfeister"
+      },
+      {
+        "login": "TheYahya",
+        "profile": "https://github.com/TheYahya"
+      },
+      {
+        "login": "Czechball",
+        "profile": "https://github.com/Czechball"
+      }
+    ],
+    "trendingSnippet": "Star\n\n sherlock-project /\n\n sherlock\n\n Hunt down social media accounts by username across social networks\n\n Python\n\n 100,657\n\n 11,889\n\n Built by\n\n 1,766 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "milind-soni",
+    "name": "OpenMausBot",
+    "fullName": "milind-soni/OpenMausBot",
+    "projectLink": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 17092,
+    "forks": 2416,
+    "deltaStars": 1955,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "milind-soni",
+        "profile": "https://github.com/milind-soni"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "aivsomkar",
+        "profile": "https://github.com/aivsomkar"
+      },
+      {
+        "login": "robinsonnblack",
+        "profile": "https://github.com/robinsonnblack"
+      },
+      {
+        "login": "bradhallett",
+        "profile": "https://github.com/bradhallett"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n milind-soni /\n\n OpenMausBot\n\n Open-source Grok Bot alternative with a virtual machine that bots can use\n\n TypeScript\n\n 17,092\n\n 2,416\n\n Built by\n\n 1,955 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "astral-sh",
+    "name": "ruff",
+    "fullName": "astral-sh/ruff",
+    "projectLink": "https://github.com/astral-sh/ruff",
+    "description": "An extremely fast Python linter and code formatter, written in Rust.",
+    "language": "Rust",
+    "stars": 50992,
+    "forks": 2633,
+    "deltaStars": 350,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "charliermarsh",
+        "profile": "https://github.com/charliermarsh"
+      },
+      {
+        "login": "MichaReiser",
+        "profile": "https://github.com/MichaReiser"
+      },
+      {
+        "login": "AlexWaygood",
+        "profile": "https://github.com/AlexWaygood"
+      },
+      {
+        "login": "sharkdp",
+        "profile": "https://github.com/sharkdp"
+      }
+    ],
+    "trendingSnippet": "Star\n\n astral-sh /\n\n ruff\n\n An extremely fast Python linter and code formatter, written in Rust.\n\n Rust\n\n 50,992\n\n 2,633\n\n Built by\n\n 350 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "tailwindlabs",
+    "name": "tailwindcss",
+    "fullName": "tailwindlabs/tailwindcss",
+    "projectLink": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "TypeScript",
+    "stars": 98507,
+    "forks": 7110,
+    "deltaStars": 122,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "adamwathan",
+        "profile": "https://github.com/adamwathan"
+      },
+      {
+        "login": "RobinMalfait",
+        "profile": "https://github.com/RobinMalfait"
+      },
+      {
+        "login": "thecrypticace",
+        "profile": "https://github.com/thecrypticace"
+      },
+      {
+        "login": "reinink",
+        "profile": "https://github.com/reinink"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tailwindlabs /\n\n tailwindcss\n\n A utility-first CSS framework for rapid UI development.\n\n TypeScript\n\n 98,507\n\n 7,110\n\n Built by\n\n 122 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "mbillow",
+    "name": "localthings",
+    "fullName": "mbillow/localthings",
+    "projectLink": "https://github.com/mbillow/localthings",
+    "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+    "language": "Python",
+    "stars": 1074,
+    "forks": 113,
+    "deltaStars": 186,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mbillow",
+        "profile": "https://github.com/mbillow"
+      },
+      {
+        "login": "perseus177",
+        "profile": "https://github.com/perseus177"
+      },
+      {
+        "login": "roweboat123",
+        "profile": "https://github.com/roweboat123"
+      },
+      {
+        "login": "antiremy",
+        "profile": "https://github.com/antiremy"
+      },
+      {
+        "login": "Metal-Eagle",
+        "profile": "https://github.com/Metal-Eagle"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mbillow /\n\n localthings\n\n Control your Samsung appliances from Home Assistant over your home network, with no cloud account.\n\n Python\n\n 1,074\n\n 113\n\n Built by\n\n 186 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "zed-industries",
+    "name": "zed",
+    "fullName": "zed-industries/zed",
+    "projectLink": "https://github.com/zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "stars": 94306,
+    "forks": 11557,
+    "deltaStars": 1114,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "as-cii",
+        "profile": "https://github.com/as-cii"
+      },
+      {
+        "login": "maxbrunsfeld",
+        "profile": "https://github.com/maxbrunsfeld"
+      },
+      {
+        "login": "maxdeviant",
+        "profile": "https://github.com/maxdeviant"
+      },
+      {
+        "login": "nathansobo",
+        "profile": "https://github.com/nathansobo"
+      },
+      {
+        "login": "ConradIrwin",
+        "profile": "https://github.com/ConradIrwin"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n zed-industries /\n\n zed\n\n Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\n\n Rust\n\n 94,306\n\n 11,557\n\n Built by\n\n 1,114 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 14,
+    "owner": "ranxianglei",
+    "name": "billion-context",
+    "fullName": "ranxianglei/billion-context",
+    "projectLink": "https://github.com/ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token)...",
+    "language": "TypeScript",
+    "stars": 4655,
+    "forks": 371,
+    "deltaStars": 191,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ranxianglei",
+        "profile": "https://github.com/ranxianglei"
+      },
+      {
+        "login": "YunzhouLi-hub",
+        "profile": "https://github.com/YunzhouLi-hub"
+      },
+      {
+        "login": "z0d0dOr",
+        "profile": "https://github.com/z0d0dOr"
+      },
+      {
+        "login": "yanhuojiyusheng",
+        "profile": "https://github.com/yanhuojiyusheng"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ranxianglei /\n\n billion-context\n\n A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need\n\n TypeScript\n\n 4,655\n\n 371\n\n Built by\n\n 191 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 15,
+    "owner": "dsx-ai-factory",
+    "name": "nvke",
+    "fullName": "dsx-ai-factory/nvke",
+    "projectLink": "https://github.com/dsx-ai-factory/nvke",
+    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "language": "Go",
+    "stars": 576,
+    "forks": 90,
+    "deltaStars": 123,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dims",
+        "profile": "https://github.com/dims"
+      },
+      {
+        "login": "TerryHowe",
+        "profile": "https://github.com/TerryHowe"
+      },
+      {
+        "login": "lia-campbell",
+        "profile": "https://github.com/lia-campbell"
+      },
+      {
+        "login": "jedimt",
+        "profile": "https://github.com/jedimt"
+      },
+      {
+        "login": "danbudris",
+        "profile": "https://github.com/danbudris"
+      }
+    ],
+    "trendingSnippet": "Star\n\n dsx-ai-factory /\n\n nvke\n\n NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.\n\n Go\n\n 576\n\n 90\n\n Built by\n\n 123 stars today"
+  }
+]
