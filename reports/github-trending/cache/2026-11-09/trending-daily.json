@@ -1,0 +1,323 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "sherlock-project",
+    "name": "sherlock",
+    "fullName": "sherlock-project/sherlock",
+    "projectLink": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 104056,
+    "forks": 12160,
+    "deltaStars": 2373,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "sdushantha",
+        "profile": "https://github.com/sdushantha"
+      },
+      {
+        "login": "hoadlck",
+        "profile": "https://github.com/hoadlck"
+      },
+      {
+        "login": "ppfeister",
+        "profile": "https://github.com/ppfeister"
+      },
+      {
+        "login": "TheYahya",
+        "profile": "https://github.com/TheYahya"
+      },
+      {
+        "login": "Czechball",
+        "profile": "https://github.com/Czechball"
+      }
+    ],
+    "trendingSnippet": "Star\n\n sherlock-project /\n\n sherlock\n\n Hunt down social media accounts by username across social networks\n\n Python\n\n 104,056\n\n 12,160\n\n Built by\n\n 2,373 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "dsx-ai-factory",
+    "name": "nvke",
+    "fullName": "dsx-ai-factory/nvke",
+    "projectLink": "https://github.com/dsx-ai-factory/nvke",
+    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+    "language": "Go",
+    "stars": 891,
+    "forks": 111,
+    "deltaStars": 345,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "dims",
+        "profile": "https://github.com/dims"
+      },
+      {
+        "login": "TerryHowe",
+        "profile": "https://github.com/TerryHowe"
+      },
+      {
+        "login": "lia-campbell",
+        "profile": "https://github.com/lia-campbell"
+      },
+      {
+        "login": "jedimt",
+        "profile": "https://github.com/jedimt"
+      },
+      {
+        "login": "danbudris",
+        "profile": "https://github.com/danbudris"
+      }
+    ],
+    "trendingSnippet": "Star\n\n dsx-ai-factory /\n\n nvke\n\n NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.\n\n Go\n\n 891\n\n 111\n\n Built by\n\n 345 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "milind-soni",
+    "name": "OpenMausBot",
+    "fullName": "milind-soni/OpenMausBot",
+    "projectLink": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 18464,
+    "forks": 2552,
+    "deltaStars": 1439,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "milind-soni",
+        "profile": "https://github.com/milind-soni"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "aivsomkar",
+        "profile": "https://github.com/aivsomkar"
+      },
+      {
+        "login": "robinsonnblack",
+        "profile": "https://github.com/robinsonnblack"
+      },
+      {
+        "login": "bradhallett",
+        "profile": "https://github.com/bradhallett"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n milind-soni /\n\n OpenMausBot\n\n Open-source Grok Bot alternative with a virtual machine that bots can use\n\n TypeScript\n\n 18,464\n\n 2,552\n\n Built by\n\n 1,439 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "anthropics",
+    "name": "claude-quickstarts",
+    "fullName": "anthropics/claude-quickstarts",
+    "projectLink": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars": 19496,
+    "forks": 3282,
+    "deltaStars": 32,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "x5a",
+        "profile": "https://github.com/x5a"
+      },
+      {
+        "login": "alexalbertt",
+        "profile": "https://github.com/alexalbertt"
+      },
+      {
+        "login": "zealoushacker",
+        "profile": "https://github.com/zealoushacker"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-quickstarts\n\n A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\n\n Python\n\n 19,496\n\n 3,282\n\n Built by\n\n 32 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 47733,
+    "forks": 3266,
+    "deltaStars": 815,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 47,733\n\n 3,266\n\n Built by\n\n 815 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 17124,
+    "forks": 1353,
+    "deltaStars": 875,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 17,124\n\n 1,353\n\n Built by\n\n 875 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 189759,
+    "forks": 22355,
+    "deltaStars": 792,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 189,759\n\n 22,355\n\n Built by\n\n 792 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "google-deepmind",
+    "name": "mujoco",
+    "fullName": "google-deepmind/mujoco",
+    "projectLink": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 16478,
+    "forks": 1954,
+    "deltaStars": 41,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "yuvaltassa",
+        "profile": "https://github.com/yuvaltassa"
+      },
+      {
+        "login": "quagla",
+        "profile": "https://github.com/quagla"
+      },
+      {
+        "login": "haroonq",
+        "profile": "https://github.com/haroonq"
+      },
+      {
+        "login": "kbayes",
+        "profile": "https://github.com/kbayes"
+      },
+      {
+        "login": "saran-t",
+        "profile": "https://github.com/saran-t"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-deepmind /\n\n mujoco\n\n Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\n C++\n\n 16,478\n\n 1,954\n\n Built by\n\n 41 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "ranxianglei",
+    "name": "billion-context",
+    "fullName": "ranxianglei/billion-context",
+    "projectLink": "https://github.com/ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token)...",
+    "language": "TypeScript",
+    "stars": 5251,
+    "forks": 409,
+    "deltaStars": 460,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ranxianglei",
+        "profile": "https://github.com/ranxianglei"
+      },
+      {
+        "login": "YunzhouLi-hub",
+        "profile": "https://github.com/YunzhouLi-hub"
+      },
+      {
+        "login": "z0d0dOr",
+        "profile": "https://github.com/z0d0dOr"
+      },
+      {
+        "login": "yanhuojiyusheng",
+        "profile": "https://github.com/yanhuojiyusheng"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ranxianglei /\n\n billion-context\n\n A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need\n\n TypeScript\n\n 5,251\n\n 409\n\n Built by\n\n 460 stars today"
+  }
+]
