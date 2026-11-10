@@ -1,0 +1,385 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 191271,
+    "forks": 22463,
+    "deltaStars": 1038,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 191,271\n\n 22,463\n\n Built by\n\n 1,038 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 20607,
+    "forks": 1561,
+    "deltaStars": 3278,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 20,607\n\n 1,561\n\n Built by\n\n 3,278 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "sherlock-project",
+    "name": "sherlock",
+    "fullName": "sherlock-project/sherlock",
+    "projectLink": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 107515,
+    "forks": 12439,
+    "deltaStars": 4267,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "sdushantha",
+        "profile": "https://github.com/sdushantha"
+      },
+      {
+        "login": "hoadlck",
+        "profile": "https://github.com/hoadlck"
+      },
+      {
+        "login": "ppfeister",
+        "profile": "https://github.com/ppfeister"
+      },
+      {
+        "login": "TheYahya",
+        "profile": "https://github.com/TheYahya"
+      },
+      {
+        "login": "Czechball",
+        "profile": "https://github.com/Czechball"
+      }
+    ],
+    "trendingSnippet": "Star\n\n sherlock-project /\n\n sherlock\n\n Hunt down social media accounts by username across social networks\n\n Python\n\n 107,515\n\n 12,439\n\n Built by\n\n 4,267 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "google-deepmind",
+    "name": "mujoco",
+    "fullName": "google-deepmind/mujoco",
+    "projectLink": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 17013,
+    "forks": 2003,
+    "deltaStars": 574,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "yuvaltassa",
+        "profile": "https://github.com/yuvaltassa"
+      },
+      {
+        "login": "quagla",
+        "profile": "https://github.com/quagla"
+      },
+      {
+        "login": "haroonq",
+        "profile": "https://github.com/haroonq"
+      },
+      {
+        "login": "kbayes",
+        "profile": "https://github.com/kbayes"
+      },
+      {
+        "login": "saran-t",
+        "profile": "https://github.com/saran-t"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-deepmind /\n\n mujoco\n\n Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\n C++\n\n 17,013\n\n 2,003\n\n Built by\n\n 574 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "anthropics",
+    "name": "claude-quickstarts",
+    "fullName": "anthropics/claude-quickstarts",
+    "projectLink": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars": 20120,
+    "forks": 3322,
+    "deltaStars": 551,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "x5a",
+        "profile": "https://github.com/x5a"
+      },
+      {
+        "login": "alexalbertt",
+        "profile": "https://github.com/alexalbertt"
+      },
+      {
+        "login": "zealoushacker",
+        "profile": "https://github.com/zealoushacker"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-quickstarts\n\n A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\n\n Python\n\n 20,120\n\n 3,322\n\n Built by\n\n 551 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "garrytan",
+    "name": "gbrain",
+    "fullName": "garrytan/gbrain",
+    "projectLink": "https://github.com/garrytan/gbrain",
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "language": "TypeScript",
+    "stars": 32262,
+    "forks": 4775,
+    "deltaStars": 216,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "garrytan",
+        "profile": "https://github.com/garrytan"
+      },
+      {
+        "login": "time-attack",
+        "profile": "https://github.com/time-attack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Masashi-Ono0611",
+        "profile": "https://github.com/Masashi-Ono0611"
+      }
+    ],
+    "trendingSnippet": "Star\n\n garrytan /\n\n gbrain\n\n Garry's Opinionated OpenClaw/Hermes Agent Brain\n\n TypeScript\n\n 32,262\n\n 4,775\n\n Built by\n\n 216 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 48633,
+    "forks": 3311,
+    "deltaStars": 916,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 48,633\n\n 3,311\n\n Built by\n\n 916 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "ruvnet",
+    "name": "RuView",
+    "fullName": "ruvnet/RuView",
+    "projectLink": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars": 103594,
+    "forks": 13419,
+    "deltaStars": 172,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ruvnet",
+        "profile": "https://github.com/ruvnet"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "proffesor-for-testing",
+        "profile": "https://github.com/proffesor-for-testing"
+      },
+      {
+        "login": "aepod",
+        "profile": "https://github.com/aepod"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ruvnet /\n\n RuView\n\n π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.\n\n Rust\n\n 103,594\n\n 13,419\n\n Built by\n\n 172 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "ZhuLinsen",
+    "name": "daily_stock_analysis",
+    "fullName": "ZhuLinsen/daily_stock_analysis",
+    "projectLink": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars": 69108,
+    "forks": 56445,
+    "deltaStars": 506,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ZhuLinsen",
+        "profile": "https://github.com/ZhuLinsen"
+      },
+      {
+        "login": "massif-01",
+        "profile": "https://github.com/massif-01"
+      },
+      {
+        "login": "freesme",
+        "profile": "https://github.com/freesme"
+      },
+      {
+        "login": "Activer007",
+        "profile": "https://github.com/Activer007"
+      },
+      {
+        "login": "birdxs",
+        "profile": "https://github.com/birdxs"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ZhuLinsen /\n\n daily_stock_analysis\n\n LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\n Python\n\n 69,108\n\n 56,445\n\n Built by\n\n 506 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "homeassistant-ai",
+    "name": "ha-mcp",
+    "fullName": "homeassistant-ai/ha-mcp",
+    "projectLink": "https://github.com/homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "stars": 6112,
+    "forks": 298,
+    "deltaStars": 31,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kingpanther13",
+        "profile": "https://github.com/kingpanther13"
+      },
+      {
+        "login": "julienld",
+        "profile": "https://github.com/julienld"
+      }
+    ],
+    "trendingSnippet": "Star\n\n homeassistant-ai /\n\n ha-mcp\n\n Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.\n\n Python\n\n 6,112\n\n 298\n\n Built by\n\n 31 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "milind-soni",
+    "name": "OpenMausBot",
+    "fullName": "milind-soni/OpenMausBot",
+    "projectLink": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 19956,
+    "forks": 2724,
+    "deltaStars": 1587,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "milind-soni",
+        "profile": "https://github.com/milind-soni"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "aivsomkar",
+        "profile": "https://github.com/aivsomkar"
+      },
+      {
+        "login": "robinsonnblack",
+        "profile": "https://github.com/robinsonnblack"
+      },
+      {
+        "login": "bradhallett",
+        "profile": "https://github.com/bradhallett"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n milind-soni /\n\n OpenMausBot\n\n Open-source Grok Bot alternative with a virtual machine that bots can use\n\n TypeScript\n\n 19,956\n\n 2,724\n\n Built by\n\n 1,587 stars today"
+  }
+]
