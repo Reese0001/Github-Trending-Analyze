@@ -1,0 +1,410 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 23169,
+    "forks": 1834,
+    "deltaStars": 3108,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 23,169\n\n 1,834\n\n Built by\n\n 3,108 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 192437,
+    "forks": 22655,
+    "deltaStars": 1679,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 192,437\n\n 22,655\n\n Built by\n\n 1,679 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "addyosmani",
+    "name": "agent-skills",
+    "fullName": "addyosmani/agent-skills",
+    "projectLink": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 115249,
+    "forks": 12102,
+    "deltaStars": 465,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "addyosmani",
+        "profile": "https://github.com/addyosmani"
+      },
+      {
+        "login": "nucliweb",
+        "profile": "https://github.com/nucliweb"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      }
+    ],
+    "trendingSnippet": "Star\n\n addyosmani /\n\n agent-skills\n\n Production-grade engineering skills for AI coding agents.\n\n JavaScript\n\n 115,249\n\n 12,102\n\n Built by\n\n 465 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "anthropics",
+    "name": "claude-quickstarts",
+    "fullName": "anthropics/claude-quickstarts",
+    "projectLink": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars": 20545,
+    "forks": 3471,
+    "deltaStars": 531,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "x5a",
+        "profile": "https://github.com/x5a"
+      },
+      {
+        "login": "alexalbertt",
+        "profile": "https://github.com/alexalbertt"
+      },
+      {
+        "login": "zealoushacker",
+        "profile": "https://github.com/zealoushacker"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n claude-quickstarts\n\n A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\n\n Python\n\n 20,545\n\n 3,471\n\n Built by\n\n 531 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "google-deepmind",
+    "name": "mujoco",
+    "fullName": "google-deepmind/mujoco",
+    "projectLink": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 17421,
+    "forks": 2148,
+    "deltaStars": 456,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "yuvaltassa",
+        "profile": "https://github.com/yuvaltassa"
+      },
+      {
+        "login": "quagla",
+        "profile": "https://github.com/quagla"
+      },
+      {
+        "login": "haroonq",
+        "profile": "https://github.com/haroonq"
+      },
+      {
+        "login": "kbayes",
+        "profile": "https://github.com/kbayes"
+      },
+      {
+        "login": "saran-t",
+        "profile": "https://github.com/saran-t"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-deepmind /\n\n mujoco\n\n Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\n C++\n\n 17,421\n\n 2,148\n\n Built by\n\n 456 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "we-promise",
+    "name": "sure",
+    "fullName": "we-promise/sure",
+    "projectLink": "https://github.com/we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars": 12081,
+    "forks": 897,
+    "deltaStars": 159,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jjmata",
+        "profile": "https://github.com/jjmata"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "zachgoll",
+        "profile": "https://github.com/zachgoll"
+      },
+      {
+        "login": "Shpigford",
+        "profile": "https://github.com/Shpigford"
+      }
+    ],
+    "trendingSnippet": "Star\n\n we-promise /\n\n sure\n\n The personal finance app for everyone (by everyone)\n\n Ruby\n\n 12,081\n\n 897\n\n Built by\n\n 159 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "homeassistant-ai",
+    "name": "ha-mcp",
+    "fullName": "homeassistant-ai/ha-mcp",
+    "projectLink": "https://github.com/homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "stars": 6735,
+    "forks": 433,
+    "deltaStars": 790,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kingpanther13",
+        "profile": "https://github.com/kingpanther13"
+      },
+      {
+        "login": "julienld",
+        "profile": "https://github.com/julienld"
+      }
+    ],
+    "trendingSnippet": "Star\n\n homeassistant-ai /\n\n ha-mcp\n\n Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.\n\n Python\n\n 6,735\n\n 433\n\n Built by\n\n 790 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 49308,
+    "forks": 3452,
+    "deltaStars": 780,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 49,308\n\n 3,452\n\n Built by\n\n 780 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "sherlock-project",
+    "name": "sherlock",
+    "fullName": "sherlock-project/sherlock",
+    "projectLink": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 109146,
+    "forks": 12676,
+    "deltaStars": 2393,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "sdushantha",
+        "profile": "https://github.com/sdushantha"
+      },
+      {
+        "login": "hoadlck",
+        "profile": "https://github.com/hoadlck"
+      },
+      {
+        "login": "ppfeister",
+        "profile": "https://github.com/ppfeister"
+      },
+      {
+        "login": "TheYahya",
+        "profile": "https://github.com/TheYahya"
+      },
+      {
+        "login": "Czechball",
+        "profile": "https://github.com/Czechball"
+      }
+    ],
+    "trendingSnippet": "Star\n\n sherlock-project /\n\n sherlock\n\n Hunt down social media accounts by username across social networks\n\n Python\n\n 109,146\n\n 12,676\n\n Built by\n\n 2,393 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "tokio-rs",
+    "name": "topcoat",
+    "fullName": "tokio-rs/topcoat",
+    "projectLink": "https://github.com/tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps",
+    "language": "Rust",
+    "stars": 6881,
+    "forks": 304,
+    "deltaStars": 192,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pikaju",
+        "profile": "https://github.com/pikaju"
+      },
+      {
+        "login": "akoll",
+        "profile": "https://github.com/akoll"
+      },
+      {
+        "login": "carllerche",
+        "profile": "https://github.com/carllerche"
+      },
+      {
+        "login": "AmeinEskinder",
+        "profile": "https://github.com/AmeinEskinder"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n tokio-rs /\n\n topcoat\n\n A batteries-included framework for building web apps\n\n Rust\n\n 6,881\n\n 304\n\n Built by\n\n 192 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "ranxianglei",
+    "name": "billion-context",
+    "fullName": "ranxianglei/billion-context",
+    "projectLink": "https://github.com/ranxianglei/billion-context",
+    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token)...",
+    "language": "TypeScript",
+    "stars": 6399,
+    "forks": 534,
+    "deltaStars": 375,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ranxianglei",
+        "profile": "https://github.com/ranxianglei"
+      },
+      {
+        "login": "YunzhouLi-hub",
+        "profile": "https://github.com/YunzhouLi-hub"
+      },
+      {
+        "login": "z0d0dOr",
+        "profile": "https://github.com/z0d0dOr"
+      },
+      {
+        "login": "yanhuojiyusheng",
+        "profile": "https://github.com/yanhuojiyusheng"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ranxianglei /\n\n billion-context\n\n A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need\n\n TypeScript\n\n 6,399\n\n 534\n\n Built by\n\n 375 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 321044,
+    "forks": 26918,
+    "deltaStars": 1225,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 321,044\n\n 26,918\n\n Built by\n\n 1,225 stars today"
+  }
+]
