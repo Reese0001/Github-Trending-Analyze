@@ -1,0 +1,340 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 25310,
+    "forks": 1973,
+    "deltaStars": 2776,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 25,310\n\n 1,973\n\n Built by\n\n 2,776 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "ZhuLinsen",
+    "name": "daily_stock_analysis",
+    "fullName": "ZhuLinsen/daily_stock_analysis",
+    "projectLink": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars": 70501,
+    "forks": 56934,
+    "deltaStars": 278,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ZhuLinsen",
+        "profile": "https://github.com/ZhuLinsen"
+      },
+      {
+        "login": "massif-01",
+        "profile": "https://github.com/massif-01"
+      },
+      {
+        "login": "freesme",
+        "profile": "https://github.com/freesme"
+      },
+      {
+        "login": "Activer007",
+        "profile": "https://github.com/Activer007"
+      },
+      {
+        "login": "birdxs",
+        "profile": "https://github.com/birdxs"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ZhuLinsen /\n\n daily_stock_analysis\n\n LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\n Python\n\n 70,501\n\n 56,934\n\n Built by\n\n 278 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "GoogleChrome",
+    "name": "modern-web-guidance-src",
+    "fullName": "GoogleChrome/modern-web-guidance-src",
+    "projectLink": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 1911,
+    "forks": 148,
+    "deltaStars": 159,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "paulirish",
+        "profile": "https://github.com/paulirish"
+      },
+      {
+        "login": "rviscomi",
+        "profile": "https://github.com/rviscomi"
+      },
+      {
+        "login": "micahjo7",
+        "profile": "https://github.com/micahjo7"
+      },
+      {
+        "login": "philipwalton",
+        "profile": "https://github.com/philipwalton"
+      }
+    ],
+    "trendingSnippet": "Star\n\n GoogleChrome /\n\n modern-web-guidance-src\n\n TypeScript\n\n 1,911\n\n 148\n\n Built by\n\n 159 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "shadcn",
+    "name": "improve",
+    "fullName": "shadcn/improve",
+    "projectLink": "https://github.com/shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "language": "",
+    "stars": 11050,
+    "forks": 448,
+    "deltaStars": 361,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "shadcn",
+        "profile": "https://github.com/shadcn"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "erikpr1994",
+        "profile": "https://github.com/erikpr1994"
+      },
+      {
+        "login": "beastawakens",
+        "profile": "https://github.com/beastawakens"
+      },
+      {
+        "login": "morinim",
+        "profile": "https://github.com/morinim"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n shadcn /\n\n improve\n\n Use your most capable model to audit your codebase and write plans for cheaper models to execute.\n\n 11,050\n\n 448\n\n Built by\n\n 361 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "addyosmani",
+    "name": "agent-skills",
+    "fullName": "addyosmani/agent-skills",
+    "projectLink": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 116065,
+    "forks": 12171,
+    "deltaStars": 787,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "addyosmani",
+        "profile": "https://github.com/addyosmani"
+      },
+      {
+        "login": "nucliweb",
+        "profile": "https://github.com/nucliweb"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      }
+    ],
+    "trendingSnippet": "Star\n\n addyosmani /\n\n agent-skills\n\n Production-grade engineering skills for AI coding agents.\n\n JavaScript\n\n 116,065\n\n 12,171\n\n Built by\n\n 787 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 49979,
+    "forks": 3492,
+    "deltaStars": 708,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 49,979\n\n 3,492\n\n Built by\n\n 708 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "we-promise",
+    "name": "sure",
+    "fullName": "we-promise/sure",
+    "projectLink": "https://github.com/we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars": 13097,
+    "forks": 963,
+    "deltaStars": 1078,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jjmata",
+        "profile": "https://github.com/jjmata"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "zachgoll",
+        "profile": "https://github.com/zachgoll"
+      },
+      {
+        "login": "Shpigford",
+        "profile": "https://github.com/Shpigford"
+      }
+    ],
+    "trendingSnippet": "Star\n\n we-promise /\n\n sure\n\n The personal finance app for everyone (by everyone)\n\n Ruby\n\n 13,097\n\n 963\n\n Built by\n\n 1,078 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "homeassistant-ai",
+    "name": "ha-mcp",
+    "fullName": "homeassistant-ai/ha-mcp",
+    "projectLink": "https://github.com/homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "stars": 7463,
+    "forks": 455,
+    "deltaStars": 645,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kingpanther13",
+        "profile": "https://github.com/kingpanther13"
+      },
+      {
+        "login": "julienld",
+        "profile": "https://github.com/julienld"
+      }
+    ],
+    "trendingSnippet": "Star\n\n homeassistant-ai /\n\n ha-mcp\n\n Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.\n\n Python\n\n 7,463\n\n 455\n\n Built by\n\n 645 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "openai",
+    "name": "codex-security",
+    "fullName": "openai/codex-security",
+    "projectLink": "https://github.com/openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "stars": 11854,
+    "forks": 945,
+    "deltaStars": 52,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mldangelo-oai",
+        "profile": "https://github.com/mldangelo-oai"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      },
+      {
+        "login": "ianw-oai",
+        "profile": "https://github.com/ianw-oai"
+      },
+      {
+        "login": "kmbroai",
+        "profile": "https://github.com/kmbroai"
+      }
+    ],
+    "trendingSnippet": "Star\n\n openai /\n\n codex-security\n\n OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\n TypeScript\n\n 11,854\n\n 945\n\n Built by\n\n 52 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "TheAlgorithms",
+    "name": "Java",
+    "fullName": "TheAlgorithms/Java",
+    "projectLink": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "stars": 67093,
+    "forks": 21515,
+    "deltaStars": 51,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "alxkm",
+        "profile": "https://github.com/alxkm"
+      },
+      {
+        "login": "vil02",
+        "profile": "https://github.com/vil02"
+      },
+      {
+        "login": "Hardvan",
+        "profile": "https://github.com/Hardvan"
+      },
+      {
+        "login": "yanglbme",
+        "profile": "https://github.com/yanglbme"
+      }
+    ],
+    "trendingSnippet": "Star\n\n TheAlgorithms /\n\n Java\n\n All Algorithms implemented in Java\n\n Java\n\n 67,093\n\n 21,515\n\n Built by\n\n 51 stars today"
+  }
+]
