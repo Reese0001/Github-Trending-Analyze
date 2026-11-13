@@ -1,0 +1,377 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 193754,
+    "forks": 22797,
+    "deltaStars": 6055,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 193,754\n\n 22,797\n\n Built by\n\n 6,055 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "milind-soni",
+    "name": "OpenMausBot",
+    "fullName": "milind-soni/OpenMausBot",
+    "projectLink": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 21783,
+    "forks": 3030,
+    "deltaStars": 9104,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "milind-soni",
+        "profile": "https://github.com/milind-soni"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "aivsomkar",
+        "profile": "https://github.com/aivsomkar"
+      },
+      {
+        "login": "AdityaUmale",
+        "profile": "https://github.com/AdityaUmale"
+      },
+      {
+        "login": "robinsonnblack",
+        "profile": "https://github.com/robinsonnblack"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n milind-soni /\n\n OpenMausBot\n\n Open-source Grok Bot alternative with a virtual machine that bots can use\n\n TypeScript\n\n 21,783\n\n 3,030\n\n Built by\n\n 9,104 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 50380,
+    "forks": 3507,
+    "deltaStars": 4601,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 50,380\n\n 3,507\n\n Built by\n\n 4,601 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "NVIDIA",
+    "name": "auto-ontology",
+    "fullName": "NVIDIA/auto-ontology",
+    "projectLink": "https://github.com/NVIDIA/auto-ontology",
+    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "language": "Python",
+    "stars": 12289,
+    "forks": 1014,
+    "deltaStars": 5802,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "DinaLaptii",
+        "profile": "https://github.com/DinaLaptii"
+      },
+      {
+        "login": "yuvalshkolar",
+        "profile": "https://github.com/yuvalshkolar"
+      },
+      {
+        "login": "liavnave",
+        "profile": "https://github.com/liavnave"
+      },
+      {
+        "login": "liofnv",
+        "profile": "https://github.com/liofnv"
+      },
+      {
+        "login": "tomer-levin-nv",
+        "profile": "https://github.com/tomer-levin-nv"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NVIDIA /\n\n auto-ontology\n\n Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.\n\n Python\n\n 12,289\n\n 1,014\n\n Built by\n\n 5,802 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 71292,
+    "forks": 4741,
+    "deltaStars": 10700,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 71,292\n\n 4,741\n\n Built by\n\n 10,700 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "vercel-labs",
+    "name": "agent-desktop",
+    "fullName": "vercel-labs/agent-desktop",
+    "projectLink": "https://github.com/vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "language": "Rust",
+    "stars": 22811,
+    "forks": 1689,
+    "deltaStars": 6414,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-desktop\n\n Computer use CLI for AI agents\n\n Rust\n\n 22,811\n\n 1,689\n\n Built by\n\n 6,414 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "mattpocock",
+    "name": "skills",
+    "fullName": "mattpocock/skills",
+    "projectLink": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 323106,
+    "forks": 27107,
+    "deltaStars": 8731,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mattpocock",
+        "profile": "https://github.com/mattpocock"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "gabimoncha",
+        "profile": "https://github.com/gabimoncha"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mattpocock /\n\n skills\n\n Skills for Real Engineers. Straight from my .agents directory.\n\n Shell\n\n 323,106\n\n 27,107\n\n Built by\n\n 8,731 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "zed-industries",
+    "name": "zed",
+    "fullName": "zed-industries/zed",
+    "projectLink": "https://github.com/zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "stars": 94866,
+    "forks": 11670,
+    "deltaStars": 2339,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "as-cii",
+        "profile": "https://github.com/as-cii"
+      },
+      {
+        "login": "maxbrunsfeld",
+        "profile": "https://github.com/maxbrunsfeld"
+      },
+      {
+        "login": "maxdeviant",
+        "profile": "https://github.com/maxdeviant"
+      },
+      {
+        "login": "nathansobo",
+        "profile": "https://github.com/nathansobo"
+      },
+      {
+        "login": "ConradIrwin",
+        "profile": "https://github.com/ConradIrwin"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n zed-industries /\n\n zed\n\n Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.\n\n Rust\n\n 94,866\n\n 11,670\n\n Built by\n\n 2,339 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "google-deepmind",
+    "name": "mujoco",
+    "fullName": "google-deepmind/mujoco",
+    "projectLink": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 17782,
+    "forks": 2180,
+    "deltaStars": 1671,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "yuvaltassa",
+        "profile": "https://github.com/yuvaltassa"
+      },
+      {
+        "login": "quagla",
+        "profile": "https://github.com/quagla"
+      },
+      {
+        "login": "haroonq",
+        "profile": "https://github.com/haroonq"
+      },
+      {
+        "login": "kbayes",
+        "profile": "https://github.com/kbayes"
+      },
+      {
+        "login": "thowell",
+        "profile": "https://github.com/thowell"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-deepmind /\n\n mujoco\n\n Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\n C++\n\n 17,782\n\n 2,180\n\n Built by\n\n 1,671 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "google",
+    "name": "skills",
+    "fullName": "google/skills",
+    "projectLink": "https://github.com/google/skills",
+    "description": "Agent Skills for Google products and technologies",
+    "language": "Python",
+    "stars": 24085,
+    "forks": 2005,
+    "deltaStars": 1933,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cloud-ix-copybara",
+        "profile": "https://github.com/cloud-ix-copybara"
+      },
+      {
+        "login": "holtskinner",
+        "profile": "https://github.com/holtskinner"
+      },
+      {
+        "login": "martinvarelaj",
+        "profile": "https://github.com/martinvarelaj"
+      },
+      {
+        "login": "helloeve",
+        "profile": "https://github.com/helloeve"
+      },
+      {
+        "login": "wangauone",
+        "profile": "https://github.com/wangauone"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google /\n\n skills\n\n Agent Skills for Google products and technologies\n\n Python\n\n 24,085\n\n 2,005\n\n Built by\n\n 1,933 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "D4Vinci",
+    "name": "Scrapling",
+    "fullName": "D4Vinci/Scrapling",
+    "projectLink": "https://github.com/D4Vinci/Scrapling",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/...",
+    "language": "Python",
+    "stars": 102217,
+    "forks": 10639,
+    "deltaStars": 4743,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "D4Vinci",
+        "profile": "https://github.com/D4Vinci"
+      },
+      {
+        "login": "yetval",
+        "profile": "https://github.com/yetval"
+      },
+      {
+        "login": "AbdullahY36",
+        "profile": "https://github.com/AbdullahY36"
+      },
+      {
+        "login": "SulimanAbdulrazzaq",
+        "profile": "https://github.com/SulimanAbdulrazzaq"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n D4Vinci /\n\n Scrapling\n\n 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev\n\n Python\n\n 102,217\n\n 10,639\n\n Built by\n\n 4,743 stars this week"
+  }
+]

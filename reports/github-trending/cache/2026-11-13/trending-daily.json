@@ -1,0 +1,463 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "GoogleChrome",
+    "name": "modern-web-guidance-src",
+    "fullName": "GoogleChrome/modern-web-guidance-src",
+    "projectLink": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "stars": 3304,
+    "forks": 210,
+    "deltaStars": 739,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "paulirish",
+        "profile": "https://github.com/paulirish"
+      },
+      {
+        "login": "rviscomi",
+        "profile": "https://github.com/rviscomi"
+      },
+      {
+        "login": "micahjo7",
+        "profile": "https://github.com/micahjo7"
+      },
+      {
+        "login": "LeaVerou",
+        "profile": "https://github.com/LeaVerou"
+      }
+    ],
+    "trendingSnippet": "Star\n\n GoogleChrome /\n\n modern-web-guidance-src\n\n Keep your coding agent up to date with the latest web best practices\n\n TypeScript\n\n 3,304\n\n 210\n\n Built by\n\n 739 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "openai",
+    "name": "codex-security",
+    "fullName": "openai/codex-security",
+    "projectLink": "https://github.com/openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "stars": 12551,
+    "forks": 981,
+    "deltaStars": 643,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mldangelo-oai",
+        "profile": "https://github.com/mldangelo-oai"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      },
+      {
+        "login": "ianw-oai",
+        "profile": "https://github.com/ianw-oai"
+      },
+      {
+        "login": "kmbroai",
+        "profile": "https://github.com/kmbroai"
+      }
+    ],
+    "trendingSnippet": "Star\n\n openai /\n\n codex-security\n\n OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\n TypeScript\n\n 12,551\n\n 981\n\n Built by\n\n 643 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "nvm-sh",
+    "name": "nvm",
+    "fullName": "nvm-sh/nvm",
+    "projectLink": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "language": "Shell",
+    "stars": 96034,
+    "forks": 10760,
+    "deltaStars": 63,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ljharb",
+        "profile": "https://github.com/ljharb"
+      },
+      {
+        "login": "PeterDaveHello",
+        "profile": "https://github.com/PeterDaveHello"
+      },
+      {
+        "login": "creationix",
+        "profile": "https://github.com/creationix"
+      },
+      {
+        "login": "koenpunt",
+        "profile": "https://github.com/koenpunt"
+      },
+      {
+        "login": "lukechilds",
+        "profile": "https://github.com/lukechilds"
+      }
+    ],
+    "trendingSnippet": "Star\n\n nvm-sh /\n\n nvm\n\n Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.\n\n Shell\n\n 96,034\n\n 10,760\n\n Built by\n\n 63 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "pookjw",
+    "name": "HermesEnabler",
+    "fullName": "pookjw/HermesEnabler",
+    "projectLink": "https://github.com/pookjw/HermesEnabler",
+    "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "language": "Objective-C",
+    "stars": 1592,
+    "forks": 143,
+    "deltaStars": 218,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "pookjw",
+        "profile": "https://github.com/pookjw"
+      },
+      {
+        "login": "metalnodeug",
+        "profile": "https://github.com/metalnodeug"
+      },
+      {
+        "login": "SamZong233",
+        "profile": "https://github.com/SamZong233"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "dfrias",
+        "profile": "https://github.com/dfrias"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pookjw /\n\n HermesEnabler\n\n Enable Hermès Watch Faces on any Apple Watch devices\n\n Objective-C\n\n 1,592\n\n 143\n\n Built by\n\n 218 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "we-promise",
+    "name": "sure",
+    "fullName": "we-promise/sure",
+    "projectLink": "https://github.com/we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars": 14040,
+    "forks": 1055,
+    "deltaStars": 967,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jjmata",
+        "profile": "https://github.com/jjmata"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "zachgoll",
+        "profile": "https://github.com/zachgoll"
+      },
+      {
+        "login": "Shpigford",
+        "profile": "https://github.com/Shpigford"
+      }
+    ],
+    "trendingSnippet": "Star\n\n we-promise /\n\n sure\n\n The personal finance app for everyone (by everyone)\n\n Ruby\n\n 14,040\n\n 1,055\n\n Built by\n\n 967 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "QwenLM",
+    "name": "qwen-code",
+    "fullName": "QwenLM/qwen-code",
+    "projectLink": "https://github.com/QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "language": "TypeScript",
+    "stars": 29887,
+    "forks": 3403,
+    "deltaStars": 151,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "wenshao",
+        "profile": "https://github.com/wenshao"
+      },
+      {
+        "login": "qwencoder",
+        "profile": "https://github.com/qwencoder"
+      },
+      {
+        "login": "yiliang114",
+        "profile": "https://github.com/yiliang114"
+      },
+      {
+        "login": "tanzhenxin",
+        "profile": "https://github.com/tanzhenxin"
+      },
+      {
+        "login": "qwen-code-dev-bot",
+        "profile": "https://github.com/qwen-code-dev-bot"
+      }
+    ],
+    "trendingSnippet": "Star\n\n QwenLM /\n\n qwen-code\n\n An open-source AI coding agent that lives in your terminal.\n\n TypeScript\n\n 29,887\n\n 3,403\n\n Built by\n\n 151 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "ashhart",
+    "name": "TensorFold",
+    "fullName": "ashhart/TensorFold",
+    "projectLink": "https://github.com/ashhart/TensorFold",
+    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "language": "Zig",
+    "stars": 1978,
+    "forks": 394,
+    "deltaStars": 54,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ashhart",
+        "profile": "https://github.com/ashhart"
+      },
+      {
+        "login": "jschmied",
+        "profile": "https://github.com/jschmied"
+      },
+      {
+        "login": "BobClawblaw",
+        "profile": "https://github.com/BobClawblaw"
+      },
+      {
+        "login": "laudney",
+        "profile": "https://github.com/laudney"
+      },
+      {
+        "login": "BlivionIaG",
+        "profile": "https://github.com/BlivionIaG"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n ashhart /\n\n TensorFold\n\n LLM Inference Engine for Metal, CUDA and Vulkan.\n\n Zig\n\n 1,978\n\n 394\n\n Built by\n\n 54 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "nodejs",
+    "name": "node",
+    "fullName": "nodejs/node",
+    "projectLink": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "stars": 123619,
+    "forks": 38058,
+    "deltaStars": 62,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Trott",
+        "profile": "https://github.com/Trott"
+      },
+      {
+        "login": "ry",
+        "profile": "https://github.com/ry"
+      },
+      {
+        "login": "bnoordhuis",
+        "profile": "https://github.com/bnoordhuis"
+      },
+      {
+        "login": "addaleax",
+        "profile": "https://github.com/addaleax"
+      },
+      {
+        "login": "isaacs",
+        "profile": "https://github.com/isaacs"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n nodejs /\n\n node\n\n Node.js JavaScript runtime ✨🐢🚀✨\n\n JavaScript\n\n 123,619\n\n 38,058\n\n Built by\n\n 62 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "addyosmani",
+    "name": "agent-skills",
+    "fullName": "addyosmani/agent-skills",
+    "projectLink": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 116767,
+    "forks": 12213,
+    "deltaStars": 816,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "addyosmani",
+        "profile": "https://github.com/addyosmani"
+      },
+      {
+        "login": "nucliweb",
+        "profile": "https://github.com/nucliweb"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      }
+    ],
+    "trendingSnippet": "Star\n\n addyosmani /\n\n agent-skills\n\n Production-grade engineering skills for AI coding agents.\n\n JavaScript\n\n 116,767\n\n 12,213\n\n Built by\n\n 816 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 26724,
+    "forks": 2072,
+    "deltaStars": 1830,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 26,724\n\n 2,072\n\n Built by\n\n 1,830 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "CopilotKit",
+    "name": "OpenBot",
+    "fullName": "CopilotKit/OpenBot",
+    "projectLink": "https://github.com/CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "language": "TypeScript",
+    "stars": 11710,
+    "forks": 1448,
+    "deltaStars": 298,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "davidmckayv",
+        "profile": "https://github.com/davidmckayv"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kevin9327",
+        "profile": "https://github.com/kevin9327"
+      },
+      {
+        "login": "guidovizoso",
+        "profile": "https://github.com/guidovizoso"
+      },
+      {
+        "login": "Ayush7614",
+        "profile": "https://github.com/Ayush7614"
+      }
+    ],
+    "trendingSnippet": "Star\n\n CopilotKit /\n\n OpenBot\n\n Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.\n\n TypeScript\n\n 11,710\n\n 1,448\n\n Built by\n\n 298 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "Alishahryar1",
+    "name": "free-claude-code",
+    "fullName": "Alishahryar1/free-claude-code",
+    "projectLink": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-h...",
+    "language": "Python",
+    "stars": 69422,
+    "forks": 10773,
+    "deltaStars": 415,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Alishahryar1",
+        "profile": "https://github.com/Alishahryar1"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Tanishq-1",
+        "profile": "https://github.com/Tanishq-1"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Alishahryar1 /\n\n free-claude-code\n\n Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)\n\n Python\n\n 69,422\n\n 10,773\n\n Built by\n\n 415 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "ggml-org",
+    "name": "llama.cpp",
+    "fullName": "ggml-org/llama.cpp",
+    "projectLink": "https://github.com/ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "language": "C++",
+    "stars": 134624,
+    "forks": 25514,
+    "deltaStars": 176,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ggerganov",
+        "profile": "https://github.com/ggerganov"
+      },
+      {
+        "login": "ngxson",
+        "profile": "https://github.com/ngxson"
+      },
+      {
+        "login": "CISC",
+        "profile": "https://github.com/CISC"
+      },
+      {
+        "login": "JohannesGaessler",
+        "profile": "https://github.com/JohannesGaessler"
+      },
+      {
+        "login": "slaren",
+        "profile": "https://github.com/slaren"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ggml-org /\n\n llama.cpp\n\n LLM inference in C/C++\n\n C++\n\n 134,624\n\n 25,514\n\n Built by\n\n 176 stars today"
+  }
+]
