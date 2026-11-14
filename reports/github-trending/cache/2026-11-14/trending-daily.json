@@ -1,0 +1,422 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "alibaba",
+    "name": "open-code-review",
+    "fullName": "alibaba/open-code-review",
+    "projectLink": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, X...",
+    "language": "Go",
+    "stars": 50735,
+    "forks": 3774,
+    "deltaStars": 215,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "lizhengfeng101",
+        "profile": "https://github.com/lizhengfeng101"
+      },
+      {
+        "login": "wu21-web",
+        "profile": "https://github.com/wu21-web"
+      },
+      {
+        "login": "chethanuk",
+        "profile": "https://github.com/chethanuk"
+      },
+      {
+        "login": "Qiyuanqiii",
+        "profile": "https://github.com/Qiyuanqiii"
+      },
+      {
+        "login": "stay-foolish-forever",
+        "profile": "https://github.com/stay-foolish-forever"
+      }
+    ],
+    "trendingSnippet": "Star\n\n alibaba /\n\n open-code-review\n\n Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n Go\n\n 50,735\n\n 3,774\n\n Built by\n\n 215 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "GoogleChrome",
+    "name": "modern-web-guidance-src",
+    "fullName": "GoogleChrome/modern-web-guidance-src",
+    "projectLink": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "stars": 4973,
+    "forks": 274,
+    "deltaStars": 1925,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "paulirish",
+        "profile": "https://github.com/paulirish"
+      },
+      {
+        "login": "rviscomi",
+        "profile": "https://github.com/rviscomi"
+      },
+      {
+        "login": "micahjo7",
+        "profile": "https://github.com/micahjo7"
+      },
+      {
+        "login": "LeaVerou",
+        "profile": "https://github.com/LeaVerou"
+      }
+    ],
+    "trendingSnippet": "Star\n\n GoogleChrome /\n\n modern-web-guidance-src\n\n Keep your coding agent up to date with the latest web best practices\n\n TypeScript\n\n 4,973\n\n 274\n\n Built by\n\n 1,925 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "openai",
+    "name": "codex-security",
+    "fullName": "openai/codex-security",
+    "projectLink": "https://github.com/openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "stars": 13191,
+    "forks": 1027,
+    "deltaStars": 751,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mldangelo-oai",
+        "profile": "https://github.com/mldangelo-oai"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      },
+      {
+        "login": "ianw-oai",
+        "profile": "https://github.com/ianw-oai"
+      },
+      {
+        "login": "kmbroai",
+        "profile": "https://github.com/kmbroai"
+      }
+    ],
+    "trendingSnippet": "Star\n\n openai /\n\n codex-security\n\n OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\n TypeScript\n\n 13,191\n\n 1,027\n\n Built by\n\n 751 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "ZhuLinsen",
+    "name": "daily_stock_analysis",
+    "fullName": "ZhuLinsen/daily_stock_analysis",
+    "projectLink": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars": 71738,
+    "forks": 57334,
+    "deltaStars": 256,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ZhuLinsen",
+        "profile": "https://github.com/ZhuLinsen"
+      },
+      {
+        "login": "massif-01",
+        "profile": "https://github.com/massif-01"
+      },
+      {
+        "login": "freesme",
+        "profile": "https://github.com/freesme"
+      },
+      {
+        "login": "Activer007",
+        "profile": "https://github.com/Activer007"
+      },
+      {
+        "login": "birdxs",
+        "profile": "https://github.com/birdxs"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n ZhuLinsen /\n\n daily_stock_analysis\n\n LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\n Python\n\n 71,738\n\n 57,334\n\n Built by\n\n 256 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "we-promise",
+    "name": "sure",
+    "fullName": "we-promise/sure",
+    "projectLink": "https://github.com/we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars": 14815,
+    "forks": 1128,
+    "deltaStars": 925,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jjmata",
+        "profile": "https://github.com/jjmata"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "zachgoll",
+        "profile": "https://github.com/zachgoll"
+      },
+      {
+        "login": "Shpigford",
+        "profile": "https://github.com/Shpigford"
+      }
+    ],
+    "trendingSnippet": "Star\n\n we-promise /\n\n sure\n\n The personal finance app for everyone (by everyone)\n\n Ruby\n\n 14,815\n\n 1,128\n\n Built by\n\n 925 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "backnotprop",
+    "name": "plannotator",
+    "fullName": "backnotprop/plannotator",
+    "projectLink": "https://github.com/backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "stars": 10518,
+    "forks": 790,
+    "deltaStars": 108,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "backnotprop",
+        "profile": "https://github.com/backnotprop"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "utpalsinghdev",
+        "profile": "https://github.com/utpalsinghdev"
+      },
+      {
+        "login": "leoreisdias",
+        "profile": "https://github.com/leoreisdias"
+      },
+      {
+        "login": "uvw",
+        "profile": "https://github.com/uvw"
+      }
+    ],
+    "trendingSnippet": "Star\n\n backnotprop /\n\n plannotator\n\n The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\n TypeScript\n\n 10,518\n\n 790\n\n Built by\n\n 108 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "louislam",
+    "name": "uptime-kuma",
+    "fullName": "louislam/uptime-kuma",
+    "projectLink": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "stars": 93904,
+    "forks": 8724,
+    "deltaStars": 71,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "louislam",
+        "profile": "https://github.com/louislam"
+      },
+      {
+        "login": "CommanderStorm",
+        "profile": "https://github.com/CommanderStorm"
+      },
+      {
+        "login": "chakflying",
+        "profile": "https://github.com/chakflying"
+      },
+      {
+        "login": "Saibamen",
+        "profile": "https://github.com/Saibamen"
+      },
+      {
+        "login": "Computroniks",
+        "profile": "https://github.com/Computroniks"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n louislam /\n\n uptime-kuma\n\n A fancy self-hosted monitoring tool\n\n JavaScript\n\n 93,904\n\n 8,724\n\n Built by\n\n 71 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "block",
+    "name": "buzz",
+    "fullName": "block/buzz",
+    "projectLink": "https://github.com/block/buzz",
+    "description": "A hive mind communication platform",
+    "language": "Rust",
+    "stars": 37324,
+    "forks": 4942,
+    "deltaStars": 97,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "wesbillman",
+        "profile": "https://github.com/wesbillman"
+      },
+      {
+        "login": "wpfleger96",
+        "profile": "https://github.com/wpfleger96"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "tlongwell-block",
+        "profile": "https://github.com/tlongwell-block"
+      },
+      {
+        "login": "klopez4212",
+        "profile": "https://github.com/klopez4212"
+      }
+    ],
+    "trendingSnippet": "Star\n\n block /\n\n buzz\n\n A hive mind communication platform\n\n Rust\n\n 37,324\n\n 4,942\n\n Built by\n\n 97 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "tradermonty",
+    "name": "claude-trading-skills",
+    "fullName": "tradermonty/claude-trading-skills",
+    "projectLink": "https://github.com/tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "stars": 4235,
+    "forks": 873,
+    "deltaStars": 69,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "tradermonty",
+        "profile": "https://github.com/tradermonty"
+      },
+      {
+        "login": "raikkonenPotter",
+        "profile": "https://github.com/raikkonenPotter"
+      },
+      {
+        "login": "wolframarnold",
+        "profile": "https://github.com/wolframarnold"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tradermonty /\n\n claude-trading-skills\n\n Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\n\n Python\n\n 4,235\n\n 873\n\n Built by\n\n 69 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "tailscale",
+    "name": "tailcat",
+    "fullName": "tailscale/tailcat",
+    "projectLink": "https://github.com/tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "language": "Go",
+    "stars": 9509,
+    "forks": 433,
+    "deltaStars": 256,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "bradfitz",
+        "profile": "https://github.com/bradfitz"
+      },
+      {
+        "login": "danderson",
+        "profile": "https://github.com/danderson"
+      },
+      {
+        "login": "andrew-d",
+        "profile": "https://github.com/andrew-d"
+      },
+      {
+        "login": "raggi",
+        "profile": "https://github.com/raggi"
+      },
+      {
+        "login": "jwhited",
+        "profile": "https://github.com/jwhited"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tailscale /\n\n tailcat\n\n like netcat, but over Tailscale's data plane, without Tailscale's control plane\n\n Go\n\n 9,509\n\n 433\n\n Built by\n\n 256 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "Likely7",
+    "name": "Veyra-NRVideo",
+    "fullName": "Likely7/Veyra-NRVideo",
+    "projectLink": "https://github.com/Likely7/Veyra-NRVideo",
+    "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5...",
+    "language": "C++",
+    "stars": 1663,
+    "forks": 73,
+    "deltaStars": 256,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Likely7",
+        "profile": "https://github.com/Likely7"
+      },
+      {
+        "login": "georgeg911",
+        "profile": "https://github.com/georgeg911"
+      },
+      {
+        "login": "GeT-LeFt",
+        "profile": "https://github.com/GeT-LeFt"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Likely7 /\n\n Veyra-NRVideo\n\n Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.\n\n C++\n\n 1,663\n\n 73\n\n Built by\n\n 256 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "ChromeDevTools",
+    "name": "chrome-devtools-mcp",
+    "fullName": "ChromeDevTools/chrome-devtools-mcp",
+    "projectLink": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": 55542,
+    "forks": 4608,
+    "deltaStars": 67,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "OrKoN",
+        "profile": "https://github.com/OrKoN"
+      },
+      {
+        "login": "Lightning00Blade",
+        "profile": "https://github.com/Lightning00Blade"
+      },
+      {
+        "login": "browser-automation-bot",
+        "profile": "https://github.com/browser-automation-bot"
+      },
+      {
+        "login": "yulunz",
+        "profile": "https://github.com/yulunz"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ChromeDevTools /\n\n chrome-devtools-mcp\n\n Chrome DevTools for coding agents\n\n TypeScript\n\n 55,542\n\n 4,608\n\n Built by\n\n 67 stars today"
+  }
+]
