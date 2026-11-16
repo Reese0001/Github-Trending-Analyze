@@ -1,0 +1,393 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 28982,
+    "forks": 2264,
+    "deltaStars": 13501,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 28,982\n\n 2,264\n\n Built by\n\n 13,501 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 195433,
+    "forks": 22970,
+    "deltaStars": 6077,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 195,433\n\n 22,970\n\n Built by\n\n 6,077 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "sherlock-project",
+    "name": "sherlock",
+    "fullName": "sherlock-project/sherlock",
+    "projectLink": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 112572,
+    "forks": 12995,
+    "deltaStars": 10412,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "sdushantha",
+        "profile": "https://github.com/sdushantha"
+      },
+      {
+        "login": "hoadlck",
+        "profile": "https://github.com/hoadlck"
+      },
+      {
+        "login": "ppfeister",
+        "profile": "https://github.com/ppfeister"
+      },
+      {
+        "login": "TheYahya",
+        "profile": "https://github.com/TheYahya"
+      },
+      {
+        "login": "Czechball",
+        "profile": "https://github.com/Czechball"
+      }
+    ],
+    "trendingSnippet": "Star\n\n sherlock-project /\n\n sherlock\n\n Hunt down social media accounts by username across social networks\n\n Python\n\n 112,572\n\n 12,995\n\n Built by\n\n 10,412 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "backnotprop",
+    "name": "plannotator",
+    "fullName": "backnotprop/plannotator",
+    "projectLink": "https://github.com/backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "stars": 11949,
+    "forks": 1088,
+    "deltaStars": 1719,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "backnotprop",
+        "profile": "https://github.com/backnotprop"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "utpalsinghdev",
+        "profile": "https://github.com/utpalsinghdev"
+      },
+      {
+        "login": "leoreisdias",
+        "profile": "https://github.com/leoreisdias"
+      },
+      {
+        "login": "uvw",
+        "profile": "https://github.com/uvw"
+      }
+    ],
+    "trendingSnippet": "Star\n\n backnotprop /\n\n plannotator\n\n The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\n TypeScript\n\n 11,949\n\n 1,088\n\n Built by\n\n 1,719 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 51684,
+    "forks": 3615,
+    "deltaStars": 4217,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 51,684\n\n 3,615\n\n Built by\n\n 4,217 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "ZhuLinsen",
+    "name": "daily_stock_analysis",
+    "fullName": "ZhuLinsen/daily_stock_analysis",
+    "projectLink": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars": 72556,
+    "forks": 57586,
+    "deltaStars": 4548,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ZhuLinsen",
+        "profile": "https://github.com/ZhuLinsen"
+      },
+      {
+        "login": "massif-01",
+        "profile": "https://github.com/massif-01"
+      },
+      {
+        "login": "freesme",
+        "profile": "https://github.com/freesme"
+      },
+      {
+        "login": "Activer007",
+        "profile": "https://github.com/Activer007"
+      },
+      {
+        "login": "birdxs",
+        "profile": "https://github.com/birdxs"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n ZhuLinsen /\n\n daily_stock_analysis\n\n LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\n Python\n\n 72,556\n\n 57,586\n\n Built by\n\n 4,548 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "we-promise",
+    "name": "sure",
+    "fullName": "we-promise/sure",
+    "projectLink": "https://github.com/we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars": 15750,
+    "forks": 1380,
+    "deltaStars": 4556,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jjmata",
+        "profile": "https://github.com/jjmata"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "zachgoll",
+        "profile": "https://github.com/zachgoll"
+      },
+      {
+        "login": "Shpigford",
+        "profile": "https://github.com/Shpigford"
+      }
+    ],
+    "trendingSnippet": "Star\n\n we-promise /\n\n sure\n\n The personal finance app for everyone (by everyone)\n\n Ruby\n\n 15,750\n\n 1,380\n\n Built by\n\n 4,556 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "milind-soni",
+    "name": "OpenMausBot",
+    "fullName": "milind-soni/OpenMausBot",
+    "projectLink": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 23514,
+    "forks": 3265,
+    "deltaStars": 5463,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "milind-soni",
+        "profile": "https://github.com/milind-soni"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "aivsomkar",
+        "profile": "https://github.com/aivsomkar"
+      },
+      {
+        "login": "AdityaUmale",
+        "profile": "https://github.com/AdityaUmale"
+      },
+      {
+        "login": "robinsonnblack",
+        "profile": "https://github.com/robinsonnblack"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n milind-soni /\n\n OpenMausBot\n\n Open-source Grok Bot alternative with a virtual machine that bots can use\n\n TypeScript\n\n 23,514\n\n 3,265\n\n Built by\n\n 5,463 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "google",
+    "name": "elephant-goldfish-model",
+    "fullName": "google/elephant-goldfish-model",
+    "projectLink": "https://github.com/google/elephant-goldfish-model",
+    "description": "Open-source plugin for designing and reviewing software with agents",
+    "language": "Python",
+    "stars": 19854,
+    "forks": 1474,
+    "deltaStars": 5060,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "n3wth",
+        "profile": "https://github.com/n3wth"
+      },
+      {
+        "login": "briansuchy",
+        "profile": "https://github.com/briansuchy"
+      },
+      {
+        "login": "eewing314",
+        "profile": "https://github.com/eewing314"
+      },
+      {
+        "login": "briansuchy-goog",
+        "profile": "https://github.com/briansuchy-goog"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google /\n\n elephant-goldfish-model\n\n Open-source plugin for designing and reviewing software with agents\n\n Python\n\n 19,854\n\n 1,474\n\n Built by\n\n 5,060 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "google-deepmind",
+    "name": "mujoco",
+    "fullName": "google-deepmind/mujoco",
+    "projectLink": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 18091,
+    "forks": 2215,
+    "deltaStars": 1922,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "yuvaltassa",
+        "profile": "https://github.com/yuvaltassa"
+      },
+      {
+        "login": "quagla",
+        "profile": "https://github.com/quagla"
+      },
+      {
+        "login": "haroonq",
+        "profile": "https://github.com/haroonq"
+      },
+      {
+        "login": "kbayes",
+        "profile": "https://github.com/kbayes"
+      },
+      {
+        "login": "thowell",
+        "profile": "https://github.com/thowell"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-deepmind /\n\n mujoco\n\n Multi-Joint dynamics with Contact. A general purpose physics simulator.\n\n C++\n\n 18,091\n\n 2,215\n\n Built by\n\n 1,922 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "addyosmani",
+    "name": "agent-skills",
+    "fullName": "addyosmani/agent-skills",
+    "projectLink": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 117988,
+    "forks": 12343,
+    "deltaStars": 3889,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "addyosmani",
+        "profile": "https://github.com/addyosmani"
+      },
+      {
+        "login": "nucliweb",
+        "profile": "https://github.com/nucliweb"
+      },
+      {
+        "login": "ayobamiseun",
+        "profile": "https://github.com/ayobamiseun"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n addyosmani /\n\n agent-skills\n\n Production-grade engineering skills for AI coding agents.\n\n JavaScript\n\n 117,988\n\n 12,343\n\n Built by\n\n 3,889 stars this week"
+  }
+]
