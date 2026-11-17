@@ -1,0 +1,509 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "ag-ui-protocol",
+    "name": "ag-ui",
+    "fullName": "ag-ui-protocol/ag-ui",
+    "projectLink": "https://github.com/ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "stars": 19308,
+    "forks": 1990,
+    "deltaStars": 791,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ranst91",
+        "profile": "https://github.com/ranst91"
+      },
+      {
+        "login": "contextablemark",
+        "profile": "https://github.com/contextablemark"
+      },
+      {
+        "login": "mme",
+        "profile": "https://github.com/mme"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "jpr5",
+        "profile": "https://github.com/jpr5"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ag-ui-protocol /\n\n ag-ui\n\n AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\n\n TypeScript\n\n 19,308\n\n 1,990\n\n Built by\n\n 791 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "backnotprop",
+    "name": "plannotator",
+    "fullName": "backnotprop/plannotator",
+    "projectLink": "https://github.com/backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "stars": 12712,
+    "forks": 1250,
+    "deltaStars": 696,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "backnotprop",
+        "profile": "https://github.com/backnotprop"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "utpalsinghdev",
+        "profile": "https://github.com/utpalsinghdev"
+      },
+      {
+        "login": "leoreisdias",
+        "profile": "https://github.com/leoreisdias"
+      },
+      {
+        "login": "uvw",
+        "profile": "https://github.com/uvw"
+      }
+    ],
+    "trendingSnippet": "Star\n\n backnotprop /\n\n plannotator\n\n The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\n TypeScript\n\n 12,712\n\n 1,250\n\n Built by\n\n 696 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "dream-num",
+    "name": "univer",
+    "fullName": "dream-num/univer",
+    "projectLink": "https://github.com/dream-num/univer",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "stars": 27950,
+    "forks": 2545,
+    "deltaStars": 1828,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jikkai",
+        "profile": "https://github.com/jikkai"
+      },
+      {
+        "login": "DR-Univer",
+        "profile": "https://github.com/DR-Univer"
+      },
+      {
+        "login": "wpxp123456",
+        "profile": "https://github.com/wpxp123456"
+      },
+      {
+        "login": "wzhudev",
+        "profile": "https://github.com/wzhudev"
+      },
+      {
+        "login": "Dushusir",
+        "profile": "https://github.com/Dushusir"
+      }
+    ],
+    "trendingSnippet": "Star\n\n dream-num /\n\n univer\n\n Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\n\n TypeScript\n\n 27,950\n\n 2,545\n\n Built by\n\n 1,828 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "tradermonty",
+    "name": "claude-trading-skills",
+    "fullName": "tradermonty/claude-trading-skills",
+    "projectLink": "https://github.com/tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "stars": 6482,
+    "forks": 1359,
+    "deltaStars": 837,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "tradermonty",
+        "profile": "https://github.com/tradermonty"
+      },
+      {
+        "login": "raikkonenPotter",
+        "profile": "https://github.com/raikkonenPotter"
+      },
+      {
+        "login": "wolframarnold",
+        "profile": "https://github.com/wolframarnold"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tradermonty /\n\n claude-trading-skills\n\n Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\n\n Python\n\n 6,482\n\n 1,359\n\n Built by\n\n 837 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "elementalsouls",
+    "name": "Claude-BugHunter",
+    "fullName": "elementalsouls/Claude-BugHunter",
+    "projectLink": "https://github.com/elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructu...",
+    "language": "Python",
+    "stars": 7638,
+    "forks": 1185,
+    "deltaStars": 1094,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "injectifytest",
+        "profile": "https://github.com/injectifytest"
+      },
+      {
+        "login": "elementalsouls",
+        "profile": "https://github.com/elementalsouls"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n elementalsouls /\n\n Claude-BugHunter\n\n A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\n Python\n\n 7,638\n\n 1,185\n\n Built by\n\n 1,094 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "getarcaneapp",
+    "name": "arcane",
+    "fullName": "getarcaneapp/arcane",
+    "projectLink": "https://github.com/getarcaneapp/arcane",
+    "description": "Modern Docker Management, Designed for Everyone",
+    "language": "Go",
+    "stars": 8868,
+    "forks": 431,
+    "deltaStars": 46,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "kmendell",
+        "profile": "https://github.com/kmendell"
+      },
+      {
+        "login": "getarcaneappbot",
+        "profile": "https://github.com/getarcaneappbot"
+      },
+      {
+        "login": "cabaucom376",
+        "profile": "https://github.com/cabaucom376"
+      },
+      {
+        "login": "GiulioSavini",
+        "profile": "https://github.com/GiulioSavini"
+      }
+    ],
+    "trendingSnippet": "Star\n\n getarcaneapp /\n\n arcane\n\n Modern Docker Management, Designed for Everyone\n\n Go\n\n 8,868\n\n 431\n\n Built by\n\n 46 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "DeanChensj",
+    "name": "jiangshan-map",
+    "fullName": "DeanChensj/jiangshan-map",
+    "projectLink": "https://github.com/DeanChensj/jiangshan-map",
+    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+    "language": "JavaScript",
+    "stars": 7113,
+    "forks": 843,
+    "deltaStars": 288,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "DeanChensj",
+        "profile": "https://github.com/DeanChensj"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "xcv58",
+        "profile": "https://github.com/xcv58"
+      },
+      {
+        "login": "mathieuwang",
+        "profile": "https://github.com/mathieuwang"
+      },
+      {
+        "login": "zsc8917zsc",
+        "profile": "https://github.com/zsc8917zsc"
+      }
+    ],
+    "trendingSnippet": "Star\n\n DeanChensj /\n\n jiangshan-map\n\n 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes\n\n JavaScript\n\n 7,113\n\n 843\n\n Built by\n\n 288 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "google-labs-code",
+    "name": "stitch-skills",
+    "fullName": "google-labs-code/stitch-skills",
+    "projectLink": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars": 9805,
+    "forks": 1254,
+    "deltaStars": 529,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "JLXIA",
+        "profile": "https://github.com/JLXIA"
+      },
+      {
+        "login": "davideast",
+        "profile": "https://github.com/davideast"
+      },
+      {
+        "login": "Emp1500",
+        "profile": "https://github.com/Emp1500"
+      },
+      {
+        "login": "dalmaer",
+        "profile": "https://github.com/dalmaer"
+      },
+      {
+        "login": "meeChn",
+        "profile": "https://github.com/meeChn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-labs-code /\n\n stitch-skills\n\n A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\n TypeScript\n\n 9,805\n\n 1,254\n\n Built by\n\n 529 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "mvanhorn",
+    "name": "last30days-skill",
+    "fullName": "mvanhorn/last30days-skill",
+    "projectLink": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "stars": 68288,
+    "forks": 6058,
+    "deltaStars": 135,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      },
+      {
+        "login": "tmchow",
+        "profile": "https://github.com/tmchow"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "iliaal",
+        "profile": "https://github.com/iliaal"
+      }
+    ],
+    "trendingSnippet": "Star\n\n mvanhorn /\n\n last30days-skill\n\n AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\n Python\n\n 68,288\n\n 6,058\n\n Built by\n\n 135 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "NVIDIA",
+    "name": "SkillEvaluator",
+    "fullName": "NVIDIA/SkillEvaluator",
+    "projectLink": "https://github.com/NVIDIA/SkillEvaluator",
+    "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent...",
+    "language": "Python",
+    "stars": 2905,
+    "forks": 392,
+    "deltaStars": 873,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "rng1995",
+        "profile": "https://github.com/rng1995"
+      },
+      {
+        "login": "chrisknvidia",
+        "profile": "https://github.com/chrisknvidia"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "YMuskrat",
+        "profile": "https://github.com/YMuskrat"
+      },
+      {
+        "login": "kweinmeister",
+        "profile": "https://github.com/kweinmeister"
+      }
+    ],
+    "trendingSnippet": "Star\n\n NVIDIA /\n\n SkillEvaluator\n\n Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.\n\n Python\n\n 2,905\n\n 392\n\n Built by\n\n 873 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "alibaba",
+    "name": "open-code-review",
+    "fullName": "alibaba/open-code-review",
+    "projectLink": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, X...",
+    "language": "Go",
+    "stars": 53102,
+    "forks": 4326,
+    "deltaStars": 951,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "lizhengfeng101",
+        "profile": "https://github.com/lizhengfeng101"
+      },
+      {
+        "login": "wu21-web",
+        "profile": "https://github.com/wu21-web"
+      },
+      {
+        "login": "chethanuk",
+        "profile": "https://github.com/chethanuk"
+      },
+      {
+        "login": "Qiyuanqiii",
+        "profile": "https://github.com/Qiyuanqiii"
+      },
+      {
+        "login": "stay-foolish-forever",
+        "profile": "https://github.com/stay-foolish-forever"
+      }
+    ],
+    "trendingSnippet": "Star\n\n alibaba /\n\n open-code-review\n\n Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n Go\n\n 53,102\n\n 4,326\n\n Built by\n\n 951 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "google-research",
+    "name": "paper-orchestra",
+    "fullName": "google-research/paper-orchestra",
+    "projectLink": "https://github.com/google-research/paper-orchestra",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "language": "Python",
+    "stars": 1732,
+    "forks": 275,
+    "deltaStars": 313,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "yiwen-song",
+        "profile": "https://github.com/yiwen-song"
+      },
+      {
+        "login": "obrienciaran",
+        "profile": "https://github.com/obrienciaran"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-research /\n\n paper-orchestra\n\n PaperOrchestra is a multi-agent framework for automated AI research paper writing.\n\n Python\n\n 1,732\n\n 275\n\n Built by\n\n 313 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "ChromeDevTools",
+    "name": "chrome-devtools-mcp",
+    "fullName": "ChromeDevTools/chrome-devtools-mcp",
+    "projectLink": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": 57785,
+    "forks": 4856,
+    "deltaStars": 841,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "OrKoN",
+        "profile": "https://github.com/OrKoN"
+      },
+      {
+        "login": "Lightning00Blade",
+        "profile": "https://github.com/Lightning00Blade"
+      },
+      {
+        "login": "browser-automation-bot",
+        "profile": "https://github.com/browser-automation-bot"
+      },
+      {
+        "login": "yulunz",
+        "profile": "https://github.com/yulunz"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ChromeDevTools /\n\n chrome-devtools-mcp\n\n Chrome DevTools for coding agents\n\n TypeScript\n\n 57,785\n\n 4,856\n\n Built by\n\n 841 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 14,
+    "owner": "sveltejs",
+    "name": "svelte",
+    "fullName": "sveltejs/svelte",
+    "projectLink": "https://github.com/sveltejs/svelte",
+    "description": "web development for the rest of us",
+    "language": "JavaScript",
+    "stars": 89066,
+    "forks": 6114,
+    "deltaStars": 115,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "Rich-Harris",
+        "profile": "https://github.com/Rich-Harris"
+      },
+      {
+        "login": "dummdidumm",
+        "profile": "https://github.com/dummdidumm"
+      },
+      {
+        "login": "Conduitry",
+        "profile": "https://github.com/Conduitry"
+      },
+      {
+        "login": "trueadm",
+        "profile": "https://github.com/trueadm"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n sveltejs /\n\n svelte\n\n web development for the rest of us\n\n JavaScript\n\n 89,066\n\n 6,114\n\n Built by\n\n 115 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 15,
+    "owner": "kajisho5",
+    "name": "ffmpeg-skill",
+    "fullName": "kajisho5/ffmpeg-skill",
+    "projectLink": "https://github.com/kajisho5/ffmpeg-skill",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+    "language": "Python",
+    "stars": 7057,
+    "forks": 627,
+    "deltaStars": 367,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "kajisho5",
+        "profile": "https://github.com/kajisho5"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n kajisho5 /\n\n ffmpeg-skill\n\n Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.\n\n Python\n\n 7,057\n\n 627\n\n Built by\n\n 367 stars today"
+  }
+]
