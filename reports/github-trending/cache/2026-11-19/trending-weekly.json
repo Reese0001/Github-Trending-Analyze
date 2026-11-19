@@ -1,0 +1,525 @@
+[
+  {
+    "period": "weekly",
+    "rank": 1,
+    "owner": "GoogleChrome",
+    "name": "modern-web-guidance-src",
+    "fullName": "GoogleChrome/modern-web-guidance-src",
+    "projectLink": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "stars": 8893,
+    "forks": 742,
+    "deltaStars": 7257,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "paulirish",
+        "profile": "https://github.com/paulirish"
+      },
+      {
+        "login": "rviscomi",
+        "profile": "https://github.com/rviscomi"
+      },
+      {
+        "login": "micahjo7",
+        "profile": "https://github.com/micahjo7"
+      },
+      {
+        "login": "LeaVerou",
+        "profile": "https://github.com/LeaVerou"
+      }
+    ],
+    "trendingSnippet": "Star\n\n GoogleChrome /\n\n modern-web-guidance-src\n\n Keep your coding agent up to date with the latest web best practices\n\n TypeScript\n\n 8,893\n\n 742\n\n Built by\n\n 7,257 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 2,
+    "owner": "backnotprop",
+    "name": "plannotator",
+    "fullName": "backnotprop/plannotator",
+    "projectLink": "https://github.com/backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "stars": 13494,
+    "forks": 1359,
+    "deltaStars": 3290,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "backnotprop",
+        "profile": "https://github.com/backnotprop"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "utpalsinghdev",
+        "profile": "https://github.com/utpalsinghdev"
+      },
+      {
+        "login": "leoreisdias",
+        "profile": "https://github.com/leoreisdias"
+      }
+    ],
+    "trendingSnippet": "Star\n\n backnotprop /\n\n plannotator\n\n The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\n TypeScript\n\n 13,494\n\n 1,359\n\n Built by\n\n 3,290 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 3,
+    "owner": "meta",
+    "name": "astryx",
+    "fullName": "meta/astryx",
+    "projectLink": "https://github.com/meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 30642,
+    "forks": 2400,
+    "deltaStars": 6250,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "cixzhang",
+        "profile": "https://github.com/cixzhang"
+      },
+      {
+        "login": "josephfarina",
+        "profile": "https://github.com/josephfarina"
+      },
+      {
+        "login": "rubyycheung",
+        "profile": "https://github.com/rubyycheung"
+      },
+      {
+        "login": "vjeux",
+        "profile": "https://github.com/vjeux"
+      }
+    ],
+    "trendingSnippet": "Star\n\n meta /\n\n astryx\n\n An open source design system that's fully customizable and agent ready\n\n TypeScript\n\n 30,642\n\n 2,400\n\n Built by\n\n 6,250 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 4,
+    "owner": "we-promise",
+    "name": "sure",
+    "fullName": "we-promise/sure",
+    "projectLink": "https://github.com/we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars": 16529,
+    "forks": 1450,
+    "deltaStars": 3866,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jjmata",
+        "profile": "https://github.com/jjmata"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "zachgoll",
+        "profile": "https://github.com/zachgoll"
+      },
+      {
+        "login": "Shpigford",
+        "profile": "https://github.com/Shpigford"
+      }
+    ],
+    "trendingSnippet": "Star\n\n we-promise /\n\n sure\n\n The personal finance app for everyone (by everyone)\n\n Ruby\n\n 16,529\n\n 1,450\n\n Built by\n\n 3,866 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 5,
+    "owner": "alibaba",
+    "name": "open-code-review",
+    "fullName": "alibaba/open-code-review",
+    "projectLink": "https://github.com/alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, X...",
+    "language": "Go",
+    "stars": 54215,
+    "forks": 4486,
+    "deltaStars": 4383,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "lizhengfeng101",
+        "profile": "https://github.com/lizhengfeng101"
+      },
+      {
+        "login": "wu21-web",
+        "profile": "https://github.com/wu21-web"
+      },
+      {
+        "login": "chethanuk",
+        "profile": "https://github.com/chethanuk"
+      },
+      {
+        "login": "Qiyuanqiii",
+        "profile": "https://github.com/Qiyuanqiii"
+      },
+      {
+        "login": "stay-foolish-forever",
+        "profile": "https://github.com/stay-foolish-forever"
+      }
+    ],
+    "trendingSnippet": "Star\n\n alibaba /\n\n open-code-review\n\n Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\n\n Go\n\n 54,215\n\n 4,486\n\n Built by\n\n 4,383 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 6,
+    "owner": "google-labs-code",
+    "name": "stitch-skills",
+    "fullName": "google-labs-code/stitch-skills",
+    "projectLink": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars": 10462,
+    "forks": 1370,
+    "deltaStars": 1567,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "JLXIA",
+        "profile": "https://github.com/JLXIA"
+      },
+      {
+        "login": "davideast",
+        "profile": "https://github.com/davideast"
+      },
+      {
+        "login": "Emp1500",
+        "profile": "https://github.com/Emp1500"
+      },
+      {
+        "login": "dalmaer",
+        "profile": "https://github.com/dalmaer"
+      },
+      {
+        "login": "meeChn",
+        "profile": "https://github.com/meeChn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-labs-code /\n\n stitch-skills\n\n A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\n TypeScript\n\n 10,462\n\n 1,370\n\n Built by\n\n 1,567 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 7,
+    "owner": "tradermonty",
+    "name": "claude-trading-skills",
+    "fullName": "tradermonty/claude-trading-skills",
+    "projectLink": "https://github.com/tradermonty/claude-trading-skills",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "stars": 7101,
+    "forks": 1441,
+    "deltaStars": 3242,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "tradermonty",
+        "profile": "https://github.com/tradermonty"
+      },
+      {
+        "login": "raikkonenPotter",
+        "profile": "https://github.com/raikkonenPotter"
+      },
+      {
+        "login": "sx4im",
+        "profile": "https://github.com/sx4im"
+      }
+    ],
+    "trendingSnippet": "Star\n\n tradermonty /\n\n claude-trading-skills\n\n Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.\n\n Python\n\n 7,101\n\n 1,441\n\n Built by\n\n 3,242 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 8,
+    "owner": "ChromeDevTools",
+    "name": "chrome-devtools-mcp",
+    "fullName": "ChromeDevTools/chrome-devtools-mcp",
+    "projectLink": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": 58245,
+    "forks": 4878,
+    "deltaStars": 3143,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "OrKoN",
+        "profile": "https://github.com/OrKoN"
+      },
+      {
+        "login": "Lightning00Blade",
+        "profile": "https://github.com/Lightning00Blade"
+      },
+      {
+        "login": "browser-automation-bot",
+        "profile": "https://github.com/browser-automation-bot"
+      },
+      {
+        "login": "yulunz",
+        "profile": "https://github.com/yulunz"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ChromeDevTools /\n\n chrome-devtools-mcp\n\n Chrome DevTools for coding agents\n\n TypeScript\n\n 58,245\n\n 4,878\n\n Built by\n\n 3,143 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 9,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 197294,
+    "forks": 23106,
+    "deltaStars": 4381,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 197,294\n\n 23,106\n\n Built by\n\n 4,381 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 10,
+    "owner": "ZhuLinsen",
+    "name": "daily_stock_analysis",
+    "fullName": "ZhuLinsen/daily_stock_analysis",
+    "projectLink": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars": 73397,
+    "forks": 57913,
+    "deltaStars": 3566,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ZhuLinsen",
+        "profile": "https://github.com/ZhuLinsen"
+      },
+      {
+        "login": "massif-01",
+        "profile": "https://github.com/massif-01"
+      },
+      {
+        "login": "freesme",
+        "profile": "https://github.com/freesme"
+      },
+      {
+        "login": "Activer007",
+        "profile": "https://github.com/Activer007"
+      },
+      {
+        "login": "birdxs",
+        "profile": "https://github.com/birdxs"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n ZhuLinsen /\n\n daily_stock_analysis\n\n LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.\n\n Python\n\n 73,397\n\n 57,913\n\n Built by\n\n 3,566 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 11,
+    "owner": "mvanhorn",
+    "name": "last30days-skill",
+    "fullName": "mvanhorn/last30days-skill",
+    "projectLink": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "stars": 70176,
+    "forks": 6254,
+    "deltaStars": 2423,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      },
+      {
+        "login": "tmchow",
+        "profile": "https://github.com/tmchow"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "iliaal",
+        "profile": "https://github.com/iliaal"
+      }
+    ],
+    "trendingSnippet": "Star\n\n mvanhorn /\n\n last30days-skill\n\n AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\n Python\n\n 70,176\n\n 6,254\n\n Built by\n\n 2,423 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 12,
+    "owner": "ag-ui-protocol",
+    "name": "ag-ui",
+    "fullName": "ag-ui-protocol/ag-ui",
+    "projectLink": "https://github.com/ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "stars": 20480,
+    "forks": 2106,
+    "deltaStars": 3221,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ranst91",
+        "profile": "https://github.com/ranst91"
+      },
+      {
+        "login": "contextablemark",
+        "profile": "https://github.com/contextablemark"
+      },
+      {
+        "login": "mme",
+        "profile": "https://github.com/mme"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "jpr5",
+        "profile": "https://github.com/jpr5"
+      }
+    ],
+    "trendingSnippet": "Star\n\n ag-ui-protocol /\n\n ag-ui\n\n AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\n\n TypeScript\n\n 20,480\n\n 2,106\n\n Built by\n\n 3,221 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 13,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 52682,
+    "forks": 3688,
+    "deltaStars": 2987,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 52,682\n\n 3,688\n\n Built by\n\n 2,987 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 14,
+    "owner": "openai",
+    "name": "codex-security",
+    "fullName": "openai/codex-security",
+    "projectLink": "https://github.com/openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "stars": 14134,
+    "forks": 1103,
+    "deltaStars": 2630,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "mldangelo-oai",
+        "profile": "https://github.com/mldangelo-oai"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      },
+      {
+        "login": "ianw-oai",
+        "profile": "https://github.com/ianw-oai"
+      },
+      {
+        "login": "kmbroai",
+        "profile": "https://github.com/kmbroai"
+      }
+    ],
+    "trendingSnippet": "Star\n\n openai /\n\n codex-security\n\n OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security\n\n TypeScript\n\n 14,134\n\n 1,103\n\n Built by\n\n 2,630 stars this week"
+  },
+  {
+    "period": "weekly",
+    "rank": 15,
+    "owner": "dream-num",
+    "name": "univer",
+    "fullName": "dream-num/univer",
+    "projectLink": "https://github.com/dream-num/univer",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "stars": 29926,
+    "forks": 2708,
+    "deltaStars": 6840,
+    "deltaLabel": "本周新增",
+    "contributors": [
+      {
+        "login": "jikkai",
+        "profile": "https://github.com/jikkai"
+      },
+      {
+        "login": "DR-Univer",
+        "profile": "https://github.com/DR-Univer"
+      },
+      {
+        "login": "wpxp123456",
+        "profile": "https://github.com/wpxp123456"
+      },
+      {
+        "login": "wzhudev",
+        "profile": "https://github.com/wzhudev"
+      },
+      {
+        "login": "Dushusir",
+        "profile": "https://github.com/Dushusir"
+      }
+    ],
+    "trendingSnippet": "Star\n\n dream-num /\n\n univer\n\n Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.\n\n TypeScript\n\n 29,926\n\n 2,708\n\n Built by\n\n 6,840 stars this week"
+  }
+]
