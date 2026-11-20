@@ -1,0 +1,583 @@
+[
+  {
+    "period": "monthly",
+    "rank": 1,
+    "owner": "Nutlope",
+    "name": "hallmark",
+    "fullName": "Nutlope/hallmark",
+    "projectLink": "https://github.com/Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 58135,
+    "forks": 3166,
+    "deltaStars": 27756,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "Luffixos",
+        "profile": "https://github.com/Luffixos"
+      },
+      {
+        "login": "Nutlope",
+        "profile": "https://github.com/Nutlope"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "xunguangzlj-cloud",
+        "profile": "https://github.com/xunguangzlj-cloud"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Nutlope /\n\n hallmark\n\n Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n CSS\n\n 58,135\n\n 3,166\n\n Built by\n\n 27,756 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 2,
+    "owner": "cloudflare",
+    "name": "security-audit-skill",
+    "fullName": "cloudflare/security-audit-skill",
+    "projectLink": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 75909,
+    "forks": 5106,
+    "deltaStars": 44608,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "literally-dan",
+        "profile": "https://github.com/literally-dan"
+      },
+      {
+        "login": "CooperSheroy",
+        "profile": "https://github.com/CooperSheroy"
+      },
+      {
+        "login": "kennysarnoski-jarvis",
+        "profile": "https://github.com/kennysarnoski-jarvis"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cloudflare /\n\n security-audit-skill\n\n A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n JavaScript\n\n 75,909\n\n 5,106\n\n Built by\n\n 44,608 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 3,
+    "owner": "milind-soni",
+    "name": "OpenMausBot",
+    "fullName": "milind-soni/OpenMausBot",
+    "projectLink": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 25890,
+    "forks": 3679,
+    "deltaStars": 20640,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "milind-soni",
+        "profile": "https://github.com/milind-soni"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "AdityaUmale",
+        "profile": "https://github.com/AdityaUmale"
+      },
+      {
+        "login": "aivsomkar",
+        "profile": "https://github.com/aivsomkar"
+      },
+      {
+        "login": "robinsonnblack",
+        "profile": "https://github.com/robinsonnblack"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n milind-soni /\n\n OpenMausBot\n\n Open-source Grok Bot alternative with a virtual machine that bots can use\n\n TypeScript\n\n 25,890\n\n 3,679\n\n Built by\n\n 20,640 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 4,
+    "owner": "pingdotgg",
+    "name": "t3code",
+    "fullName": "pingdotgg/t3code",
+    "projectLink": "https://github.com/pingdotgg/t3code",
+    "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+    "language": "TypeScript",
+    "stars": 66631,
+    "forks": 11604,
+    "deltaStars": 37642,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "juliusmarminge",
+        "profile": "https://github.com/juliusmarminge"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "maria-rcks",
+        "profile": "https://github.com/maria-rcks"
+      },
+      {
+        "login": "t3dotgg",
+        "profile": "https://github.com/t3dotgg"
+      },
+      {
+        "login": "codex",
+        "profile": "https://github.com/codex"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pingdotgg /\n\n t3code\n\n The best way to control Claude Code, Codex and more from any computer or phone\n\n TypeScript\n\n 66,631\n\n 11,604\n\n Built by\n\n 37,642 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 5,
+    "owner": "anthropics",
+    "name": "skills",
+    "fullName": "anthropics/skills",
+    "projectLink": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 197763,
+    "forks": 23170,
+    "deltaStars": 16003,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "rlancemartin",
+        "profile": "https://github.com/rlancemartin"
+      },
+      {
+        "login": "klazuka",
+        "profile": "https://github.com/klazuka"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "cj-ant",
+        "profile": "https://github.com/cj-ant"
+      },
+      {
+        "login": "ericharmeling",
+        "profile": "https://github.com/ericharmeling"
+      }
+    ],
+    "trendingSnippet": "Star\n\n anthropics /\n\n skills\n\n Public repository for Agent Skills\n\n Python\n\n 197,763\n\n 23,170\n\n Built by\n\n 16,003 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 6,
+    "owner": "thedotmack",
+    "name": "claude-mem",
+    "fullName": "thedotmack/claude-mem",
+    "projectLink": "https://github.com/thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+    "language": "TypeScript",
+    "stars": 118480,
+    "forks": 10310,
+    "deltaStars": 17313,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "thedotmack",
+        "profile": "https://github.com/thedotmack"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Afloat16",
+        "profile": "https://github.com/Afloat16"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n thedotmack /\n\n claude-mem\n\n Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More\n\n TypeScript\n\n 118,480\n\n 10,310\n\n Built by\n\n 17,313 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 7,
+    "owner": "Jakeschincariol",
+    "name": "instagram-agent-skill",
+    "fullName": "Jakeschincariol/instagram-agent-skill",
+    "projectLink": "https://github.com/Jakeschincariol/instagram-agent-skill",
+    "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+    "language": "Python",
+    "stars": 7416,
+    "forks": 1421,
+    "deltaStars": 5322,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Jakeschincariol",
+        "profile": "https://github.com/Jakeschincariol"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Jakeschincariol /\n\n instagram-agent-skill\n\n Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.\n\n Python\n\n 7,416\n\n 1,421\n\n Built by\n\n 5,322 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 8,
+    "owner": "backnotprop",
+    "name": "plannotator",
+    "fullName": "backnotprop/plannotator",
+    "projectLink": "https://github.com/backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "stars": 13709,
+    "forks": 1387,
+    "deltaStars": 4143,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "backnotprop",
+        "profile": "https://github.com/backnotprop"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "utpalsinghdev",
+        "profile": "https://github.com/utpalsinghdev"
+      },
+      {
+        "login": "leoreisdias",
+        "profile": "https://github.com/leoreisdias"
+      }
+    ],
+    "trendingSnippet": "Star\n\n backnotprop /\n\n plannotator\n\n The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.\n\n TypeScript\n\n 13,709\n\n 1,387\n\n Built by\n\n 4,143 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 9,
+    "owner": "HKUDS",
+    "name": "DeepTutor",
+    "fullName": "HKUDS/DeepTutor",
+    "projectLink": "https://github.com/HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+    "language": "Python",
+    "stars": 60869,
+    "forks": 7366,
+    "deltaStars": 19312,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "pancacake",
+        "profile": "https://github.com/pancacake"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "evan188199-tech",
+        "profile": "https://github.com/evan188199-tech"
+      },
+      {
+        "login": "Pinkllow",
+        "profile": "https://github.com/Pinkllow"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n DeepTutor\n\n DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .\n\n Python\n\n 60,869\n\n 7,366\n\n Built by\n\n 19,312 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 10,
+    "owner": "pbakaus",
+    "name": "impeccable",
+    "fullName": "pbakaus/impeccable",
+    "projectLink": "https://github.com/pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "stars": 113566,
+    "forks": 6768,
+    "deltaStars": 30843,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "pbakaus",
+        "profile": "https://github.com/pbakaus"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "abdulwahabone",
+        "profile": "https://github.com/abdulwahabone"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n pbakaus /\n\n impeccable\n\n The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\n Rust\n\n 113,566\n\n 6,768\n\n Built by\n\n 30,843 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 11,
+    "owner": "sherlock-project",
+    "name": "sherlock",
+    "fullName": "sherlock-project/sherlock",
+    "projectLink": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 114683,
+    "forks": 13164,
+    "deltaStars": 20350,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "sdushantha",
+        "profile": "https://github.com/sdushantha"
+      },
+      {
+        "login": "hoadlck",
+        "profile": "https://github.com/hoadlck"
+      },
+      {
+        "login": "ppfeister",
+        "profile": "https://github.com/ppfeister"
+      },
+      {
+        "login": "TheYahya",
+        "profile": "https://github.com/TheYahya"
+      },
+      {
+        "login": "Czechball",
+        "profile": "https://github.com/Czechball"
+      }
+    ],
+    "trendingSnippet": "Star\n\n sherlock-project /\n\n sherlock\n\n Hunt down social media accounts by username across social networks\n\n Python\n\n 114,683\n\n 13,164\n\n Built by\n\n 20,350 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 12,
+    "owner": "AgriciDaniel",
+    "name": "claude-seo",
+    "fullName": "AgriciDaniel/claude-seo",
+    "projectLink": "https://github.com/AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, i...",
+    "language": "Python",
+    "stars": 30982,
+    "forks": 3849,
+    "deltaStars": 11706,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "AgriciDaniel",
+        "profile": "https://github.com/AgriciDaniel"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "Afloat16",
+        "profile": "https://github.com/Afloat16"
+      },
+      {
+        "login": "Nordalux",
+        "profile": "https://github.com/Nordalux"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Star\n\n AgriciDaniel /\n\n claude-seo\n\n Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.\n\n Python\n\n 30,982\n\n 3,849\n\n Built by\n\n 11,706 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 13,
+    "owner": "google-labs-code",
+    "name": "stitch-skills",
+    "fullName": "google-labs-code/stitch-skills",
+    "projectLink": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars": 10782,
+    "forks": 1389,
+    "deltaStars": 2107,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "JLXIA",
+        "profile": "https://github.com/JLXIA"
+      },
+      {
+        "login": "davideast",
+        "profile": "https://github.com/davideast"
+      },
+      {
+        "login": "Emp1500",
+        "profile": "https://github.com/Emp1500"
+      },
+      {
+        "login": "dalmaer",
+        "profile": "https://github.com/dalmaer"
+      },
+      {
+        "login": "meeChn",
+        "profile": "https://github.com/meeChn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-labs-code /\n\n stitch-skills\n\n A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\n TypeScript\n\n 10,782\n\n 1,389\n\n Built by\n\n 2,107 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 14,
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "fullName": "heygen-com/hyperframes",
+    "projectLink": "https://github.com/heygen-com/hyperframes",
+    "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+    "language": "TypeScript",
+    "stars": 87105,
+    "forks": 8103,
+    "deltaStars": 20032,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "miguel-heygen",
+        "profile": "https://github.com/miguel-heygen"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "vanceingalls",
+        "profile": "https://github.com/vanceingalls"
+      },
+      {
+        "login": "jrusso1020",
+        "profile": "https://github.com/jrusso1020"
+      },
+      {
+        "login": "ukimsanov",
+        "profile": "https://github.com/ukimsanov"
+      }
+    ],
+    "trendingSnippet": "Star\n\n heygen-com /\n\n hyperframes\n\n AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.\n\n TypeScript\n\n 87,105\n\n 8,103\n\n Built by\n\n 20,032 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 15,
+    "owner": "elementalsouls",
+    "name": "Claude-BugHunter",
+    "fullName": "elementalsouls/Claude-BugHunter",
+    "projectLink": "https://github.com/elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructu...",
+    "language": "Python",
+    "stars": 12775,
+    "forks": 1610,
+    "deltaStars": 6708,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "injectifytest",
+        "profile": "https://github.com/injectifytest"
+      },
+      {
+        "login": "elementalsouls",
+        "profile": "https://github.com/elementalsouls"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n elementalsouls /\n\n Claude-BugHunter\n\n A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\n Python\n\n 12,775\n\n 1,610\n\n Built by\n\n 6,708 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 16,
+    "owner": "kajisho5",
+    "name": "ffmpeg-skill",
+    "fullName": "kajisho5/ffmpeg-skill",
+    "projectLink": "https://github.com/kajisho5/ffmpeg-skill",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+    "language": "Python",
+    "stars": 8438,
+    "forks": 785,
+    "deltaStars": 6206,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "kajisho5",
+        "profile": "https://github.com/kajisho5"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n kajisho5 /\n\n ffmpeg-skill\n\n Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.\n\n Python\n\n 8,438\n\n 785\n\n Built by\n\n 6,206 stars this month"
+  },
+  {
+    "period": "monthly",
+    "rank": 17,
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "fullName": "vercel-labs/agent-browser",
+    "projectLink": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 52913,
+    "forks": 3702,
+    "deltaStars": 8717,
+    "deltaLabel": "本月新增",
+    "contributors": [
+      {
+        "login": "ctate",
+        "profile": "https://github.com/ctate"
+      },
+      {
+        "login": "Railly",
+        "profile": "https://github.com/Railly"
+      },
+      {
+        "login": "lahfir",
+        "profile": "https://github.com/lahfir"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n vercel-labs /\n\n agent-browser\n\n Browser automation CLI for AI agents\n\n Rust\n\n 52,913\n\n 3,702\n\n Built by\n\n 8,717 stars this month"
+  }
+]
