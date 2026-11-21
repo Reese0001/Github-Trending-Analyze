@@ -1,0 +1,566 @@
+[
+  {
+    "period": "daily",
+    "rank": 1,
+    "owner": "elementalsouls",
+    "name": "Claude-BugHunter",
+    "fullName": "elementalsouls/Claude-BugHunter",
+    "projectLink": "https://github.com/elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructu...",
+    "language": "Python",
+    "stars": 14515,
+    "forks": 1710,
+    "deltaStars": 1622,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "injectifytest",
+        "profile": "https://github.com/injectifytest"
+      },
+      {
+        "login": "elementalsouls",
+        "profile": "https://github.com/elementalsouls"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n elementalsouls /\n\n Claude-BugHunter\n\n A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.\n\n Python\n\n 14,515\n\n 1,710\n\n Built by\n\n 1,622 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 2,
+    "owner": "obra",
+    "name": "superpowers",
+    "fullName": "obra/superpowers",
+    "projectLink": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 322940,
+    "forks": 28675,
+    "deltaStars": 890,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "obra",
+        "profile": "https://github.com/obra"
+      },
+      {
+        "login": "arittr",
+        "profile": "https://github.com/arittr"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "clkao",
+        "profile": "https://github.com/clkao"
+      },
+      {
+        "login": "arimu1",
+        "profile": "https://github.com/arimu1"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n obra /\n\n superpowers\n\n An agentic skills framework & software development methodology that works.\n\n Shell\n\n 322,940\n\n 28,675\n\n Built by\n\n 890 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 3,
+    "owner": "HKUDS",
+    "name": "CLI-Anything",
+    "fullName": "HKUDS/CLI-Anything",
+    "projectLink": "https://github.com/HKUDS/CLI-Anything",
+    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "language": "Python",
+    "stars": 61483,
+    "forks": 5577,
+    "deltaStars": 773,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "yuh-yang",
+        "profile": "https://github.com/yuh-yang"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "AiMiDi",
+        "profile": "https://github.com/AiMiDi"
+      },
+      {
+        "login": "omerarslan0",
+        "profile": "https://github.com/omerarslan0"
+      },
+      {
+        "login": "hito0512",
+        "profile": "https://github.com/hito0512"
+      }
+    ],
+    "trendingSnippet": "Star\n\n HKUDS /\n\n CLI-Anything\n\n \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\n Python\n\n 61,483\n\n 5,577\n\n Built by\n\n 773 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 4,
+    "owner": "jingyaogong",
+    "name": "minimind",
+    "fullName": "jingyaogong/minimind",
+    "projectLink": "https://github.com/jingyaogong/minimind",
+    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+    "language": "Python",
+    "stars": 67758,
+    "forks": 8859,
+    "deltaStars": 847,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "jingyaogong",
+        "profile": "https://github.com/jingyaogong"
+      },
+      {
+        "login": "iomgaa-ycz",
+        "profile": "https://github.com/iomgaa-ycz"
+      },
+      {
+        "login": "Linxiushen",
+        "profile": "https://github.com/Linxiushen"
+      },
+      {
+        "login": "basil-k-aji-dev",
+        "profile": "https://github.com/basil-k-aji-dev"
+      },
+      {
+        "login": "readlnh",
+        "profile": "https://github.com/readlnh"
+      }
+    ],
+    "trendingSnippet": "Star\n\n jingyaogong /\n\n minimind\n\n 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\n Python\n\n 67,758\n\n 8,859\n\n Built by\n\n 847 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 5,
+    "owner": "cursor",
+    "name": "plugins",
+    "fullName": "cursor/plugins",
+    "projectLink": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 17886,
+    "forks": 1960,
+    "deltaStars": 299,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "poteto",
+        "profile": "https://github.com/poteto"
+      },
+      {
+        "login": "djiang-jq",
+        "profile": "https://github.com/djiang-jq"
+      },
+      {
+        "login": "minupalaniappan",
+        "profile": "https://github.com/minupalaniappan"
+      },
+      {
+        "login": "ericzakariasson",
+        "profile": "https://github.com/ericzakariasson"
+      }
+    ],
+    "trendingSnippet": "Star\n\n cursor /\n\n plugins\n\n Cursor plugin specification and official plugins\n\n TypeScript\n\n 17,886\n\n 1,960\n\n Built by\n\n 299 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 6,
+    "owner": "firecrawl",
+    "name": "firecrawl",
+    "fullName": "firecrawl/firecrawl",
+    "projectLink": "https://github.com/firecrawl/firecrawl",
+    "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+    "language": "TypeScript",
+    "stars": 205413,
+    "forks": 10742,
+    "deltaStars": 1241,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "nickscamara",
+        "profile": "https://github.com/nickscamara"
+      },
+      {
+        "login": "mogery",
+        "profile": "https://github.com/mogery"
+      },
+      {
+        "login": "rafaelsideguide",
+        "profile": "https://github.com/rafaelsideguide"
+      },
+      {
+        "login": "abimaelmartell",
+        "profile": "https://github.com/abimaelmartell"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      }
+    ],
+    "trendingSnippet": "Star\n\n firecrawl /\n\n firecrawl\n\n Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.\n\n TypeScript\n\n 205,413\n\n 10,742\n\n Built by\n\n 1,241 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 7,
+    "owner": "nginx",
+    "name": "nginx",
+    "fullName": "nginx/nginx",
+    "projectLink": "https://github.com/nginx/nginx",
+    "description": "The official NGINX Open Source repository.",
+    "language": "C",
+    "stars": 32600,
+    "forks": 8367,
+    "deltaStars": 246,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mdounin",
+        "profile": "https://github.com/mdounin"
+      },
+      {
+        "login": "arut",
+        "profile": "https://github.com/arut"
+      },
+      {
+        "login": "vl-homutov",
+        "profile": "https://github.com/vl-homutov"
+      },
+      {
+        "login": "VBart",
+        "profile": "https://github.com/VBart"
+      },
+      {
+        "login": "pluknet",
+        "profile": "https://github.com/pluknet"
+      }
+    ],
+    "trendingSnippet": "Star\n\n nginx /\n\n nginx\n\n The official NGINX Open Source repository.\n\n C\n\n 32,600\n\n 8,367\n\n Built by\n\n 246 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 8,
+    "owner": "openvinotoolkit",
+    "name": "openvino",
+    "fullName": "openvinotoolkit/openvino",
+    "projectLink": "https://github.com/openvinotoolkit/openvino",
+    "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "language": "C++",
+    "stars": 11815,
+    "forks": 3639,
+    "deltaStars": 217,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "ilya-lavrenov",
+        "profile": "https://github.com/ilya-lavrenov"
+      },
+      {
+        "login": "rkazants",
+        "profile": "https://github.com/rkazants"
+      },
+      {
+        "login": "ilyachur",
+        "profile": "https://github.com/ilyachur"
+      },
+      {
+        "login": "mvafin",
+        "profile": "https://github.com/mvafin"
+      }
+    ],
+    "trendingSnippet": "Star\n\n openvinotoolkit /\n\n openvino\n\n OpenVINO™ is an open source toolkit for optimizing and deploying AI inference\n\n C++\n\n 11,815\n\n 3,639\n\n Built by\n\n 217 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 9,
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "fullName": "cathrynlavery/diagram-design",
+    "projectLink": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 69362,
+    "forks": 4653,
+    "deltaStars": 636,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "cathrynlavery",
+        "profile": "https://github.com/cathrynlavery"
+      },
+      {
+        "login": "rudycelekli",
+        "profile": "https://github.com/rudycelekli"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n cathrynlavery /\n\n diagram-design\n\n Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\n\n HTML\n\n 69,362\n\n 4,653\n\n Built by\n\n 636 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 10,
+    "owner": "mvanhorn",
+    "name": "last30days-skill",
+    "fullName": "mvanhorn/last30days-skill",
+    "projectLink": "https://github.com/mvanhorn/last30days-skill",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "stars": 71521,
+    "forks": 6342,
+    "deltaStars": 681,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mvanhorn",
+        "profile": "https://github.com/mvanhorn"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "tmchow",
+        "profile": "https://github.com/tmchow"
+      },
+      {
+        "login": "iliaal",
+        "profile": "https://github.com/iliaal"
+      }
+    ],
+    "trendingSnippet": "Star\n\n mvanhorn /\n\n last30days-skill\n\n AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\n\n Python\n\n 71,521\n\n 6,342\n\n Built by\n\n 681 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 11,
+    "owner": "google-labs-code",
+    "name": "stitch-skills",
+    "fullName": "google-labs-code/stitch-skills",
+    "projectLink": "https://github.com/google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars": 11094,
+    "forks": 1413,
+    "deltaStars": 315,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "JLXIA",
+        "profile": "https://github.com/JLXIA"
+      },
+      {
+        "login": "davideast",
+        "profile": "https://github.com/davideast"
+      },
+      {
+        "login": "Emp1500",
+        "profile": "https://github.com/Emp1500"
+      },
+      {
+        "login": "dalmaer",
+        "profile": "https://github.com/dalmaer"
+      },
+      {
+        "login": "meeChn",
+        "profile": "https://github.com/meeChn"
+      }
+    ],
+    "trendingSnippet": "Star\n\n google-labs-code /\n\n stitch-skills\n\n A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.\n\n TypeScript\n\n 11,094\n\n 1,413\n\n Built by\n\n 315 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 12,
+    "owner": "mjmirza",
+    "name": "app-store-compliance",
+    "fullName": "mjmirza/app-store-compliance",
+    "projectLink": "https://github.com/mjmirza/app-store-compliance",
+    "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA...",
+    "language": "Shell",
+    "stars": 2833,
+    "forks": 179,
+    "deltaStars": 869,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "mjmirza",
+        "profile": "https://github.com/mjmirza"
+      },
+      {
+        "login": "omaralbeik",
+        "profile": "https://github.com/omaralbeik"
+      },
+      {
+        "login": "akash5852",
+        "profile": "https://github.com/akash5852"
+      },
+      {
+        "login": "userInDev",
+        "profile": "https://github.com/userInDev"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n mjmirza /\n\n app-store-compliance\n\n Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.\n\n Shell\n\n 2,833\n\n 179\n\n Built by\n\n 869 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 13,
+    "owner": "Tracer-Cloud",
+    "name": "opensre",
+    "fullName": "Tracer-Cloud/opensre",
+    "projectLink": "https://github.com/Tracer-Cloud/opensre",
+    "description": "The open-source agent for CI/CD reliability.",
+    "language": "Python",
+    "stars": 13679,
+    "forks": 1927,
+    "deltaStars": 466,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "davincios",
+        "profile": "https://github.com/davincios"
+      },
+      {
+        "login": "VaibhavUpreti",
+        "profile": "https://github.com/VaibhavUpreti"
+      },
+      {
+        "login": "muddlebee",
+        "profile": "https://github.com/muddlebee"
+      },
+      {
+        "login": "YauhenBichel",
+        "profile": "https://github.com/YauhenBichel"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      }
+    ],
+    "trendingSnippet": "Star\n\n Tracer-Cloud /\n\n opensre\n\n The open-source agent for CI/CD reliability.\n\n Python\n\n 13,679\n\n 1,927\n\n Built by\n\n 466 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 14,
+    "owner": "toeverything",
+    "name": "AFFiNE",
+    "fullName": "toeverything/AFFiNE",
+    "projectLink": "https://github.com/toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "stars": 75881,
+    "forks": 5582,
+    "deltaStars": 676,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "darkskygit",
+        "profile": "https://github.com/darkskygit"
+      },
+      {
+        "login": "pengx17",
+        "profile": "https://github.com/pengx17"
+      },
+      {
+        "login": "JimmFly",
+        "profile": "https://github.com/JimmFly"
+      },
+      {
+        "login": "EYHN",
+        "profile": "https://github.com/EYHN"
+      }
+    ],
+    "trendingSnippet": "Sponsor\n\n Star\n\n toeverything /\n\n AFFiNE\n\n There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.\n\n TypeScript\n\n 75,881\n\n 5,582\n\n Built by\n\n 676 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 15,
+    "owner": "XiaoYouChR",
+    "name": "Ghost-Downloader-3",
+    "fullName": "XiaoYouChR/Ghost-Downloader-3",
+    "projectLink": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "description": "The only downloader you need. 下载器的集大成者。",
+    "language": "Python",
+    "stars": 13843,
+    "forks": 843,
+    "deltaStars": 1082,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "XiaoYouChR",
+        "profile": "https://github.com/XiaoYouChR"
+      },
+      {
+        "login": "i0ntempest",
+        "profile": "https://github.com/i0ntempest"
+      },
+      {
+        "login": "Alpha-Qian",
+        "profile": "https://github.com/Alpha-Qian"
+      },
+      {
+        "login": "LittleNightSong",
+        "profile": "https://github.com/LittleNightSong"
+      }
+    ],
+    "trendingSnippet": "Star\n\n XiaoYouChR /\n\n Ghost-Downloader-3\n\n The only downloader you need. 下载器的集大成者。\n\n Python\n\n 13,843\n\n 843\n\n Built by\n\n 1,082 stars today"
+  },
+  {
+    "period": "daily",
+    "rank": 16,
+    "owner": "zhouxiaoka",
+    "name": "autoclip",
+    "fullName": "zhouxiaoka/autoclip",
+    "projectLink": "https://github.com/zhouxiaoka/autoclip",
+    "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+    "language": "Python",
+    "stars": 12288,
+    "forks": 2022,
+    "deltaStars": 979,
+    "deltaLabel": "今日新增",
+    "contributors": [
+      {
+        "login": "zhouxiaoka",
+        "profile": "https://github.com/zhouxiaoka"
+      },
+      {
+        "login": "cursoragent",
+        "profile": "https://github.com/cursoragent"
+      },
+      {
+        "login": "claude",
+        "profile": "https://github.com/claude"
+      },
+      {
+        "login": "mitsa-ng",
+        "profile": "https://github.com/mitsa-ng"
+      },
+      {
+        "login": "charlie",
+        "profile": "https://github.com/charlie"
+      }
+    ],
+    "trendingSnippet": "Star\n\n zhouxiaoka /\n\n autoclip\n\n AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.\n\n Python\n\n 12,288\n\n 2,022\n\n Built by\n\n 979 stars today"
+  }
+]
